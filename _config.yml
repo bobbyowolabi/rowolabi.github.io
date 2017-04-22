@@ -1,3 +1,45 @@
+<<<<<<< HEAD
+# Site settings
+title: Bobby Owolabi | Software Engineer
+description: "The Blog of Bobby Owolabi, Software Engineer"
+url: "https://rowolabi.github.io"
+author:
+  name: "Bobby Owolabi"
+  email: "bobbyowolabi@gmail.com"
+  url: "https://rowolabi.github.io"
+encoding: UTF-8
+
+# Build settings
+baseurl: /  # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 5
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+=======
 ---
 title: Rowolabi.Github.Io
 timezone: UTC
@@ -8,3 +50,4 @@ collections:
   uploads:
     title: Uploads
     output: true
+>>>>>>> a69b7f14fd0469beb7837828443c4670fa6fac40
