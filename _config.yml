@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Site settings
 title: Bobby Owolabi | Software Engineer
 description: "The Blog of Bobby Owolabi, Software Engineer"
@@ -39,15 +38,3 @@ version: "1.0.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
-=======
----
-title: Rowolabi.Github.Io
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
->>>>>>> a69b7f14fd0469beb7837828443c4670fa6fac40
