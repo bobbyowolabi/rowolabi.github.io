@@ -4,7 +4,7 @@ description: This is my first blog post!  In this post, I use Sam Newsome's conc
 header: On Channeling Your Inner Genius
 ---
 
-Often times a barrier to starting a blog, or any public undertaking, is the thinking that one has nothing to say.  Or rather, ‘what I have to say isn’t deep enough.’  The truth of the matter is that we all have strengths; we tend to trivialize and take them for granted.
+Often times a barrier to starting a blog, or any public undertaking, is thinking that one has nothing to say.  Or rather, ‘what I have to say isn’t deep enough.’  The truth of the matter is that we all have strengths; we tend to trivialize and take them for granted.
 
 Sam Newsome, a soprano saxophonist [[0]](#0-note), describes these strengths as our [natural genius zone][1-link].  As he puts it:
 
