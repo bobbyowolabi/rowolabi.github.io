@@ -6,9 +6,9 @@ header: On Channeling Your Inner Genius
 
 Often times a barrier to starting a blog, or any public undertaking, is the thinking that one has nothing to say.  Or rather, ‘what I have to say isn’t deep enough.’  The truth of the matter is that we all have strengths; we tend to trivialize and take them for granted.
 
-Sam Newsome, a soprano saxophonist [[0]](#0), describes these strengths as our [natural genius zone][1].  As he puts it:
+Sam Newsome, a soprano saxophonist [[0]](#0-note), describes these strengths as our [natural genius zone][1-link].  As he puts it:
 
-> “This is an ability to do or understand something that you seem to be able to do better than most--that thing which feels very natural. Simply put, this is an ability that seems too easy.” [[1]](#1)
+> “This is an ability to do or understand something that you seem to be able to do better than most--that thing which feels very natural. Simply put, this is an ability that seems too easy.” [[1]](#1-citation)
 
 We all have a natural genius zone.
 
@@ -35,10 +35,10 @@ That’s why comparing ourselves to others can be detrimental.  When we observe 
 
 This brings me to precisely the purpose of this site … to realize and explore my own genius zone.
 
-[<a name="0">0</a>] Sam Newsome is an exclusive soprano saxophonist.  Most woodwind players have a “main instrument” for example the alto or tenor saxophone and play the soprano sax on the side.  It isn’t common for a musician to solely play the soprano sax.  Sam Newsome made that decision on <fill in the blank] date.
+[<a name="0-note">0</a>] Sam Newsome is an exclusive soprano saxophonist.  Most woodwind players have a “main instrument”, for example the alto or tenor saxophone and play the soprano sax on the side.  It isn’t common for a musician to solely play the soprano sax.  Sam Newsome made that decision on [fill in the blank date][cite].
 
-[1]: http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html
-[<a name="1">1</a>] Newsome, Sam. "Channeling Your Natural Genius Zone." Blog post. Soprano Sax Talk. 29 Sept. 2016. Web. 3 Apr. 2017. <http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html>. 
+[1-link]: http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html
+[<a name="1-citation">1</a>] Newsome, Sam. "Channeling Your Natural Genius Zone." Blog post. Soprano Sax Talk. 29 Sept. 2016. Web. 3 Apr. 2017. <http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html>. 
 
 [2] “The Clean Coder: a Code of Conduct for Professional Programmers”, by Robert C. Martin. Chapter 1 Professionalism.
 Context: 
