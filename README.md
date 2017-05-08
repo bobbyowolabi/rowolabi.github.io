@@ -25,9 +25,17 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    *Inline:* `Using comments in the body of your code should be avoided; only comment your public interfaces. [[id]](#id-note)`
    
    *End of File:* `[<a name="id-note">id</a>] This is a subject that people often disagree on ...`
+
+1. **Use Anchors to Provide Citations**
+
+   Provide citation of sources such as blog posts, videos, articles, etc.
    
-updated inline links; came up with convention id#-citation|link|note. I define all the links at the bottom of the page using the convention id#-link. This allows me to simply put [link-text][id#-link] in the body of the post and not have any URLs appear in the body of the post markdown. 
+   *Blog Post Citation Format:*
+   `Last Name, First Name. Title Medium Type. Title of Blog. Publish Date. Web. Access Date. URL`
 
-
+   *Inline:* `The author states that test driven development is the only approach that guarantees a comprehensive test suite [[id]](#id-citation)`
+   
+   *End of File:* `[<a name="id-citation">id</a>] Doe, John. "Thoughts on Testings." Blog post. The Blog of John. 29 Sept. 2016. Web. 3 Apr. 2017. <http://theblogofjohhn.com/2016/09/thoughts-on-testing.html>.` 
+   
 ## License
 Released under [MIT License](license.md).
