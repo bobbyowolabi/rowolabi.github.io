@@ -4,11 +4,11 @@ description: This is my first blog post!  In this post, I use Sam Newsome's conc
 header: On Channeling Your Inner Genius
 ---
 
-Often times a barrier to starting a blog, or any public undertaking, is thinking that you don’t have anything to say.  Or rather, ‘what I have to say isn’t deep enough.’  The truth of the matter is that we all have strengths; we tend to trivialize and take them for granted.
+Often times a barrier to starting a blog, or any public undertaking, is the thinking that one has nothing to say.  Or rather, ‘what I have to say isn’t deep enough.’  The truth of the matter is that we all have strengths; we tend to trivialize and take them for granted.
 
-Sam Newsome, a soprano saxophonist [0], describes these strengths as our natural genius zone [1].  As he puts it:
+Sam Newsome, a soprano saxophonist [[0]](#0), describes these strengths as our natural genius zone [[1]](#1).  As he puts it:
 
-“This is an ability to do or understand something that you seem to be able to do better than most--that thing which feels very natural. Simply put, this is an ability that seems too easy.” 1
+> “This is an ability to do or understand something that you seem to be able to do better than most--that thing which feels very natural. Simply put, this is an ability that seems too easy.” [[1]](#1)
 
 We all have a natural genius zone.
 
@@ -35,22 +35,32 @@ That’s why comparing ourselves to others can be detrimental.  When we observe 
 
 This brings me to precisely the purpose of this site … to realize and explore my own genius zone.
 
-[0] an exclusive soprano saxophonist.  Most woodwind players have a “main instrument” for example the alto or tenor saxophone and they play the soprano sax as a side instrument.  It isn’t common for a musician to solely play the soprano sax.  Sam Newsome made that decision on x date.
-[1] Same Newsome, “Channeling Your Natural Genius Zone”, Thursday, September 29, 2016, Originally accessed in 2016, revisited and cited, Apr 3, 2017, http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html
-Background: who he is
-Context the context of the quotation, summary of the article
+[<a name="0">0</a>] Sam Newsome is an exclusive soprano saxophonist.  Most woodwind players have a “main instrument” for example the alto or tenor saxophone and play the soprano sax on the side.  It isn’t common for a musician to solely play the soprano sax.  Sam Newsome made that decision on <fill in the blank] date.
+
+[<a name="1">1</a>] Newsome, Sam. "Channeling Your Natural Genius Zone." Blog post. Soprano Sax Talk. 29 Sept. 2016. Web. 3 Apr. 2017. <http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html>. 
+
 [2] “The Clean Coder: a Code of Conduct for Professional Programmers”, by Robert C. Martin. Chapter 1 Professionalism.
 Context: 
+
 [3] http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
+
 [4] http://blog.cleancoder.com/uncle-bob/2017/03/16/DrCalvin.html
 Explain his conclusion.
+
 [5] https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+
 [6] http://blog.cleancoder.com/assets/DrCalvin/boochtweet.jpg <Replace with real tweet>
+
 [7]  (essentially being that of a finite state machine(FSM))
+
 [8] Dijkstra became a proponent in: https://en.wikipedia.org/wiki/Structured_program_theorem#Implications_and_refinements
 http://condor.depaul.edu/sjost/it236/documents/structured.htm
 https://en.wikipedia.org/wiki/Structured_programming
+
 [9] goto considered dangerous: http://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html
+
 [10] describe the parallel
+
 [11] “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.”[http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404]
+
 [12] Don’t diminish his work, he even said in an interview that he believes in hardwork over talent, a post in itself, http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404
