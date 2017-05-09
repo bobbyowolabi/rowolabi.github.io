@@ -28,11 +28,11 @@ I think of Hakim El Hattab and his fantastic collection of front-end projects an
 I think of Makinde Adeagbo, founder of [/dev/color][devcolor], formerly of facebook, pinterest and dropbox.  [/dev/color][devcolor] is a non profit organization whose mission is to support black engineers in the software industry.  It was accepted into Y Combinator, a competitive, influential startup incubator in Silicon Valley, which is a big deal [[5]](#5-citation).  When you are a respected engineer in silicon valley (showing up in a code.org [video][code.org-video] with Bill Gates, Mark Zuckerberg and will.i.am) but you expend your energy working on a problem of social importance and urgency in the tech industry … genius zone.
 
 
-[Ge Wang][wang-site]
-I think of Ge Wang, professor at Stanford University.  While at Duke University, he considered studying music but his father encouraged him to do something more practical [[6]](#6-citation).  He studied computer science and took as many music courses as he could [[6]](#6-citation).  Once he figured out how to merge his two interests, the rest was history. He studied at Princeton and created a programming language, [ChucK], designed for the creation of sound, for his [dissertation][wang-thesis].  He co-founded a successful start up [smule] and amongst many, many things, cleverly turned the the iPhone into an actual flutes of sorts through an app Ocarina, that utilized its microphone and accelerometer [[6]](#6-citation)[[7]](#7-citation).  He started an innovative experimental performance group [the Stanford Laptop Orchestra][slork].  Successfully combining his interests of music and computer science into a very successful career … genius zone.
+[Ge Wang][wang-site]  
+I think of Ge Wang, professor at Stanford University.  While studying at Duke University, he considered studying music but his father encouraged him to do something more practical [[6]](#6-citation).  He studied computer science and took as many music courses as he could [[6]](#6-citation).  Once he figured out how to merge his two interests, the rest was history. He moved on to study at Princeton and created a programming language, [ChucK], designed for the creation of sound, for his [dissertation][wang-thesis].  He co-founded a successful start up [smule] and amongst many, many things, cleverly turned the the iPhone into a flute of sorts through an app called [Ocarina] (Yes, like that [Ocarina][zelda]), that utilized its microphone and accelerometer [[6]](#6-citation)[[7]](#7-citation).  He started an innovative experimental performance group [the Stanford Laptop Orchestra][slork].  Successfully combining his interests of music and computer science into a very successful career … genius zone.
 
 
-## The Irony of the Inner Genius Zone  
+## The Irony of the Genius Zone  
 Newsome explains an irony of operating in one’s genius zone in that since we operate from this state with such ease, we can be deceived into thinking that what we produce from this space has no merit.  
 
 That’s why comparing ourselves to others can be detrimental.  When we observe others operating from their genius zone, we should choose to react positively with admiration,  motivation and curiosity rather than intimidation and self-doubt.  We are all created uniquely and that is something to embrace.
@@ -79,6 +79,8 @@ This brings me to precisely the purpose of this site … to realize and explore 
 [ChucK]: http://chuck.stanford.edu/
 [wang-thesis]: http://www.cs.princeton.edu/~gewang/thesis.html
 [slork]: http://slork.stanford.edu/
+[Ocarina]: https://www.smule.com/apps#ocarina-video-popup
+[zelda]: https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time
 [6-link]: http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man  
 [<a name="6-citation">6</a>] Perry, Tekla S. ["Ge Wang: The iPhone's Music Man"][6-link]. Web Article. IEEE Spectrum. 1 Sep 2009. Accessed 10 April 2017.
 
