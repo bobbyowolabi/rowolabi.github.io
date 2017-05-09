@@ -21,11 +21,11 @@ I was struck at how Martin naturally cited materials and concepts from the 1930s
 
 
 [Hakim El Hattab][hattab-blog]  
-I think of Hakim El Hattab and his fantastic collection of front-end projects and demos.  His demos have been served to hundreds of millions of visitors (especially his famous [sketch-toy] app)[[11]](#). means that I’m not the only one who thinks so [11].  His output is the result of hard work not just talent [12] One of his projects, reveal.js [http://lab.hakim.se/reveal-js/#/] turned out to be the foundation of his now full-time venture [https://slides.com/].  Pushing the envelop of what can be accomplished in front-end development and presenting great experimental demos … genius zone.
+I think of Hakim El Hattab and his fantastic collection of front-end projects and demos.  His demos have been served to hundreds of millions of visitors (especially his famous [sketch-toy] app)[[4]](#4-citation)[[4a]](#4a-note).  His output is the result of hard work [[4b]](#4b-note); this is something we can loose sight of when we are only viewing the end result and not the process / journey that it took to get there.  One of his projects, [reveal.js][reveal] turned into the foundation of his now full-time venture [slides] … genius zone.
   
   
-[Makinde Adeagbo](http://makinde.adeagbo.com/)  
-I think of Makinde Adeagbo​ [http://makinde.adeagbo.com/], founder of /dev/color [https://www.devcolor.org/], formerly of facebook, pinterest and dropbox.  /dev/color is a non profit organization whose mission is to support black engineers in the software industry.  It was accepted into Y Combinator, a competitive, influential startup incubator in Silicon Valley, which is a big deal.  When you are a respected engineer in silicon valley (showing up in a code.org video with Bill Gates, Mark Zuckerberg and will.i.am) but you expend your energy working on a problem of social importance and urgency in the tech industry … genius zone.
+[Makinde Adeagbo][adeagbo-site]  
+I think of Makinde Adeagbo, founder of [/dev/color][devcolor], formerly of facebook, pinterest and dropbox.  [/dev/color][devcolor] is a non profit organization whose mission is to support black engineers in the software industry.  It was accepted into Y Combinator, a competitive, influential startup incubator in Silicon Valley, which is a big deal.  When you are a respected engineer in silicon valley (showing up in a code.org video with Bill Gates, Mark Zuckerberg and will.i.am) but you expend your energy working on a problem of social importance and urgency in the tech industry … genius zone.
 https://www.youtube.com/watch?v=nKIu9yen5nc
 https://www.usatoday.com/story/tech/news/2016/02/25/makinde-adeagbo-devcolor-y-combinator-diversity-silicon-valley/80931448/
   
@@ -36,7 +36,7 @@ http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
 http://www.gf.org/fellows/all-fellows/ge-wang/
 http://www.nytimes.com/2011/11/27/magazine/smule.html
   
-  
+## The Irony of the Inner Genius Zone  
 Newsome explains an irony of operating in one’s genius zone in that since we operate from this state with such ease, we can be deceived into thinking that what we produce from this space has no merit.  
 
 That’s why comparing ourselves to others can be detrimental.  When we observe others operating from their genius zone, we should choose to react positively with admiration,  motivation and curiosity rather than intimidation and self-doubt.  We are all created uniquely and that is something to embrace.
@@ -62,9 +62,17 @@ This brings me to precisely the purpose of this site … to realize and explore 
 
 [hattab-blog]: http://hakim.se/
 [sketch-toy]: http://sketchtoy.com/  
-[4] Quote: “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.” [http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404]
+[reveal]: http://lab.hakim.se/reveal-js
+[slides]: https://slides.com/
+[4-link]: http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404
+[<a name="4-citation">4</a>] Creative Bloq Staff. "Hakim El Hattab discusses the interactive and unexpected". Web Interview. Creative Bloq. 21 April 2014. Web. 12 April 2017. <http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404>
+[<a name="4a-note">4a</a>] Quote from [interview][4-link]: “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.”
+[<a name="4b-note">4b</a>] When responding to the question ["Are you self taught?"][4-link], Hattab talked about his schooling and experimentation through tiral and error.  He mentions that he painstakingly went through the Action Script 2.0 dictionary "page-by-page, line-byline, property-by-property. Every so often, I stopped to try out the exciting new discoveries. Over the course of that year I rebuilt my portfolio site six times to make use of what I had learned during the prior iteration. Evidently, I'm a believer in hard work over talent." ... hardwork over talent ... a post in itself.
+
+[adeagbo-site]: http://makinde.adeagbo.com/
+[devcolor]: https://www.devcolor.org/
+[devcolor-news-story]: https://www.usatoday.com/story/tech/news/2016/02/25/makinde-adeagbo-devcolor-y-combinator-diversity-silicon-valley/80931448/
+[code.org-video]: https://www.youtube.com/watch?v=nKIu9yen5nc
+[<a name="5-citation">5</a>] Guynn, Jessica. "Y Combinator accepts first tech diversity non-profit". Web Article. USA Today. Published 25 Feb. 2016. Accessed 11 April 2017. <https://www.usatoday.com/story/tech/news/2016/02/25/makinde-adeagbo-devcolor-y-combinator-diversity-silicon-valley/80931448/>
 
 [3a] http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
-
-
-[12] Don’t diminish his work, he even said in an interview that he believes in hardwork over talent, a post in itself, http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404
