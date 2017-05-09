@@ -21,21 +21,17 @@ I was struck at how Martin naturally cited materials and concepts from the 1930s
 
 
 [Hakim El Hattab][hattab-blog]  
-I think of Hakim El Hattab and his fantastic collection of front-end projects and demos.  His demos have been served to hundreds of millions of visitors (especially his famous [sketch-toy] app)[[4a]](#4a-note).  His output is the result of hard work [[4b]](#4b-note); this is something we can loose sight of when we are only viewing the end result and not the process / journey that it took to get there.  One of his projects, [reveal.js][reveal] turned into the foundation of his now full-time venture [slides] … genius zone.
+I think of Hakim El Hattab and his fantastic collection of front-end projects and demos.  His demos have been served to hundreds of millions of visitors (especially his famous [sketch-toy] app)[[4a]](#4a-note).  His output is the result of hard work [[4b]](#4b-note); this is something we can loose sight of when we are only viewing the end result and not the process it took to get there.  One of his projects, [reveal.js][reveal] turned into the foundation of his now full-time venture [slides].  Pushing the envelope of what can be accomplished in front end development and presenting great demos and projects … genius zone.
   
   
 [Makinde Adeagbo][adeagbo-site]  
-I think of Makinde Adeagbo, founder of [/dev/color][devcolor], formerly of facebook, pinterest and dropbox.  [/dev/color][devcolor] is a non profit organization whose mission is to support black engineers in the software industry.  It was accepted into Y Combinator, a competitive, influential startup incubator in Silicon Valley, which is a big deal.  When you are a respected engineer in silicon valley (showing up in a code.org video with Bill Gates, Mark Zuckerberg and will.i.am) but you expend your energy working on a problem of social importance and urgency in the tech industry … genius zone.
-https://www.youtube.com/watch?v=nKIu9yen5nc
-https://www.usatoday.com/story/tech/news/2016/02/25/makinde-adeagbo-devcolor-y-combinator-diversity-silicon-valley/80931448/
-  
-  
-[Ge Wang](http://www.gewang.com/)  
-I think of Ge Wang [http://www.gewang.com/], professor at Stanford University.  While at Duke University, he considered studying music but his father encouraged him to do something more practical3.  He studied computer science and took as many music courses as he could3.  Once he figured out how to merge his two interests[cite], the rest was history. He studied at Princeton and created a programming language, ChucK, designed for the creation of sound for his dissertation[link].  He co-founded a successful start up smule [https://www.smule.com/] and amongst many, many things, cleverly turned the the iPhone into an actual actual flutes of sorts through an app Ocarina, that utilized its microphone and accelerometer.  He started an innovative experimental performance group the laptop orchestra.  Successfully combining his interests of music and computer science into a very successful career … genius zone.
-http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
-http://www.gf.org/fellows/all-fellows/ge-wang/
-http://www.nytimes.com/2011/11/27/magazine/smule.html
-  
+I think of Makinde Adeagbo, founder of [/dev/color][devcolor], formerly of facebook, pinterest and dropbox.  [/dev/color][devcolor] is a non profit organization whose mission is to support black engineers in the software industry.  It was accepted into Y Combinator, a competitive, influential startup incubator in Silicon Valley, which is a big deal [[5]](#5-citation).  When you are a respected engineer in silicon valley (showing up in a code.org [video][code.org-video] with Bill Gates, Mark Zuckerberg and will.i.am) but you expend your energy working on a problem of social importance and urgency in the tech industry … genius zone.
+
+
+[Ge Wang][wang-site]
+I think of Ge Wang, professor at Stanford University.  While at Duke University, he considered studying music but his father encouraged him to do something more practical [[6]](#6-citation).  He studied computer science and took as many music courses as he could [[6]](#6-citation).  Once he figured out how to merge his two interests, the rest was history. He studied at Princeton and created a programming language, [ChucK], designed for the creation of sound, for his [dissertation][wang-thesis].  He co-founded a successful start up [smule] and amongst many, many things, cleverly turned the the iPhone into an actual flutes of sorts through an app Ocarina, that utilized its microphone and accelerometer [[6]](#6-citation)[[7]](#7-citation).  He started an innovative experimental performance group [the Stanford Laptop Orchestra][slork].  Successfully combining his interests of music and computer science into a very successful career … genius zone.
+
+
 ## The Irony of the Inner Genius Zone  
 Newsome explains an irony of operating in one’s genius zone in that since we operate from this state with such ease, we can be deceived into thinking that what we produce from this space has no merit.  
 
@@ -47,7 +43,7 @@ This brings me to precisely the purpose of this site … to realize and explore 
  ### Notes 
 [<a name="0-note">0</a>] Sam Newsome is an exclusive soprano saxophonist.  This is notable because it is more common for woodwind players have a “main instrument”; such as, the alto or tenor saxophone and relegate the soprano saxophone as a “side instrument”.  Newsome has been [concentrating solely on the soprano since 1995](https://en.wikipedia.org/wiki/Sam_Newsome).
 
-[1-link]: http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html
+[1-link]: http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html  
 [<a name="1-citation">1</a>] Newsome, Sam. ["Channeling Your Natural Genius Zone."][1-link] Blog post. Soprano Sax Talk. 29 Sept. 2016. Accessed. 3 Apr. 2017. 
 
 [martin-blog]: http://blog.cleancoder.com/
@@ -67,9 +63,9 @@ This brings me to precisely the purpose of this site … to realize and explore 
 
 [<a name="4-citation">4</a>] Creative Bloq Staff. ["Hakim El Hattab discusses the interactive and unexpected"][4-link]. Web Interview. Creative Bloq. 21 April 2014. Accessed. 12 April 2017.  
 
-[<a name="4a-note">4a</a>] Quote from [interview][4-link][[4]](#4-citation): “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.”  
+[<a name="4a-note">4a</a>] Quote from [interview][4-link] [[4]](#4-citation): “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.”  
 
-[<a name="4b-note">4b</a>] When responding to the question ["Are you self taught?"][4-link][[4]](#4-citation), Hattab talked about his schooling and experimentation through tiral and error.  He mentions that he painstakingly went through the Action Script 2.0 dictionary "page-by-page, line-byline, property-by-property. Every so often, I stopped to try out the exciting new discoveries. Over the course of that year I rebuilt my portfolio site six times to make use of what I had learned during the prior iteration. Evidently, I'm a believer in hard work over talent." ... hardwork over talent ... a post in itself.  
+[<a name="4b-note">4b</a>] When responding to the question ["Are you self taught?"][4-link] [[4]](#4-citation), Hattab talked about his schooling and experimentation through tiral and error.  He mentions that he painstakingly went through the Action Script 2.0 dictionary "page-by-page, line-byline, property-by-property. Every so often, I stopped to try out the exciting new discoveries. Over the course of that year I rebuilt my portfolio site six times to make use of what I had learned during the prior iteration. Evidently, I'm a believer in hard work over talent." ... hardwork over talent ... a post in itself.  
 
 [adeagbo-site]: http://makinde.adeagbo.com/
 [devcolor]: https://www.devcolor.org/
@@ -77,4 +73,14 @@ This brings me to precisely the purpose of this site … to realize and explore 
 [code.org-video]: https://www.youtube.com/watch?v=nKIu9yen5nc  
 [<a name="5-citation">5</a>] Guynn, Jessica. ["Y Combinator accepts first tech diversity non-profit"][devcolor-news-story]. Web Article. USA Today. 25 Feb. 2016. Accessed 11 April 2017.
 
-[3a] http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
+[wang-site]: http://www.gewang.com/
+[smule]: https://www.smule.com/
+[wang-jsg-fellow]: http://www.gf.org/fellows/all-fellows/ge-wang/
+[ChucK]: http://chuck.stanford.edu/
+[wang-thesis]: http://www.cs.princeton.edu/~gewang/thesis.html
+[slork]: http://slork.stanford.edu/
+[6-link]: http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man  
+[<a name="6-citation">6</a>] Perry, Tekla S. ["Ge Wang: The iPhone's Music Man"][6-link]. Web Article. IEEE Spectrum. 1 Sep 2009. Accessed 10 April 2017.
+
+[7-link]: http://www.nytimes.com/2011/11/27/magazine/smule.html  
+[<a name="7-citation">7</a>] Walker, Rob. ["The Machine That Makes You Musical"][7-link]. Web Article. The New York Times. 23 Nov. 2011. Accessed 10 April 2017.
