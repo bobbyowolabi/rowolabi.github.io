@@ -52,10 +52,10 @@ This brings me to precisely the purpose of this site … to realize and explore 
 [<a name="1-citation">1</a>] Newsome, Sam. "Channeling Your Natural Genius Zone." Blog post. Soprano Sax Talk. 29 Sept. 2016. Web. 3 Apr. 2017. <http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html>. 
 
 [martin-blog]: http://blog.cleancoder.com/
-[2-link]: http://blog.cleancoder.com/uncle-bob/2017/03/16/DrCalvin.html  
-[2-link-booch]: http://blog.cleancoder.com/assets/DrCalvin/boochtweet.jpg
-[2-link-article]: https://theoutline.com/post/1228/when-machines-go-rogue
-[2-link-turing]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+[2-link]: http://blog.cleancoder.com/uncle-bob/2017/03/16/DrCalvin.html  
+[2-link-booch]: http://blog.cleancoder.com/assets/DrCalvin/boochtweet.jpg  
+[2-link-article]: https://theoutline.com/post/1228/when-machines-go-rogue  
+[2-link-turing]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf  
 [<a name="2-citation">2</a>] Martin, Robert, C. "Is Dr. Calvin in the Room?" Blog post. The Clean Code Blog. 16 March 2017. Web. 29 Mar. 2017. <http://blog.cleancoder.com/uncle-bob/2017/03/16/DrCalvin.html>. 
 
 [<a name="3-note">3</a>] Martin references "the language of Dijkstra: Sequence, Selection, and Iteration." [[2]](#2-citation). The following links were helped me with understanding this reference: [goto considered dangerous](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html); [wikipedia-Structured program theorem](https://en.wikipedia.org/wiki/Structured_program_theorem#Implications_and_refinements); [Professor Steve D. Jost's IT 236 course page on structured programming](http://condor.depaul.edu/sjost/it236/documents/structured.htm)
@@ -65,14 +65,14 @@ This brings me to precisely the purpose of this site … to realize and explore 
 [reveal]: http://lab.hakim.se/reveal-js
 [slides]: https://slides.com/
 [4-link]: http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404
-[<a name="4-citation">4</a>] Creative Bloq Staff. "Hakim El Hattab discusses the interactive and unexpected". Web Interview. Creative Bloq. 21 April 2014. Web. 12 April 2017. <http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404>
+[<a name="4-citation">4</a>] Creative Bloq Staff. ["Hakim El Hattab discusses the interactive and unexpected"][4-link]. Web Interview. Creative Bloq. 21 April 2014. Web. 12 April 2017.
 [<a name="4a-note">4a</a>] Quote from [interview][4-link]: “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.”
 [<a name="4b-note">4b</a>] When responding to the question ["Are you self taught?"][4-link], Hattab talked about his schooling and experimentation through tiral and error.  He mentions that he painstakingly went through the Action Script 2.0 dictionary "page-by-page, line-byline, property-by-property. Every so often, I stopped to try out the exciting new discoveries. Over the course of that year I rebuilt my portfolio site six times to make use of what I had learned during the prior iteration. Evidently, I'm a believer in hard work over talent." ... hardwork over talent ... a post in itself.
 
 [adeagbo-site]: http://makinde.adeagbo.com/
 [devcolor]: https://www.devcolor.org/
 [devcolor-news-story]: https://www.usatoday.com/story/tech/news/2016/02/25/makinde-adeagbo-devcolor-y-combinator-diversity-silicon-valley/80931448/
-[code.org-video]: https://www.youtube.com/watch?v=nKIu9yen5nc
-[<a name="5-citation">5</a>] Guynn, Jessica. "Y Combinator accepts first tech diversity non-profit". Web Article. USA Today. Published 25 Feb. 2016. Accessed 11 April 2017. <https://www.usatoday.com/story/tech/news/2016/02/25/makinde-adeagbo-devcolor-y-combinator-diversity-silicon-valley/80931448/>
+[code.org-video]: https://www.youtube.com/watch?v=nKIu9yen5nc  
+[<a name="5-citation">5</a>] Guynn, Jessica. ["Y Combinator accepts first tech diversity non-profit"][devcolor-news-story]. Web Article. USA Today. Published 25 Feb. 2016. Accessed 11 April 2017.
 
 [3a] http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
