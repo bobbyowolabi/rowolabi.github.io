@@ -14,14 +14,14 @@ We all have a natural genius zone.
 
 Though Newsome describes this from the context of musical exploration, I feel it has wide applicability.  
 
-[Robert C. Martin](http://blog.cleancoder.com/)  
+[Robert C. Martin][martin-blog]
 I think of Robert C. Martin’s deep sense of computer science knowledge and history.  In a recent [post] [2-link], he explores the question “Is the training of a neural net a kind of programming?”[[2]](#2-citation)  His self reflection was prompted by [a question][2-link-booch] Grady Booch posed about “how the presence of neural networks impact the dev lifecycle” (in light of an [article][2-link-article] illustrating how difficult they seem to formalize and get a handle on).  Martin first approaches the problem with the implied premise that development cycles (planning, estimating, developing, etc) are implemented around programming software.  If the training of a neural network is a type of programming, then that could provide some insight into if it is even applicable to the dev cycle.  Martin goes on to cite [Alan Turing’s 1936 paper][2-link-turing] to establish the definition of computer programming.  He also nods to Edsger Dijkstra's conception of structured programming [[3]](#3-note).   
 
 I was struck at how Martin naturally cited materials and concepts from the 1930s and 1960s.  His knack for reaching to the past to put things in their proper context is something I’ve observed in his writing and is not so common in my opinion … genius zone.
 
 
-[Hakim El Hattab](http://hakim.se/)  
-I think of Hakim El Hattab and his fantastic collection of front-end projects and demos.  [http://hakim.se/].  The way he presents his portfolio on his site is really great.  The fact that his demos have been served to hundreds of millions of visitors means that I’m not the only one who thinks so [11].  His output is the result of hard work not just talent [12] One of his projects, reveal.js [http://lab.hakim.se/reveal-js/#/] turned out to be the foundation of his now full-time venture [https://slides.com/].  Pushing the envelop of what can be accomplished in front-end development and presenting great experimental demos … genius zone.
+[Hakim El Hattab][hattab-blog]  
+I think of Hakim El Hattab and his fantastic collection of front-end projects and demos.  His demos have been served to hundreds of millions of visitors (especially his famous [sketch-toy] app)[[11]](#). means that I’m not the only one who thinks so [11].  His output is the result of hard work not just talent [12] One of his projects, reveal.js [http://lab.hakim.se/reveal-js/#/] turned out to be the foundation of his now full-time venture [https://slides.com/].  Pushing the envelop of what can be accomplished in front-end development and presenting great experimental demos … genius zone.
   
   
 [Makinde Adeagbo](http://makinde.adeagbo.com/)  
@@ -51,7 +51,8 @@ This brings me to precisely the purpose of this site … to realize and explore 
 [1-link]: http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html
 [<a name="1-citation">1</a>] Newsome, Sam. "Channeling Your Natural Genius Zone." Blog post. Soprano Sax Talk. 29 Sept. 2016. Web. 3 Apr. 2017. <http://sopranosaxtalk.blogspot.com/2016/09/channeling-your-natural-genius-zone.html>. 
 
-[2-link]: http://blog.cleancoder.com/uncle-bob/2017/03/16/DrCalvin.html  
+[martin-blog]: http://blog.cleancoder.com/
+[2-link]: http://blog.cleancoder.com/uncle-bob/2017/03/16/DrCalvin.html  
 [2-link-booch]: http://blog.cleancoder.com/assets/DrCalvin/boochtweet.jpg
 [2-link-article]: https://theoutline.com/post/1228/when-machines-go-rogue
 [2-link-turing]: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
@@ -59,8 +60,11 @@ This brings me to precisely the purpose of this site … to realize and explore 
 
 [<a name="3-note">3</a>] Martin references "the language of Dijkstra: Sequence, Selection, and Iteration." [[2]](#2-citation). The following links were helped me with understanding this reference: [goto considered dangerous](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD02xx/EWD215.html); [wikipedia-Structured program theorem](https://en.wikipedia.org/wiki/Structured_program_theorem#Implications_and_refinements); [Professor Steve D. Jost's IT 236 course page on structured programming](http://condor.depaul.edu/sjost/it236/documents/structured.htm)
 
-[3] http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
+[hattab-blog]: http://hakim.se/
+[sketch-toy]: http://sketchtoy.com/  
+[4] Quote: “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.” [http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404]
 
-[11] “To appreciate his influence, in all, his experiments have been served to over 140m people around the globe.”[http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404]
+[3a] http://spectrum.ieee.org/geek-life/profiles/ge-wang-the-iphones-music-man
+
 
 [12] Don’t diminish his work, he even said in an interview that he believes in hardwork over talent, a post in itself, http://www.creativebloq.com/netmag/hakim-el-hattab-discusses-interactive-and-unexpected-41411404
