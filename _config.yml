@@ -1,11 +1,11 @@
 # Site settings
 title: Bobby Owolabi | Software Engineer
 description: "The Blog of Bobby Owolabi, Software Engineer"
-url: "https://rowolabi.github.io"
+url: "http:www.bobbyowolabi.com"
 author:
   name: "Bobby Owolabi"
   email: "bobbyowolabi@gmail.com"
-  url: "https://rowolabi.github.io"
+  url: "http://www.bobbyowolabi.com"
 encoding: UTF-8
 
 # Build settings
