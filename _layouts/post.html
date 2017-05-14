@@ -7,7 +7,9 @@ layout: default
 	<div class="content">
 
 		{{ content }}
-		
+		{% if page.comments %}
+                   {% include comments.html %}
+                {% endif %}
 	</div>
 </article>
 
