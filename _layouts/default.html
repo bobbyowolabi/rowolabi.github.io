@@ -1,34 +1,21 @@
 <!DOCTYPE html>
 <html>
-
-{% include head.html %}
-
-<body>
-	<div id="wrap">
-	  	
-	  	<!-- Navigation -->
-	  	{% include menu.html %}
-    
-    <!-- Icon menu -->
-	  <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
-	  	<div id="menu"></div>
-	  </a>
-
-      <!-- Header -->
+   {% include head.html %}
+   <body>
+      <div id="wrap">
+         {% include menu.html %}
+         <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
+         <div id="menu"></div>
+      </a>
       {% if site.custom_header == true %}
-        {% include header-custom.html %}
+         {% include header-custom.html %}
       {% else %}
-        {% include header.html %}
+         {% include header.html %}
       {% endif %}
-
-    <!-- Main content -->
-	  <div id="container">
-		  
-		<main>
-
-			{{ content }}
-
-	  </main>
+      <div id="container">
+         <main>
+            {{ content }}
+         </main>
 		
 		  <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}
