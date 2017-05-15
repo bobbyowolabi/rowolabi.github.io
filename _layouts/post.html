@@ -3,7 +3,10 @@ layout: default
 ---
 <article id="post-page">
 	<h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>		
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }} {% if page.comments %}
+  |  <a href="{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.id }}" class="comment-count">Comments</a>
+{% endif %}</time>
+
 	<div class="content">
 
 		{{ content }}
