@@ -1,6 +1,7 @@
 ---
 title: Code Smell: Comments & Whitespace
-description: 
+description: In this post, I write about how learning to favor refactoring over the usage of whitespace & comments has greatly improved my craft.  I use an example of how I leanred something in music that transformed my craft in a siimilar way.
+header: Coe Smell: Comments & Whitespace
 comments: true
 ---
 
