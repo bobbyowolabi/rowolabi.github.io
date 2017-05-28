@@ -34,11 +34,11 @@ I used to write so many comments.  I'd comment both public and private interface
 [embouchure]: https://en.wikipedia.org/wiki/Embouchure
 [mouthpiece]: https://en.wikipedia.org/wiki/Mouthpiece_(woodwind) 
 
-[<a name="note-1">1</a>] Fourth grade was the first year students were eligible for the instrumental music program in my elementary school. 
+[<a name="1-note">1</a>] Fourth grade was the first year students were eligible for the instrumental music program in my elementary school. 
 
-[<a name="note-2">2</a>] The first time I received music lessons. 
+[<a name="2-note">2</a>] The first time I received music lessons. 
 
-[<a name="citation-3">3</a>] Wikipedia contributors. ["Band-in-a-Box."][band-in-a-box-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 19 May. 2017. Web. 25 May. 2017. 
+[<a name="3-citation">3</a>] Wikipedia contributors. ["Band-in-a-Box."][band-in-a-box-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 19 May. 2017. Web. 25 May. 2017. 
 
 [<a name="4-note">4</a>] Gary Bartz - quote concerning if someone teaches you one thing, they have done their job.
 
