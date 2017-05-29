@@ -32,19 +32,22 @@ I used to write so many comments.  I'd comment both public and private interface
 [chromatic-scale]: https://en.wikipedia.org/wiki/Chromatic_scale
 [code-smell]: https://en.wikipedia.org/wiki/Code_smell
 [embouchure]: https://en.wikipedia.org/wiki/Embouchure
+[gary-bartz]: http://web.archive.org/web/20130604124040/http://garybartz.com/
+[gary-bartz-quote]: http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
 [mouthpiece]: https://en.wikipedia.org/wiki/Mouthpiece_(woodwind) 
 
-[<a name="1-note">1</a>] Fourth grade was the first year students were eligible for the instrumental music program in my elementary school. 
+[<a name="1-note">1</a>] Fourth grade was the first year students were eligible for the instrumental music program in my elementary school.
 
 [<a name="2-note">2</a>] The first time I received music lessons. 
 
 [<a name="3-citation">3</a>] Wikipedia contributors. ["Band-in-a-Box."][band-in-a-box-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 19 May. 2017. Web. 25 May. 2017. 
 
-[<a name="4-note">4</a>] Gary Bartz - quote concerning if someone teaches you one thing, they have done their job.
+[<a name="4-citation">4</a>]
+
+[<a name="4-note">4a</a>] Gary Bartz - quote concerning if someone teaches you one thing, they have done their job; http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
 
 [<a name="5-note">5</a>] I continued playing on and off through my adult years.  Whenever I received compliment, it was never, “you have good chops”, or anything about my technical proficiency / musical ideas.  It was always “you have a really good tone”.  What Mr. Fogleman showed me that day is to thank for that.  When I would receive this compliment, I used to feel bad.  I always felt like I got this compliment because I was so deficient in the other areas of my playing and I hadn’t put in the necessary time to grow in the other areas.  But hey, it's never too late to improve :-)
 
 [<a name="6-note">6</a>]  
-
 
 There are always exceptions to rule, but generally following guidelines  I came this principle and it changed the way I code.  Sometimes there are lessons in life or in aqcuiring a craft that are paradigm changing. <Write about embrasure adjustment from Robert Fogleman> Write about how I used to secretly go back and admire code I’d written.  I always tried to use the least amount of code possible that still was readable. Describe how I use to code and use comments. W Code Smells: Whitespace & Comments Yegor - his post that put me on to this Robert Martin - the boy scout rule There was a recent post I came across where Martin concedes this is not always possiblehttp://blog.cleancoder.com/uncle-bob/2017/02/23/NecessaryComments.html
