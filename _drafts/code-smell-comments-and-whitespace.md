@@ -1,5 +1,7 @@
 ---
-published: false
+title: Code Smell Comments & Whitespace
+description: 
+comments: true
 ---
 
 Sometimes there is a lesson, exercise or some concept that you learn that just catapults your development forward.  It could be a small thing … something not so obviously influential; but once you absorb it, your craft just moves forward.
