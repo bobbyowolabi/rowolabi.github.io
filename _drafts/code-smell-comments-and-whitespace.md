@@ -1,6 +1,6 @@
 ---
-title: Code Smell Comments & Whitespace
-description: 
+title: Mouthpieces, Comments & Whitespace
+description: In this post I explore the concept of learning seemingly  basic lessons that catapult one's developement in their craft.   
 comments: true
 ---
 
