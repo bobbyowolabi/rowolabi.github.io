@@ -16,15 +16,17 @@ So what happened?  Was there something magical about making buzzing sounds with
 ### Software Catapult
 Similar to the musical experience I had as a teenager, I learned a principle that moved my software craft & style forward.
 
-I've always prided myself with writing clean, clear code.  I love the feeling when a design feels just "right".  Sometimes when I've written what I deemed to be "my best work" at the moment, I randomly would secretly go back and just read through and admire it.  It's always been my goal that if anyone ever had to maintain code I've written, it would be easy and painless for them to get up to speed on it.  I always tried to use the least amount of code possible that still was readable.
+I've always prided myself with writing clean, clear code.  I love the feeling when a design feels just "right".  Sometimes when I've written what I deemed to be "my best work" at the moment, I randomly would secretly go back from time to time and just read through and admire it.  It's always been my goal that if anyone ever had to maintain code I've written, it would be easy and painless for them to get up to speed on it.  I always tried to use the least amount of code possible that still was readable.
+
+These are good goals, but were my habits the most effective way to achieve them?
 
 #### Comments
 In an attempt to be sympathetic to future maintainers, I used to write a lot of comments.  If there was a loop ... comment.  If there was a block of code ... comment.  I would comment/document all public and private methods.
 
 #### Whitespace
-For the sake of being able to quickly see the high level steps in a block of logic, I would use whitespace to separate expressions into groups.  If I had to loop through a collection of elements ... proceeding whitespace.  If I needed to perform conditional logic ... proceeding whitespace.  If I had a series of operations to perform on a variable ... whitespace.  
+For the sake of being able to quickly see the high level steps in a block of logic, I would use whitespace to separate expressions into groups.  If I had to loop through a collection of elements ... proceeding whitespace.  If I needed to perform conditional logic ... proceeding whitespace.  If I had a series of expressions performing operations on a variable ... proceeding whitespace.  
 
-Below is code I actually wrote during my first computer science course in college [[6]](#6-note):
+Below is code I actually wrote during my first computer science course in college [[6]](#6-note).  It actually exhibits some of the aforementioned things:
 
 {% highlight java linenos %}
 public Hangman(String[] words) {
@@ -53,10 +55,8 @@ private String RandomWord(){
 }
 {% endhighlight %}
 
-  
-
 #### Code Smell: Whitespace & Comments
-
+I started to change my thinking on these things some time ago 
 
 ### Notes
 [band-in-a-box]: http://www.pgmusic.com/
@@ -70,6 +70,7 @@ private String RandomWord(){
 [gary-bartz]: http://web.archive.org/web/20130604124040/http://garybartz.com/
 [gary-bartz-quote]: http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
 [mouthpiece]: https://en.wikipedia.org/wiki/Mouthpiece_(woodwind) 
+[yegor-bugayenko-empty-line-smell]: http://www.yegor256.com/2014/11/03/empty-line-code-smell.html
 
 [<a name="1-note">1</a>] Fourth grade was the first year students were eligible for the instrumental music program in my elementary school.
 
