@@ -16,10 +16,13 @@ So what happened?  Was there something magical about making buzzing sounds with
 ### Software Catapult
 Similar to the musical experience I had as a teenager, I learned a principle that moved my software craft & style forward.
 
-I've always prided myself with writing clean, clear code.  I love the feeling when a design feels just "right".  Sometimes when I've written what I deemed to be "my best work" at the moment I randomly would secretly go back and just admire the code.  It's always been my goal that if anyone ever had to maintain code I've written, it would be easy and painless for them to get up to speed on it.
+I've always prided myself with writing clean, clear code.  I love the feeling when a design feels just "right".  Sometimes when I've written what I deemed to be "my best work" at the moment, I randomly would secretly go back and just read through and admire it.  It's always been my goal that if anyone ever had to maintain code I've written, it would be easy and painless for them to get up to speed on it.  I always tried to use the least amount of code possible that still was readable.
 
 #### Comments
-In an attempt to be sympathetic to future maintainers, I used to write a lot of comments.  If there was a loop ... comment.  If there was a block of code ... comment ... and then whitespace to group a block of logic for good measure.  I would comment all public and private methods.
+In an attempt to be sympathetic to future maintainers, I used to write a lot of comments.  If there was a loop ... comment.  If there was a block of code ... comment.  I would comment/document all public and private methods.
+
+#### Whitespace
+For the sake of being able to quickly see the high level steps in a block of logic, I would use whitespace to separate expressions into groups.  If I had to loop through a collection of elements ... proceeding whitespace.  If I needed to perform conditional logic ... proceeding whitespace.  If I had a series of operations to perform on a variable ... whitespace.  
 
 Below is code I actually wrote during my first computer science course in college [[6]](#6-note):
 
@@ -50,9 +53,7 @@ private String RandomWord(){
 }
 {% endhighlight %}
 
-  I'd comment both public and private interfaces.  I'd comment blocks of logic.  I'd comment loops.
-
-#### Whitespace
+  
 
 #### Code Smell: Whitespace & Comments
 
