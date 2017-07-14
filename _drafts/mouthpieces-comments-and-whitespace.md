@@ -56,7 +56,11 @@ private String RandomWord(){
 {% endhighlight %}
 
 #### Code Smell: Whitespace & Comments
-I started to change my thinking on these things some time ago 
+I started to change my thinking on these things some time ago when I came across an blog post by Yegor Bugayenko
+
+https://blog.codinghorror.com/coding-without-comments/
+https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+
 
 ### Notes
 [band-in-a-box]: http://www.pgmusic.com/
