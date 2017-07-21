@@ -62,8 +62,31 @@ If one is tempted to use whitespace, consider refactoring the logic into it's ow
 
 Then I wondered about comments.  If my use of whitespace was not ideal, then my use of comments was likely equally suspect; why would I need inline comments if my method was doing one thing and doing it well?  It turns out that [comments are also regarded as a code smells][code-smells-coding-horror].  Jeff Atwood has written on the topic numerous times [[7]](#7-note).  Atwood argues that "You should always write your code as if comments didn't exist." [7a](#7a-citation).  Your code should be simple and self-documenting.  Instead of commenting, refactor the logic into its own method with a clear name.  Though [there are exceptions][necessary-comments], comments should be the first resort in making code clearer.
 
-##### 
+It's better to treat guidelines as warning signs versus hard laws to follow, but it is good to consider refactoring when you have the urge to use whitespace and comments.  I also treat it as a warning sign if I can't understand what a method is doing after a quick glance.
 
+#### College code revisted
+Here is how I would rewrite the code snippet, from my first com sci college course, above:
+{% highlight java linenos %}
+public Hangman(String[] words) {
+    gameWord = randomWord();
+    gameWord = gameWord.toUpperCase();		
+    userPrompt = "Please enter your guess \n" + wordPlaceHolder();
+    ...
+}
+
+private String wordPlaceHolder() {
+   final StringBuilder underscores = new StringBuilder();
+   for (int i = 0; i < gameWord.length(); ++i) {
+      underscores.append("_");
+   }
+   return underscores.toString();
+}
+
+private String randomWord() {
+    final int index = (int)(Math.random() * words.length);
+    return words[index];
+}
+{% endhighlight %}
 
 ### Notes
 [band-in-a-box]: http://www.pgmusic.com/
