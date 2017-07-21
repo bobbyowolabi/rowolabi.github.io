@@ -56,10 +56,13 @@ private String RandomWord(){
 {% endhighlight %}
 
 #### Code Smell: Whitespace & Comments
-I started to change my thinking on these things some time ago when I came across an blog post by Yegor Bugayenko
+I started to change my thinking on these things some time ago when I came across a [blog post][yegor-bugayenko-empty-line-smell] by [Yegor Bugayenko][yegor-bugayenko].  He argued that whitespace is a [code smell][code-smell].  A method should do only one thing and do it well.  If you have whitespace in your method body, it's likely doing more than one thing.  This made a lot of sense.
 
-https://blog.codinghorror.com/coding-without-comments/
-https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+If one is tempted to use whitespace, consider refactoring the logic into it's own method with a clear name.  This makes a world of difference and really cleans up your code.  This principle has served me well.
+
+Then I wondered about comments.  If my use of whitespace was not ideal, then my use of comments was likely equally suspect; why would I need inline comments if my method was doing one thing and doing it well?  It turns out that [comments are also regarded as a code smells][code-smells-coding-horror].  Jeff Atwood has written on the topic numerous times [[7]](#7-note).  Atwood argues that "You should always write your code as if comments didn't exist." [7a](#7a-citation).  Your code should be simple and self-documenting.  Instead of commenting, refactor the logic into its own method with a clear name.  Though [there are exceptions][necessary-comments], comments should be the first resort in making code clearer.
+
+##### 
 
 
 ### Notes
@@ -70,10 +73,16 @@ https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 [bob-reynolds-thin-tone-example]: http://www.bobbyowolabi.com 
 [chromatic-scale]: https://en.wikipedia.org/wiki/Chromatic_scale
 [code-smell]: https://en.wikipedia.org/wiki/Code_smell
+[code-smell-coding-horror]: https://blog.codinghorror.com/code-smells/
+[coding-without-comments]: https://blog.codinghorror.com/coding-without-comments/
+[comments-tell-you-why]: https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
+[when-good-comment-go-bad]: https://blog.codinghorror.com/when-good-comments-go-bad/
 [embouchure]: https://en.wikipedia.org/wiki/Embouchure
 [gary-bartz]: http://web.archive.org/web/20130604124040/http://garybartz.com/
 [gary-bartz-quote]: http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
 [mouthpiece]: https://en.wikipedia.org/wiki/Mouthpiece_(woodwind) 
+[necessary-comments]: http://blog.cleancoder.com/uncle-bob/2017/02/23/NecessaryComments.html
+[yegor-bugayenko]: http://www.yegor256.com
 [yegor-bugayenko-empty-line-smell]: http://www.yegor256.com/2014/11/03/empty-line-code-smell.html
 
 [<a name="1-note">1</a>] Fourth grade was the first year students were eligible for the instrumental music program in my elementary school.
@@ -90,4 +99,6 @@ https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 
 [<a name="6-note">6</a>] The course was CMSC 131: Object-Oriented Programming I - Spring 2004 taught by [Ben Bederson][ben-bederson].  I'd like to say my coding style was improved by the time I started working professionally, but I still was a comment and whitespace machine.   
 
-There are always exceptions to rule, but generally following guidelines  I came this principle and it changed the way I code.  Sometimes there are lessons in life or in aqcuiring a craft that are paradigm changing. <Write about embrasure adjustment from Robert Fogleman> Write about how I used to secretly go back and admire code I’d written.  I always tried to use the least amount of code possible that still was readable. Describe how I use to code and use comments. W Code Smells: Whitespace & Comments Yegor - his post that put me on to this Robert Martin - the boy scout rule There was a recent post I came across where Martin concedes this is not always possiblehttp://blog.cleancoder.com/uncle-bob/2017/02/23/NecessaryComments.html
+[<a name="7-note">7</a>] Jeff Atwood has written on the topic of the misuse of comments: [Coding Without Comments][coding-without-comments], [Comments Tell You Why][comments-tell-you-why], [When Good Comments Go Bad][when-good-comment-go-bad] and [Code Smells][coding-horror-code-smells].
+
+[<a name="7a-citation">7a</a>] Atwood, Jeff. [Coding Without Comments][coding-without-comments]. Blog. Coding Horror. Publish 24 July 2008. Web. 21 July 2017. 
