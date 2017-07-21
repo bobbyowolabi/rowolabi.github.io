@@ -66,6 +66,7 @@ It's better to treat guidelines as warning signs versus hard laws to follow, but
 
 #### College code revisted
 Here is how I would rewrite the code snippet, from my first com sci college course, above:
+
 {% highlight java linenos %}
 public Hangman(String[] words) {
     gameWord = randomWord();
