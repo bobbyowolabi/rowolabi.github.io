@@ -103,8 +103,8 @@ private String randomWord() {
 [when-good-comment-go-bad]: https://blog.codinghorror.com/when-good-comments-go-bad/
 [embouchure]: https://en.wikipedia.org/wiki/Embouchure
 [gary-bartz]: http://web.archive.org/web/20130604124040/http://garybartz.com/
-[gary-bartz-quote]: http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
 [mouthpiece]: https://en.wikipedia.org/wiki/Mouthpiece_(woodwind) 
+[music-is-just-music]: http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
 [necessary-comments]: http://blog.cleancoder.com/uncle-bob/2017/02/23/NecessaryComments.html
 [yegor-bugayenko]: http://www.yegor256.com
 [yegor-bugayenko-empty-line-smell]: http://www.yegor256.com/2014/11/03/empty-line-code-smell.html
@@ -115,9 +115,9 @@ private String randomWord() {
 
 [<a name="3-citation">3</a>] Wikipedia contributors. ["Band-in-a-Box."][band-in-a-box-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 19 May. 2017. Web. 25 May. 2017. 
 
-[<a name="4-citation">4</a>]
+[<a name="4-citation">4</a>] ["Music Is Just Music."][music-is-just-music] Interview by Gail Perry, Keli Denise, and Gary Bartz. IRock Jazz. N.p., 27 Feb. 2013. Web. 21 July 2017. 
 
-[<a name="4-note">4a</a>] Gary Bartz - quote concerning if someone teaches you one thing, they have done their job; http://web.archive.org/web/20130317003848/http://irockjazz.com:80/2013/02/music-is-just-music-gary-bartz/
+[<a name="4-note">4a</a>] In an [interview][music-is-just-music] [[4]](#4-citation), [Gary Bartz][gary-bartz] stated "If a teacher teaches you one thing, they have done their job. If a teacher teaches you multiple things, they have done a heck of a job."  He stated this in the context of talking about one of his professors, Albert Holloway, who helped him "understand that I would not be able to learn or be inspired by any ONE person."     
 
 [<a name="5-note">5</a>] I continued playing on and off through my adult years.  Whenever I received compliment, it was never, “you have good chops”, or anything about my technical proficiency / musical ideas.  It was always “you have a really good tone”.  What Mr. Fogleman showed me that day is to thank for that.  When I would receive this compliment, I used to feel bad.  I always felt like I got this compliment because I was so deficient in the other areas of my playing and I hadn’t put in the necessary time to grow in the other areas.  But hey, it's never too late to improve :-)
 
