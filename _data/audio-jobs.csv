@@ -1,0 +1,1049 @@
+"Timestamp","Title","Sub Title","Company","Location","Description","Source","URL","Industry","Education - Degree","Educational Concentration","Certification","Years Experience","Specialty","Languages","Software Platforms","Technologies","Audio Concepts","Operating Systems","Hardware Platform","Interests","Portfolio","Miscellaneous Keywords"
+"2017/07/26 9:05:52 PM AST","Audio Programmer","","Media Molecule Ltd","Guildford, UK","_ We regret to inform that we cannot sponsor work visas at this time. _
+
+We are searching for an Audio Programmer to join our close-knit team and contribute their skills and creativity towards creating Dreams, our latest UGC project.
+This is not the most typical audio programming role. The successful applicant will develop all aspects of the game’s audio stack, from creating software instruments to designing and implementing the musical UI/UX.
+We are not simply looking for a programmer who happens to do some audio. We’re looking for an exceptional individual with a real jones for the potential of audio and music creation in interactive entertainment.
+A core part of our game Dreams is a powerful musical instrument, which can also be used for sound design.  It’s fun to play with, but also has depth. We want you to help us make it even better – for professionals, hobbyists and anyone in the PlayStation Games audience who wants to express themselves creatively.
+Requirements
+A keen interest in, and understanding of, sound and music for games.
+An eye and an ear for what makes a great musical instrument, and the skills to code it. This role has a design/UX element to it.
+Low-level coder with DSP and audio code skills. You will be working on a unique sound engine, which includes sound creation and mangling features.
+Self-motivated – can create great user experiences without having to rely completely on feedback in order to iterate and make progress.
+Evidence of something relevant you have made – a game, graduation project, audio plugin, musical experiment, toy, user interface, etc.
+Please note that we will request a show-reel or link to past work if not included in your application.
+","Stack Overflow","https://stackoverflow.com/jobs/143536/audio-programmer-media-molecule-ltd","Games;Music","","","","","UI;UX;DSP","","","","","","Playstation","Sound & Music for Games","Game;Graduation Project;Audio Plugin;Musical Experiment;Toy;User Interface","Software Instruments;User Experiences;Sound Design;Musical Instruments;Design;Audio Stack;Music Creation"
+"2017/07/26 9:24:47 PM AST","Audio Programmer","","Splash Damage","Bromley, London, UK","The Role
+
+As an Audio Programmer at Splash Damage, you will be responsible for implementing and improving the audio systems of our games. Reporting to the Lead Core Tech Programmer, you will work with the Audio and Core Technology teams to design, implement and support systems, pipelines and tools that will enable both the Gameplay and Audio teams to create high quality games on multiple platforms. With a focus on clarity, reusability and performance, you will not only contribute to the creation and deployment of new Audio techniques or middleware, but also improve, maintain and document the existing Audio-related code base.
+
+Essential Skills and Experience
+
+Practical and demonstrable professional experience with Audio development
+Experienced and proficient in C++
+Ability to write clear, maintainable, portable code
+Good verbal and written communication skills
+Strong Math skills
+Prefered Skills and Experience
+
+Professional experience with Unreal Engine 3 and/or Unreal Engine 4
+Professional experience with Audiokinetik's Wwise and its Unreal integration
+Professional experience with gameplay and multiplayer programming
+Multiplatform and Console development experience
+Experience with localisation pipeline","Direct","http://www.splashdamage.com/content/job-details?gh_jid=681268","Games","","","","","Math","C++","Unreal;Wwise","","","","Console","","","Audio Systems;Gameplay;Multiplayer;Localisation;Multiplatform;Audio Development"
+"2017/07/26 9:50:49 PM AST","Software Engineer","Media","Fuze","San Jose, CA","Fuze is a global, cloud-based unified communications platform that empowers productivity and delivers insights across the enterprise by enabling simplified business voice communications, flexible video conferencing and always-on collaboration. Fuze allows the modern, mobile workforce to seamlessly communicate anytime, anywhere, across any device.
+Customers use our software across a variety of platforms including iOS, Android, Windows, OS X and the web.  As a member of the Real-Time Communications team you will help build the heart of our product, the software stacks that power the audio and video communications for the platform.  You will work across both the client and backend stacks.  We believe strongly in modularity and code reuse.  
+To ensure our customers have the best experience, these microservices are built with scalability, resiliency and performance in mind.  The things that you will build at Fuze impact the success of our customers and of the company.
+What you'll do:
+As a member of the Real-Time Communications team, you will build Linux-based microservices to provide audio, video, screen share, content, recording and interoperability gateway functions.
+You will develop using open source technologies like WebRTC and where it makes sense, build custom software.
+You will design the microservices using a combination of REST APIs and IETF standards based protocols to provide functionality to our desktop, mobile and web-based clients.
+You will develop cross platform code -- sharing code across clients and sometimes between the clients and various backend services.  
+As you’re developing cross platform code that is often CPU intensive and performance critical, you will use C++ for code that requires portability between the clients and servers. For backend service, whenever that is not a concern, you will standardize on Go.
+You will work with senior members of the team to develop key components of the client media framework and backend services.  
+You will be responsible for identifying and implementing innovative solutions to difficult problems.
+You will learn and deliver at a fast pace.  
+You will quickly move on to bigger and more challenging problems and will take over ownership of components in our solution.
+Who you are and what you have:
+Expert C++ coding skills
+Experience developing, debugging and optimizing Linux-based services
+Experience developing networking software including working with socket level programming and UDP/TCP
+Knowledge of and experience with WebRTC is a huge plus
+Experience developing software for Windows, iOS or OS X is a plus
+Experience with Go and/or Python is a plus
+Any experience with VoIP, video compression, signaling protocols such as SIP, audio frameworks in OS X (such as audio units) or Core Audio in windows are desired but not required.
+Drive, passion, dedication and a positive attitude","Direct","https://www.fuze.com/careers#!/job/652541","Communications","","","","","Microservies","C++;Go","WebRTC","VoIP;SIP;UDP;TCP","","Windows;Linux;iOS;OS X","","","","Media;Sockets"
+"2017/07/26 11:58:14 PM AST","Software Engineer","Senior;Audio","Roku","Austin, TX","We are looking for a senior software engineer with extensive experience in embedded Linux, system-on-a-chip (SoC) development and integration, streaming audio and video technologies, and lightweight consumer-oriented player systems such as Netflix, Hulu, or Amazon. You will be responsible for integrating audio support into our upcoming products. This includes both video sound tracks (AAC, Dolby Audio, and DTS, both stereo and multichannel), and sound effects from games and our user interface. You will work extensively with our SoC vendors to ensure their audio capabilities meet our high standards. This is a senior role with a high-level of visibility and you must have a proven track record of developing and porting software for new hardware platforms from prototype to mass production.
+
+Qualifications:
+
+7+ years of relevant software development experience.
+In-depth understanding of Linux, tools, libraries and open source development.
+Extensive experience with C++/OOD and the ability to solve complex problems.
+Extensive experience with digital audio formats, audio mixing, and A/V sync.
+Ability to architect and implement new audio features like night listening mode, transcoding, and down-mixing.
+Proven track record of success with embedded system development projects.
+Solid grasp of hardware and the manufacturing process, especially audio-related outputs like microphone jacks, HDMI, and S/PDIF.
+Ability to accurately estimate software tasks and work to schedule.
+Bachelors or Masters in Computer Science or equivalent engineering experience.
+Any experience with Dolby Audio certification is a plus.","Direct","https://www.roku.com/about/jobs/position/sr-software-engineer-audio?gh_jid=696462","Electronics;Broadcast Media","Bachelors;Masters;Equivalent Experience","Computer Science","Dolby Audio certification","7","Embedded;System On a Chip (SoC);Streaming Audio;Audio Mixing;Transcoding;Down Mixing;Digital Audio Formats;A/V Sync","C++","","AAC;Dobly Audio;DTS;HDMI;S/PDIF","","Linux","","","","Sound Effects;Open Source;Stereo;Multichannel"
+"2017/07/27 12:09:38 AM AST","Software Engineer","Audio;New Products;Expert","Roku","Los Gatos, CA","The Audio Expert Role at Roku - ""Building a Center of Audio Excellence""
+
+We are looking for a senior software engineer with extensive experience in audio, and audio software development on DSPs, Linux SOCs, and RTOS microcontrollers. This is a senior role with a high-level of visibility and you must have a proven track record of developing and porting software for new hardware platforms from prototype to mass production. You should come into the team as our audio expert prepared to teach and mentor other talented, senior software engineers who do not have an audio background.
+
+Basic Qualifications
+
+10+ years of relevant software development experience.
+Expert understanding of audio concepts such as frequency response, total harmonic distortion, noise reduction, de-reverberation, equalization, crossover, and loudness compensation.
+Experience with the development of audio processing algorithms for DSPs.
+Chip bring-up and low level (JTAG) debugging experience.
+Strong in RTOS concepts (interrupts, watchdog) and hardware interfaces (SPI, I2C, USB).
+In-depth understanding of both Linux and RTOS tools, libraries and open source development.
+Extensive experience with C with OOD and the ability to solve complex problems.
+Proven track record of success with embedded system development projects.
+Ability to accurately estimate software tasks and work to schedule.
+Bachelors or Masters in Computer Science or equivalent engineering experience.
+","Direct","https://www.roku.com/about/jobs/position/sr-software-engineer-new-products-audio-expert?gh_jid=679643","Electronics;Broadcast Media","Bachelors;Masters;Equivalent Experience","Computer Science","","10","DSP;Embedded;System On a Chip (SoC);Real-Time Operating System (RTOS);Microcontrollers;Debugging","C","","","Frequency Response;Total Harmonic Distortion;Noise Reduction;De-reverberation;Equalization;Crossover;Loudness Compensation","Linux","","","","Open Source;Teach;Mentor;Expert;Track Record;JTAG"
+"2017/07/27 12:31:39 AM AST","Software Engineer","Audio;DSP;Systems","Smule","San Francisco, CA","Smule is looking for an audio engineer! First and foremost, you will be making the members of our community sound as stellar as possible whether they are singing, playing piano or guitar, or doing any other type of music making.
+
+Your job is to build and maintain software that automates the role of a studio engineer by properly mixing, EQ, compressing, denoising, and otherwise applying FX to optimize the sound of our performers. We have millions of users across the globe with a diverse set of voices, so this job will keep you on your toes!
+
+Day to day, you will be building, tuning, and supporting our audio pipeline and FX across multiple platforms (IOS, Android, Linux).
+
+Desired Skills and Experience:
+Educational background in Digital Audio Signal Processing
+2+ years of professional experience with at least one on a consumer facing product
+Experience with real-time audio processing
+Experienced in audio / music analysis and synthesis algorithms
+Proficiency C/C++. Experience in at least one OO language is required
+Ability to build/modify low-level studio/real-time FX code
+Enough studio engineering chops to troubleshoot and fix issues like distortion, latency, etc.
+Familiarity with ffmpeg, audio formats/encodings, one or more DAWs
+Bonus:
+IOS, Android, other mobile audio experience
+Proficiency in Python, Objective-C, and Java
+Knowledge of music theory
+Experience with feature extraction (key, time signature, beat, etc), and re-synthesis (beat-matching, thumbnailing, time-stretching, etc.)","Direct","https://www.smule.com/jobs?gh_jid=597566","Music;Mobile","","Digital Audio Signal Processing","","2","DSP;Audio Mixing;Real-Time Operating System (RTOS);Audio Analysis;Music Analysis;Studio Engineering;Music Theory;Feature Extraction;Re-Synthesis","C++;Python;C;Objective-C;Java","","ffmpeg;Audio Encodings;Digital Audio Workstations (DAW)","Noise Reduction (Denosing);FX;Equalization (Eq);Compressing;Distortion;Latency;Beat-Matching;Time-Stretching;Thumbnailing","Linux;iOS;Android","","","","Musical Instruments;Music Creation;Audio Systems;Multiplatform;Audio Engineer;Studio"
+"2017/07/27 12:43:55 AM AST","Software Engineer","Audio;FX","Smule","San Francisco, CA","Smule is looking for an Audio FX Engineer! You will be using your DSP skills to build vocal processing and mastering FX on the Smule platform.
+
+You will be working on the individual FX (reverbs, compressors, EQs, choruses, denoisers/de-essers, lo-fi/saturation, etc.) as well as the overall FX pipeline. This all needs to run efficiently on multiple platforms (iOS, Android, Linux).
+
+You will collaborate with the music production team to tune the pipeline with the goal of making our singers sound as awesome as possible! We have millions of users across the globe with a diverse set of voices, so this job will keep you on your toes!
+
+Desired Skills and Experience:
+Educational background in Digital Audio Signal Processing
+2+ years of professional experience with at least one on a consumer facing product
+Experience with real-time audio processing
+Experienced in audio / music analysis and synthesis algorithms
+Proficiency C/C++. Experience in at least one OO language is required
+Ability to build/modify low-level studio/real-time FX code
+Bonus:
+Enough studio engineering chops to troubleshoot and fix issues like distortion, latency, etc.
+Familiarity with ffmpeg, audio formats/encodings, one or more DAWs
+IOS, Android, other mobile audio experience
+Proficiency in Python, Objective-C, and Java
+Knowledge of music theory
+Experience with feature extraction (key, time signature, beat, etc), and re-synthesis (beat-matching, thumbnailing, time-stretching, etc.)","Direct","https://www.smule.com/jobs?gh_jid=660357","Music;Mobile","","Digital Audio Signal Processing","","2","DSP;Digital Audio Formats;Real-Time Operating System (RTOS);Audio Analysis;Music Analysis;Studio Engineering;Music Theory;Feature Extraction;Re-Synthesis;Vocal Processing","C++;Python;C;Objective-C;Java","","ffmpeg;Audio Encodings;Digital Audio Workstations (DAW)","Noise Reduction (Denosing);FX;Equalization (Eq);Compressing;Distortion;Latency;Beat-Matching;Time-Stretching;Thumbnailing;Reverb;Choruses;Lo-fi;Saturation","Linux;iOS;Android","","","","Studio"
+"2017/07/27 12:51:36 AM AST","iOS Developer","","Mimi Hearing Technologies","Berlin, Germany","Job description
+
+We are looking for an iOS Developer (m/f) as a full-time position for our office in Berlin.
+
+As our iOS Developer you will:
+
+Build advanced applications for the iOS platform optimized for all available screen sizes
+Collaborate with our cross-functional team to define, design, and ship new product features
+Improve application performance
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency
+Skills & requirements
+
+Requirements:
+
+At least 2-3 years in iOS development
+A deep familiarity with Objective-C, Swift, and Cocoa Touch
+Deep understanding of the iOS platform
+Solid knowledge of software design patterns and system architecture
+Fluent in English
+It would be great if you have:
+
+A BS/MS degree in Computer Science, Engineering, or a related subject
+Published one or more iOS apps in the AppStore
+A working knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+Experience with REST-API's
+Experience in C++, Continuous Integration (Circle CI), Backend Technologies (NodeJS), realtime audio processing, Javascript, WebAudio","Stack Overflow","https://stackoverflow.com/jobs/143375/ios-developer-m-f-mimi-hearing-technologies-gmbh","Music;Mobile;Health","Bachelors;Masters","Computer Science;Electrical Engineering;Computer Engineering","","","Real-Time Operating System (RTOS)","C++;Objective-C;Swift","Web Audio","","","iOS","","","Published App",""
+"2017/07/27 12:10:16 PM AST","iOS Engineer","Senior;New Products","BandLab Technologies","Singapore","Job description
+
+
+We're looking to hire an experienced Senior iOS Developer to expand our existing iOS team. As a part of working on different aspects of the iOS development lifecycle, you will be working closely with other teams and within your own department to develop and maintain features within our iOS product that is used by musicians and fans from all around the world.
+
+We’re looking for someone who is dynamic, passionate and self-driven. We want somebody who matches our spirit and desire and to keep challenging us to push the boundaries as we have already with the world’s very first cross-platform DAW. We’re looking for someone who will be excited by the new features we have in the pipeline and keen to be a part of building something ground-breaking.
+
+If this sounds like you, please read on!
+
+
+Skills & requirements
+
+
+Desired Skills and Experience
+•Minimum 2 years of commercial iOS development experience.
+•Experience with consumer-facing mobile products.
+•Extensive knowledge with both Objective-C and Swift development
+•Strong coding abilities and experience with iOS SDK, especially Audio, Video, CoreData related fields
+•Experience with various application architecture (MVVM/MVC, etc)
+•Solid understanding of iOS interface guidelines
+•Able to work under pressure with tight deadlines
+•Passionate about music creation
+•Strong communication skills in a multi-cultural environment
+
+PROFICIENCY WITH:   
+•Swift
+•Objective-C
+•Multi-Threading and memory management specific to mobile devices
+•Git
+
+PLUSES: 
+•Commercial C/C++ development experience(including STL)
+•Practical experiences with continuous integration solutions
+•Familiar with DAWs (Digital Audio Workstations) like Logic, Ableton
+•Audio processing and synthesis
+•Video codecs and video processing experience
+","Stack Overflow","https://stackoverflow.com/jobs/134549/senior-ios-engineer-bandlab-technologies","Music;Social Networking","","","","2","Math","C++;C;Objective-C;Java","Logic;Ableton","Digital Audio Workstations (DAW);CoreData;Git","","iOS","","Music Creation","","Consumer-facing"
+"2017/07/27 1:00:21 PM AST","Software Engineer","Web;API","Jukedeck","Moorgate, London, UK","We’re an artificial intelligence company trying to make it as easy as possible for people to make, use and interact with music. We’re a team of composers, producers and developers with backgrounds that span big tech companies, academia and the music industry. We’re VC funded, and we’re based in Moorgate in London.
+
+We’re looking for a Software Engineer with hands-on experience engineering complex systems and working across the stack. You should be an excellent developer, with strong knowledge of Objective Oriented design, Javascript and system architecture.
+
+
+
+Your responsibilities will include:
+
+Developing our core API using Node.js, AWS, Docker, MongoDB, & RabbitMQ
+Developing a pioneering music generation product using ES6, React.js, HTML5, CSS3, & Node.js
+Engineering web architecture and infrastructure that is scalable, robust, and maintainable
+Researching and delivering product features and enhancements that allow our platform to become increasingly sophisticated over time
+Using knowledge of tooling, techniques, and practices to constantly improve our infrastructure, code quality, and maintainability
+Developing well tested, production-ready code of the highest possible standard
+REQUIREMENTS
+
+Our ideal candidate will:
+
+Have knowledge of Object Oriented design and Javascript design patterns
+Be able to write automated tests at all levels of the stack
+Know how to apply TDD and know why it improves the quality of the codebase
+Have at least 2 years professional Javascript development experience
+Have worked with other languages (particularly C++ / Python), including at least one statically typed language
+Have designed and implemented a multi-server system that uses a microservice architecture at scale
+Be familiar with AWS, having deployed applications using EC2, ECS, S3, OpsWorks, Lambda, ELB, CloudFront, etc.
+Have deployed containerised applications to production using Docker
+Have experience working with NoSQL databases, such as MongoDB
+Have a thorough understanding of the Web Audio API
+Be able to build responsive and elegant web UIs
+Have used (or worked on) audio production software
+Have an interest in machine learning and artificial intelligence
+
+
+Your application should include:
+
+Your CV and LinkedIn
+A portfolio of previous work showcasing your relevant web development skills
+A description of previous programming work you're proud of and, if available, a link to or attachment containing code you've written ","workinstartups.com","http://workinstartups.com/job-board/job/57654/software-engineer-web-api-at-jukedeck/","Music;Artificial Intelligence","","","","2","UI;TDD;OOD;System Architecture;NoSQL DBs","C++;Python;Javascript;HTML5;CSS3","Web Audio","Git;AWS;Node.js;Docker;MongoDB;RabbitMQ;React.js;ES6;EC2;ECS;S3;OpsWorks;Lambda;ELB;CloudFront","","","","","",""
+"2017/07/27 1:17:30 PM AST","Software Developer","","zenAudio","Berlin, Germany","June 13, 2017
+ 
+Are you passionate about C++ — modern C++ — and audio/DSP technology? Would you like to contribute to a revolutionary new looper/DAW app? THEN JOIN TEAM ZENAUD.IO! 
+ 
+
+
+
+
+
+We are looking for a talented Software Developer to join our team for a full-time position!
+
+zenAud.io makes ALK, the software looper that knows your arrangement. We’re a company with big ideas, based at Noize Fabrik in Europe’s creative capital: Berlin. And we’re not just programmers and designers, but musicians ourselves who like playing guitars as much as using computers and synths.
+
+OUR MISSION:
+
+We aim to give live musicians the tools to compete sonically with electronic acts. Our flagship product, zenAud.io ALK, is designed meticulously to relieve the performer of all unnecessary burdens, freeing them to concentrate on what they do best: perform.
+
+WE OFFER:
+•Long-term contract
+•The opportunity to contribute to a state-of-the-art DAW and hone your audio DSP and GUI skills
+•You’ll be working on a modern codebase using C++17 and other modern libraries like Apple’s Metal API and JUCE
+•A dynamic, flat, and meritocratic working environment. If you’re good, you will succeed.
+
+YOU:
+•Have experience programming in C++
+•Have knowledge and experience with audio development
+•You’re comfortable using Git
+•Take responsibility for your actions and are a good communicator
+
+A BIG PLUS:
+•You have experience in scripting languages such as Python or JS
+•You have or are obtaining a degree in Computer Science, Mathematics, or Physics
+•You are a Musician/DJ/Producer
+
+Please send in your CV, a letter of motivation and if possible a link to your Github profile for coding examples and any references from previous jobs to jobs@zenaud.io. We are looking to interview and get started as soon as possible.
+","berlinstartupjobs","http://berlinstartupjobs.com/engineering/software-developer-zenaud-io/","Music","","Computer Science;Mathematics;Physics","","","UI;DSP;Musician;DJ;Producer","C++;Python;Javascript","JUCE","Digital Audio Workstations (DAW);Git;Apple's Metal API","","","","","",""
+"2017/07/27 1:27:34 PM AST","Software Engineer","IOS","Shazam","Hammersmith, London, UK","Millions of users. Billions of tags. Countless moments of discovery. Shazam brings a unique brand of magic to millions every day. It’s our people – their imagination, skills and ideas – that shape our future, and help us make the impossible come to life. Bring us your vision, and it’ll be you creating the wow moments that excite people across the world.
+
+Role Scenario
+
+Shazam is one of the top apps in the world. On iPhone alone, it is used by over 52+ million users every single month and growing more rapidly than ever.
+
+We’re looking for a passionate and inquisitive Developer with strong software engineering skills and a commercial approach to work, to join a world-class team of iOS engineers. Your role will include building beautiful user experiences for our users on the outside, while maintaining high quality standards on the inside.
+
+Where Does The Role Sit?
+
+The role will be based within our Hammersmith, London office and you will collaborate with a number of other engineering and product teams who’re also based locally as well various global teams.
+
+What Might You Work On?
+
+Your work will be split across multiple platforms and multiple frameworks. As well as our much-loved iPhone and iPad the iOS team develop a watchOS app (named Best of 2015 by the App Store), macOS app (featured numerous times by Apple) and even an iMessage app! Our engineers collaborate with a world-class product team so there is no shortage of features on our roadmap, including those ideas generated during our regular hack days.
+
+Experience: Required
+
+•You will have a demonstrated pro-active and passionate character
+
+
+•Attention to detail
+
+
+•Strong communication skills
+
+
+•End-to-end iOS development
+
+
+•Objective-C, Swift
+
+
+•Performance profiling with Instruments
+
+
+•App architecture, design patterns, memory management, multitasking / GCD, Core Data
+
+
+•Unit testing, UI Automation
+
+
+Experience: Desirable 
+
+•Runs personal iOS projects
+
+
+•Attends meets-up and seminars
+
+
+•Real-time audio processing knowledge
+
+
+","Direct","https://www.shazam.com/careers?gh_jid=684350","Music;Mobile","","","","","UI;Real-Time Operating System (RTOS);System Architecture;Design Patterns;Memory Management;Testing","Objective-C;Swift","","CoreData","","iOS","","","Attends Meet-ups;Peronal iOS Projects",""
+"2017/07/27 1:51:14 PM AST","iOS Developer","Full-Stack","T3 Interactive","New York, NY","Job description
+
+
+Your job will be to help lead and build an iOS version of our Kinect public speaking coach app from start to finish. The app will analyze user's speech, gestures and posture in real-time, by relying on on open-source computer vision software and audio SDKs. We will be working with a Microsoft Azure stack and their services. 
+
+
+
+
+
+Skills & requirements
+
+
+We're looking for a full stack iOS developer with 4+ years of experience who has
+
+- Experience with learning, gaming and/or video processing technology.
+
+- A knack for writing clean readable code while implementing automated and unit testing, understand fundamental design principles behind a scalable application and create database schemas that represent and support business processes.
+
+- Familiarity with working on startup teams, using Git and Agile development practices.
+","Stack Overflow","https://stackoverflow.com/jobs/141354/full-stack-ios-developer-t3-interactive","Mobile;Voice / Speech","","","","4","Testing;Video Processing;Agile","","","Git;Microsoft Azure","","iOS","","","",""
+"2017/07/27 1:57:41 PM AST","Software Engineer","Senior;IOS","Fender","Los Angeles, CA","Fender Digital Products is the newest division at Fender located in Hollywood, California, making apps, websites, platforms and tools to compliment the guitars, amps and audio gear that Fender makes.
+
+Fender of course is an American icon. Born in Southern California with a worldwide influence extending beyond the studio and the stage. A Fender is more than an instrument, it is a cultural symbol that resonates across fashion, entertainment and more.
+
+We are entering a new frontier at Fender in making mobile applications that meet the quality of our guitars. We value craftsmanship, clarity of purpose, attention to detail and artistry. Our Sr. Software Engineer, iOS, will work closely with both designers and platform engineers, as well as product owners to craft and create great products.
+
+Who you are: 
+
+You bring a passion for apps. You know why Swift is both good and bad, and why the time period between June and September is fraught with peril and excitement. You know why ARC was a great thing when it was implemented and why CocoaPods are a blessing and a curse.
+
+What You Need:
+•3-5 years experience Cocoa, preferably Cocoa Touch 
+•Track record of developing native apps with excellent UX 
+•Experience releasing and maintaining public projects in the Google Play Store or AppStore 
+•Experience with tablet form-factors (universal and/or dedicated apps) 
+•Skills working with platform teams in either writing or using SDK’s and working with REST APi’s 
+•Experience writing performant, multithreaded asynchronous code, especially network bound 
+•Worked on collaborative engineering projects (continually integrated, tested and deployed) 
+•Writes testable and test covered code 
+•Knowledge in iOS SDK instrumentation and performance techniques 
+
+Plusses 
+•Prior experience with video and audio 
+•Experience with AirPlay, CoreAudio or Apple TV 
+•Experience with Speech/Voice recognition (Alexa, Siri, echo, voice search, etc) 
+•Plus Plus: Experience with the Apple Music API or Spotify API 
+
+Benefits
+•Excellent compensation package with incentives 
+•Guitars! Music! 
+•The newest team at Fender: help set the culture of innovation at the world’s best music brand 
+•Medical, dental, 401k, food, drinks 
+•The computer of your choice (so long as its from Cupertino) 
+•Test devices as needed 
+","Greenhouse","https://boards.greenhouse.io/fender/jobs/721132","Music;Mobile","","","","3","UX","","Core Audio","","","iOS","","","Audio Plugin;Published App",""
+"2017/07/27 2:27:30 PM AST","Algorithm Developer","Music;Transcription","Yousician","Helsinki, Finland ","Job description
+
+
+JOIN YOUSICIAN
+
+Making the world a more musical place
+
+At Yousician, our job is to reimagine music education, so everyone can play. We’ve built an amazing team of creative, passionate, and independent people, all working together to help millions of musicians learn, play, reach their goals, and have fun. If this sounds like the right mission for you, you’re in the right place!
+
+MUSIC TRANSCRIPTION ALGORITHM DEVELOPER
+
+We are looking for a person with strong music content analysis skills and programming skills to join our R&D team as music transcription algorithm developer. Millions of people learn to play a musical instrument and create music with us. We have a strong commitment to R&D in order to push forward the technology that enables our services. Music transcription is a core part of that technology: extracting musical information both from complex real-world music recordings and from single-instrument performances by our users. The transcription encompasses harmonic analysis, melody and bass line extraction, musical expression analysis, sectional structure, and beat tracking. You will be working closely with the rest of the R&D team and will interact with the product teams when integrating the technology into our products. You will be tackling hard problems in music signal analysis and have your code running on millions of devices.
+
+WHAT YOU’LL DO:
+•Develop machine learning algorithms for extracting musical information from real-world music recordings.
+•Develop algorithms for analysing single-instrument performances for their tonal content, expression and timing.
+•Design and train statistical models and neural networks in Python.
+•Implement the resulting algorithms in C++, using and extending our toolset for that.
+•Contribute improvements to our workflow and simulation environment.
+•Work in a small team, taking ownership of important parts of our technology.
+
+
+Skills & requirements
+
+
+WHO YOU ARE:
+•You have strong skills in music content analysis and/or machine learning.
+•You love programming and have strong skills in Python and C++ (or C#).
+•You love experimenting and prototyping with algorithms.
+•You learn fast and get things done.
+•You have audio signal processing experience.
+•Experience on deep learning tools is a plus.
+","Stack Overflow","https://stackoverflow.com/jobs/146199/music-transcription-algorithm-developer-yousician","Music;eLearning","","","","","DSP;Music Analysis;Feature Extraction;Machine Learning;Neural Networks;Statistical Models;Research & Development;Prototyping","C++;Python;C#","","","Harmonic Analysis;Melody Extraction;Bass Line Extraction;Musical Expression Analysis;Sectional Structure;Beat-Matching","","","","",""
+"2017/07/27 2:35:42 PM AST","Algorithm Developer","Machine Learning;Content Analysis","Yousician","Helsinki, Finland","
+Job description
+
+
+JOIN YOUSICIAN
+
+Making the world a more musical place
+
+At Yousician, our job is to reimagine music education, so everyone can play. We’ve built an amazing team of creative, passionate, and independent people, all working together to help millions of musicians learn, play, reach their goals, and have fun. If this sounds like the right mission for you, you’re in the right place!
+
+MACHINE LEARNING ALGORITHM DEVELOPER FOR MUSIC CONTENT ANALYSIS
+
+We are looking for a person with strong machine learning skills and programming skills to join our R&D team as Music Content Analysis Developer. Millions of people learn to play a musical instrument and create music with us. We have a strong commitment to R&D in order to push forward the technology that enables our services. Music analysis is a core part of that technology: extracting musical information both from complex real-world music recordings and from single-instrument performances by our users. The analysis encompasses tonal, rhythmic, expressive, and structural aspects of music. You will be working closely with the rest of the R&D team and interact with the product teams. You will be tackling hard machine learning challenges, with access to large datasets, and will have your code running on millions of devices.
+
+WHAT YOU’LL DO:
+•Develop machine learning algorithms for extracting musical information from real-world music recordings.
+•Design and train statistical models and neural networks in Python.
+•Implement the resulting algorithms in C++, using and extending our toolset for that.
+•Contribute improvements to our workflow and simulation environment.
+•Work in a small team, taking ownership of important parts of our technology.
+
+
+Skills & requirements
+
+
+WHO YOU ARE:
+•You have strong skills in machine learning and at least some experience with deep learning tools.
+•You love programming and have strong skills in Python and C++ (or C#).
+•You learn fast and get things done.
+•You have some knowledge about audio signal processing.
+","Stack Overflow","https://stackoverflow.com/jobs/146197/machine-learning-algorithm-developer-for-music-yousician","Music;eLearning","","","","","DSP;Music Analysis;Machine Learning;Neural Networks;Statistical Models","C++;Python;C#","","","","","","","",""
+"2017/07/27 2:44:00 PM AST","Software Engineer","Audio","Wargaming.net","Baltimore, MD","Wargaming is looking to hire an Audio Software Engineer in our Chicago office. 
+
+
+What you will do:
+
+•Design, create and support new audio tools and systems
+•Interact with third-party audio libraries
+•Work within game code to integrate audio effects
+•Maintain and refine existing, proprietary audio engine and tools
+•Analyze and tune performance of audio on various hardware platforms
+
+
+Requirements:
+
+•Shipped at least two game titles with a concentration on low-level system design
+•Prior experience with third-party audio libraries such as FMOD, Miles, or Wwise
+•Deep knowledge of C++, STL, and modern C++ idioms
+•Solid software engineering skills
+•Ability to write robust, maintainable code
+•B.S. degree in Computer Science, Math, Physics, or Engineering
+•Very solid math background
+•Excellent physical and digital communications skills
+•Strong desire to create world-class games
+•Working knowledge of common sound engineering/sound design practices and terminology
+
+
+If you believe that you are the right person for the role please feel free to forward your resume by email to hr_west@wargaming.net. 
+","Direct","http://wargaming.com/en/careers/audio-software-engineer-baltimore/","Games","Bachelors","Computer Science;Electrical Engineering;Computer Engineering;Mathematics;Physics","","","Math;Sound Design;Sound Engineering","C++","Wwise;FMOD;Miles","","","","","","",""
+"2017/07/27 3:21:42 PM AST","DSP Engineer","Senior;Audio","Amazon","Cupertino, CA; San Francisco Bay Area, CA","DESCRIPTION
+
+As an Audio DSP Engineer, you will work with an experienced cross-disciplinary staff to conceive and design innovative consumer products. You must be responsive, flexible, and able to succeed within an open, collaborative peer environment.
+
+You will participate in improving the audio DSP algorithms and integrating them into an emerging product. You will join a highly talented team of audio, EE and software engineers supporting the development of this product. This position may require some travel ­both domestic and international.
+
+
+
+BASIC QUALIFICATIONS
+
+· Bachelor's degree in Electrical, Computer Engineering or equivalent required
+· 7+ years of DSP SW and firmware development experience
+· Strong skills with audio system performance measurements and tuning
+· Hands-on experience with one or more architectures such as TenSilica, CEVA, Kalimba, ARC or other audio DSP cores.
+· C and embedded SW development
+· Experience with common scripting language (Matlab, Python, etc)
+· Familiarity with common audio processing blocks such as AEC, DRC, Noise suppression, EQ and ANC.
+· Solid understanding of end-to-end SW development tool chains and environments
+
+
+PREFERRED QUALIFICATIONS
+
+· Master's degree
+· Understanding of acoustics design for a mobile device
+· Familiarity with audio processing signal chain and characteristics of acoustic transducers such as microspeaker and microphones
+· Understand audio codecs and audio post-processing tools such as Audacity or Adobe Audition
+","Direct","https://www.amazon.jobs/en/jobs/538543/senior-audio-dsp-engineer","Online Shopping","Bachelors;Masters;Equivalent Experience","Electrical Engineering;Computer Engineering","","","DSP;Embedded","Python;C;Matlab","","TenSilica;CEVA;Kalimba;ARC;Audacity;Adobe Audition","Noise Reduction (Denosing);Equalization (Eq);AEC;DRC;ANC","","","","",""
+"2017/07/27 3:39:36 PM AST","Software Engineer","Senior","Amazon","Sunnyvale, CA","DESCRIPTION
+
+The Amazon Alexa (Speech) team is a group of developers and scientists working on audio, speech and natural language solutions that revolutionize how customers interact with Amazon’s products and services. The team’s mission is to push the envelope in automatic speech recognition (ASR) in order to provide the best possible experience for our customers. Products such as Amazon Echo, Echo Dot, Amazon Tap & Amazon Fire TV are illustrative of the user-delighting spoken language solutions Amazon is building.
+
+We are looking for passionate, hard-working, and talented Senior Software Engineers who have experience building innovative, mission critical, high volume applications that customers love. You will have an enormous opportunity to make a large impact on the design, architecture, and implementation of cutting edge products used every day, by people you know.
+Responsibilities
+• Responsible for the architecting & developing cutting edge solutions
+• Lead team members to investigate design, prototype and evaluate technical feasibility.
+• Work in an Agile/Scrum environment to deliver high quality software against aggressive schedules.
+• Provide technical excellence and mentor team members
+
+
+
+BASIC QUALIFICATIONS
+
+Basic Qualifications
+7+ years industry experience building successful production software systems
+• B.S. (or higher) degree in Computer Science or Electrical Engineering
+• Experience converting high-level product requirements into successful products through solid software architectures, engineering design and implementation.
+• Experience in modern programming languages (C/C++, Java, Python), open-source technologies and multiple operating systems (Linux, Android etc.)
+
+
+
+PREFERRED QUALIFICATIONS
+
+Preferred Qualifications:
+Experience in Speech related technologies.
+• MS or PhD in related fields (Math, CS, Speech etc.)
+• Solid s/w engineer & advance C++ practitioner
+• Excellence in technical communication with peers and non-technical cohorts
+• Demonstrated ability to mentor other software developers and provide technical vision.
+• Problem solving and analytical skills.
+• Excellence in hands-on programming skills.
+","Direct","https://www.amazon.jobs/en/jobs/511422/senior-software-development-engineer","Voice / Speech;Online Shopping","Bachelors;Masters;PhD","Computer Science;Electrical Engineering;Mathematics","","7","Math;Vocal Processing;System Architecture;Agile;Prototyping;Speech","C++;Python;C;Java","","","","Linux;Android","","","","Mentor"
+"2017/07/27 3:55:31 PM AST","Software Engineer","Senior;Audio;Development","Amazon","Boston, MA; Cambridge, MA","DESCRIPTION
+
+The Amazon Devices team designs and engineers high-profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire TV, Amazon Dash, and Amazon Echo.
+
+The Role:
+
+As a Senior Audio Software Development Engineer, you will work in one of the fastest-changing fields, with the benefits of Amazon's infrastructure and being surrounded by subject matter experts and technology partners. You must love high quality signal processing, enjoy adjusting codecs, optimizing audio frameworks, and have a feel for what a good consumer experience should sound like. As part of the larger technology team working on new consumer technology, your work will have a large impact to hardware, internal software developers, ecosystem, and ultimately the lives of Amazon customers. In this role, you will:
+
+· Development of novel audio and speech processing algorithms
+· Optimization and port to different platforms of audio and speech processing algorithms
+· Integration of vendor hardware and software stacks
+· Tune hardware for highest audio performance and lowest noise
+· Be passionate, responsive, flexible and able to succeed within an open collaborative peer environment
+· Be able, and willing, to multi-task and learn new technologies quickly
+· 
+
+
+
+
+BASIC QUALIFICATIONS
+
+
+· Bachelor’s degree in Computer Science, Computer Engineering, or related field
+· 7+ years of software development engineering experience
+· Knowledge of audio and acoustics principles
+· Experience in digital signal processing theory
+· Programming experience in C and/or C++, python
+
+
+
+
+
+PREFERRED QUALIFICATIONS
+
+
+· Master’s or PhD degree
+· Expertise in developing advanced Audio and Speech Processing Algorithms
+· Expertise in optimization and porting of algorithms to real-time platforms (DSP/Micros)
+· Android Audio frameworks working knowledge
+· Experience with Bluetooth audio profiles
+· Familiarity with OpenMAX and/or ALSA
+
+Lab126 is part of the Amazon.com, Inc. group of companies and is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+","Direct","https://www.amazon.jobs/en/jobs/533063/senior-software-development-engineer-audio","Voice / Speech;Online Shopping;Computer Hardware;Research & Development","Bachelors;Masters;PhD","Computer Science;Computer Engineering;Related Field","","7","DSP;Real-Time Operating System (RTOS);Speech","C++;Python;C","OpenMAX;ALSA;Bluetooth","","Noise Reduction (Denosing)","Android","","","","Multiplatform;Algorithms;Acoustics;Android Audio"
+"2017/07/27 4:07:32 PM AST","Research Scientist","Senior;Audio","Amazon","Boston, MA; Cambridge, MA","DESCRIPTION
+
+The Amazon Devices team designs and engineers high-profile consumer electronics, including the best-selling Kindle family of products. We have also produced groundbreaking devices like Fire tablets, Fire TV, Amazon Dash, and Amazon Echo.
+
+The Role:
+
+We are looking for a passionate, talented and inventive Senior Research Scientist - Audio to join our team either in Sunnyvale CA or in Cambridge MA. In this role, you will:
+
+· Engage with an experienced cross-disciplinary staff to conceive and design innovative consumer products
+· Work closely with an internal inter-disciplinary team, and outside partners to drive key aspects of product definition, execution and test
+· Be responsive, flexible and able to succeed within an open collaborative peer environment
+
+
+BASIC QUALIFICATIONS
+
+· Bachelor’s degree in Electrical Engineering or related field
+· 7+ years of development experience in an R&D capacity
+· Experience with Speech Recognition
+· Knowledge of digital signal processing techniques related to audio analysis and processing
+· Experience with creating fundamentally new signal processing technologies
+· Understanding of general acoustics
+· Experience with Linux audio capture and real time processing
+· C/C++ language and Matlab programming
+· Experience with working in a software development team, including software version control
+
+
+PREFERRED QUALIFICATIONS
+
+· Master's degree or PhD in Electrical Engineering
+· Ability and desire to create new technologies in the form of prototypes and patents
+· Strong personal interest in learning, researching, and creating new technologies with high commercial impact
+· Experience in various audio signal processing technologies
+· Real-time audio processing
+· Personal interest in audio and multimedia technologies
+· Independent, self-motivated worker requiring minimal supervision
+· Excellent communication skills
+
+Lab126 is part of the Amazon.com, Inc. group of companies and is an Equal Opportunity-Affirmative Action Employer – Minority/Female/Disability/Veteran/Gender Identity/Sexual Orientation.
+","Direct","https://www.amazon.jobs/en/jobs/541745/senior-research-scientist-audio","Voice / Speech;Online Shopping;Computer Hardware;Research & Development","Bachelors;Masters;PhD","Electrical Engineering;Related Field","","7","DSP;Real-Time Operating System (RTOS);Audio Analysis;Research & Development;Prototyping;Speech;Patents","C++;C;Matlab","","","","Linux","","","","Acoustics;Linux Audio"
+"2017/07/27 4:41:45 PM AST","Applications Engineer","Senior;Embedded","Dobly","San Francisco, CA","For the Engineer with a passion for audio technology and customer focused work, this is an amazing opportunity to step into Applications Engineering role. In this senior level position in SF, you will have the opportunity to showcase your breadth of audio codec and post processing knowledge, experience in the semiconductor world, and extraordinary customer support skills, by analyzing, resolving and recommending options to help our customers get the most out of Dolby’s products.
+
+Your primary mission will be to support implementations of latest audio technology with our IC customers. Bring your fluency with C/C++, coupled with low level audio driver development experience and digital signal processing knowledge, with a well-developed understanding of porting audio codecs, to deliver on our goals of first class customer satisfaction.
+
+Job functions
+You will provide Tier1 support, serving as major customer facing window, to US and Europe based customers, to help customer on questions about source code and design requirement from our audio implementation development kit.
+You will also provide the cornerstone support to internal field technical teams to facilitate Dolby’s technology licensing program using a diplomatic, professional and customer service oriented approach.
+Support the evaluation and approval of Dolby Licensed Implementations by confirming the accuracy of test results and producing professional, accurate written reports that communicate the conformance of these implementations compared with the established requirements.
+Work regularly with multi-functional teams across Dolby as the “voice of the customer” providing feedback on and driving advancements to Dolby’s licensing work you're doing.
+
+Functional requirements
+BS/MS in Electrical Engineering, Computer Science, or similar and 3+ years of engineering experience in consumer electronics or related fields.
+Ability to work both independently and collaboratively with multi-functional teams to achieve goals.
+Strong problem-solving abilities when working on complex technical problems.
+Excellent written and verbal English communication skills.
+Ability to adapt communication approach in an astute manner in order to work and solve technical problems collectively across a wide range of skill levels, cultures and backgrounds.
+Impeccable integrity and the ability to handle situations involving complicated, high-pressure legal or business relationships, as well as sensitive, confidential information.
+Occasional international travel is required for this position.
+Some experience in a customer support role is highly desirable.
+
+Technical requirements
+Experience with C or Assembly programming on embedded or DSP platform
+Solid knowledge on Digital Signal Processing for audio codec (e.g. AAC, Dolby Digital and Dolby Digital Plus etc).
+Related experience in several of the following areas:
+DSP algorithm porting, optimization and integration;
+Embedded Systems design;
+Software for embedded processors;
+Computer and Operating system architecture;
+DSP architectures and their multimedia frameworks;
+ARM toolchain;
+IP-based content delivery and playback products;
+Technology licensing.
+Knowledge of MPEG2-TS, MP4, adaptive streaming, HDMI interface is highly desirable.
+Understanding broadcast spec (DVB, ATSC, etc.), Blu-ray spec, IEC 60958/61937 spec is highly desirable.
+Interest in music, audio/video production, recording engineering, game/film audio or video highly desirable.
+","Direct","https://career4.successfactors.com/career?career%5fns=job%5flisting&company=Dolby&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=26862&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&_s.crb=KB0rYtOnDbd%2b%2fMOdgReIvK4RneA%3d","Audio Technology","Bachelors;Masters","Computer Science;Electrical Engineering;Related Field","","3","DSP;Streaming Audio;Audio Codec","C++;C;Assembly","","HDMI;ARM;MPEG-T2;MP4","","","","","","Licensing"
+"2017/07/27 5:00:04 PM AST","Engineer","Audio;Acoustic","Lenovo","Chicago, IL","Position Title: Audio and Acoustic Engineer
+Location: USA-IL-Chicago
+Functional Area: Engineering
+Facility: Corporate Office
+Relocation Provided: Yes
+Education Required: Bachelors Degree
+Experience Required: More than 10 years
+Travel Percent: 0 
+
+Position Description
+Audio Systems Engineer. 
+
+The candidate will join a team of Audio, Acoustic, and DSP engineers to research, develop, integrate, and optimize voice and music audio enhancement technology. 
+
+The candidate will be responsible for developing transducers and acoustic systems for cellular telephones and accessories. Responsibilities will include developing long range technology roadmaps for acoustic systems, product design and development, and advance proof of concepts. 
+
+His/her responsibilities include designing and prototyping new voice processing algorithms (Echo control / Microphone Noise reduction), testing and debugging audio algorithm performance, writing and optimizing DSP code in floating point and fixed point C. 
+
+Candidate will be responsible for developing multimedia audio enhancements such as non-linear bass enhancement, stereo image separation, implementation of head related transfer functions (HRTF), tone controls, and time-based audio algorithms such as flanging, echo, & reverb. 
+
+Candidate will be responsible for improving voice applications by developing compressor and frequency response shaping processing in conjunction with acoustic systems. Candidate will also be responsible for audio hardware system design, ASIC specifications, and some acoustic systems design.
+
+Position Requirements
+A BSEE and/or physics with an emphasis on acoustic design and theory with an MSEE highly desired. 
+
+Candidate should have experience in any of the following areas: acoustic transducer design, loudspeaker design, loudspeaker enclosure design (Acoustic suspension, bass reflex, bandpass), microphone and microphone array design. Knowledge of loudspeaker array design and theory. 
+
+Knowledge of acoustic simulation techniques including, lumped parameter simulation desired. Coursework and/or experience in numerical simulation with BEM and FEM simulation methodologies and tools desired. 
+
+Candidate should have familiarity with GSM, UMTS, CDMA, 3GPP, and 3GPP2 audio test standards, telephony test methodologies, and specialized acoustic test equipment from Bruel & Kjaer, R&S, and Head Acoustics. 
+
+Knowledge of DSP theory and hands-on experience with programmable DSP is desired, as well as the fixed-point C, C, and MATLAB programming experiences. Knowledge and experience in  speech and music processing integration, audio quality test, echo and noise canceller optimization, music signal processing optimization are highly desirable.
+Candidate should have experience in audio enhancement technologies in any of the following areas: Non-linear audio processing, Musical instrument effects, MIDI, Pro audio, analog and digital filtering.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class. 
+","Direct","https://lenovoworldwide.rolepoint.com/?shorturl=YJvM8#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgICQ3dfRwgoM","Music;Electronics;Mobile;Voice / Speech;Computer Hardware;Audio Technology","Bachelors;Masters","Electrical Engineering;Physics","","10","DSP;Debugging;Testing;Prototyping;Speech;MIDI","C;Matlab","","GSM;UMTS;CDMA;3GPP;3GPP2","Noise Reduction (Denosing);Reverb;Transducers (Microphones, Speakers, etc);Echo Control;Non-Linear Bass Enhancement;Stereo Image Separation;Head Related Transfer Functions (HRTF);Tone Controls;Flanging;Digital Filtering","","","","","Algorithms;Acoustics;Floating Point;Fixed Point"
+"2017/07/27 5:10:29 PM AST","Audio Programmer","","Turtle Rock Studios","Lake Forest, CA","Turtle Rock Studios is looking for a highly motivated Audio Programmer to join our core technology team. You'll be working on our new original IP as well as supporting our announce and unannounced projects. You must be able to work in a fast paced, iterative environment while maintaining open lines of communication with all departments. You must be self-driven and able to champion audio related features from conceptualization to completion.
+
+
+
+
+RESPONSIBILITIES
+◾Work with our team of audio designers and programmers to design, prototype, and implement new audio features.
+◾Maintain and improve our Audio technology pipeline and tool set.
+◾Figure out how to use existing technology to achieve new and unique audio features
+◾Work with the content team to meet project requirements within performance and memory budget
+
+
+
+
+Requirements
+◾A strong interest in audio processing and creating an awesome player experience
+◾At least 2 years of professional programming experience
+◾Ability to work independently and efficiently under deadlines.
+◾Shipped at least one console title
+◾Proficiency in C/C++ and Microsoft Visual Studio
+◾Strong communication and teamwork skills
+◾Solid math skills
+
+PREFERENCES
+◾Experience with next generation or previous generation consoles preferred
+◾Previous work on Multiplayer Action Games and FPS's is desirable
+◾Familiarity with Wwise
+◾Experience working with Unreal Engine 4
+◾Bachelor's degree or equivalent in Computer Science or Engineering
+","Direct","https://www.turtlerockstudios.com/careers","Games","Bachelors","Computer Science;Computer Engineering","","2","Math;Prototyping","C++;C","Unreal;Wwise","","","","Console","","","Pipeline"
+"2017/07/27 5:27:06 PM AST","Engineer","Audio","  Qualcomm Technologies, Inc.","San Diego, CA","The Hearables team in collaboration with the Advanced Technology R&D team is looking for a research engineer with a passion for signal processing and machine learning with application to multimedia and in particular audio/speech data. You will be working with a team of multi microphone signal processing and machine learning experts to develop advanced Hearables, IoT and mobile device use cases. The team includes systems, hardware and software engineers developing and porting newly designed solutions to real live prototypes shown at trade-shows and other customer events.
+
+ Responsibilities:  
+• Develop new signal processing/machine learning algorithms for speech and audio data in Matlab/C 
+•Tailor algorithms to particular use cases and implement in corresponding prototypes in collaboration with software/hardware engineers; file corresponding IP 
+•Combine audio/speech feature set with other modalities such as sensors and video 
+•After successful demos to technical and non technical audiences, work with commercialization teams to transfer and deploy newly developed technology solutions onto QCOM platforms 
+
+ Professional Attributes and Desired Skills:  
+•1 year R&D experience in academic/industrial setting 
+•Familiarity with recent trends in machine learning such as deep neural nets (DNN, CNN, LSTM-RNN) and traditional statistical modeling/feature extraction techniques (GMM, HMM, NMF / spectrograms, MFCC etc) for voice recognition and audio event classification 
+•Hands-on experience in and good theoretical understanding of signal processing concepts such as adaptive filtering, multi microphone processing, acoustic noise cancellation, filterbank design with application to time series signals 
+•In addition to signal processing algorithm development, willingness to engage in hands-on R&D in machine learning and modeling of speech/audio data (neural nets, GMM, NMF, etc) 
+•Coding experience in Matlab, C 
+•Working in cross disciplinary, geographically-dispersed teams 
+
+Required: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering
+Preferred: Doctorate, Computer Engineering and/or Computer Science and/or Electrical Engineering
+
+*LI-SRC  
+Keywords   Signal processing, adaptive filtering, multiple microphones, machine learning  
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1956878","Communications;Semiconductors","Masters;PhD","Computer Science;Electrical Engineering;Computer Engineering","","1","DSP;Real-Time Operating System (RTOS);Machine Learning;Neural Networks;Prototyping;Speech","C;Matlab","","","Noise Reduction (Denosing);Transducers (Microphones, Speakers, etc);Digital Filtering","","","Machine Learning;Signal Processing","","Expert;Algorithms;IP"
+"2017/07/27 5:34:38 PM AST","Software Engineer","Audio;Embedded;Technologies;Experienced","Qualcomm Technologies, Inc.","Bristol, UK","Want to change the way people hear their world? 
+
+Would you like to see your hard work integrated into innovative new commercial products that you and your family can buy in the local electronics store? Would you enjoy playing a part in the success of some of the world’s most well-known audio and electronics brands, enabling high quality sound in wireless headphones and soundbars, voice interaction and control in the home and on the go and contributing to other exciting future audio technologies like hearables? Like to help bring entertainment and the joy of premium entertainment to peoples’ lives? 
+
+If this appeals to you, you might be interested in one of the challenging, hands on software engineering roles we have open today at all levels in our Cambridge, Bristol and Belfast offices.
+
+As a part of the global Qualcomm team, you’d join the world’s leader in mobile technology and increasingly in the IoT, working with the Voice and Music team based in Cambridge. We are a team of innovators, passionate about voice and music, with a mission to deliver exceptional wireless audio, that is powering the soundtrack to people’s lives.
+
+Come share our passion for innovation in connectivity, compute, security and premium sound.
+
+Job Overview:
+
+Qualcomm has exciting opportunities for those interested in developing their careers in the areas of BT and WiFi radio firmware development, Protocol firmware development, Audio DSP development, System on Chip platform firmware development, Application developers, Software tools developers, and System validation. This is an opportunity to work on the next generation of industry leading silicon-on-chip (SoC) devices for the growing Wireless Audio and Internet of Things (IoT) market including voice activated wireless speakers and wearable audio devices. 
+
+Qualcomm offers fantastic technical and managerial career paths with excellent mentoring from world leading engineers. You will get to apply the latest technologies to develop leading edge, real world products. 
+
+Roles range from entry level to industry specialists.
+
+
+Key Responsibilities:
+
+• Deliver and test high-quality software in line with the departments processes to an agreed timescale
+
+• Maintain the software, including defect investigation
+
+• Conduct peer software reviews
+
+• Proactively create the relevant documentation
+
+• Develop and maintain software test scripts including defect investigation
+
+
+
+Essential Skills & Experience:
+
+• A university degree in Computer Science, Software Engineering or Electronic Engineering or similar
+
+• Competent programmer in one or more programming languages including embedded C
+
+• Excellent problem solving ability
+
+• Competent in software debug techniques
+
+• Solid understanding of configuration management
+
+• Effective team player 
+
+• Good communicator
+
+
+
+Desirable Skills & Experience
+
+• Some knowledge of wireless communication systems
+
+• Some Unix or Linux knowledge
+
+• Some experience of assembler programming 
+
+• Some experience of script programming
+
+• Some experience of ARM processors
+
+• Some software team management experience for senior roles
+
+A university degree in Computer Science, Software Engineering or Electronic Engineering or similar
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1954803","Communications;Mobile;Semiconductors","Bachelors","Computer Science;Electrical Engineering;Software Engineering;Related Field","","","DSP;System On a Chip (SoC);Testing","C","","ARM","","","","","",""
+"2017/07/27 5:43:33 PM AST","DSP Developer","Audio","Qualcomm Technologies, Inc.","Bangalore, India","Job Overview Qualcomm is a pioneering designer and developer of silicon and software for the consumer electronics market and a global leader in wireless technology. We are looking for DSP Software engineers based at our Bangalore site. The role of the Embedded Software Engineer is to design, develop and test embedded software for Qualcomms wireless chips, focusing on Qualcomms Kalimba DSP. Working as part of a small team, you will work on DSP frameworks and applications, integrating algorithms into the DSP framework, (occasionally) developing new audio processing algorithms and developing test scenarios and debugging problems. Some of the software development will be in Kalimba DSP assembly, but various other parts of the system use C. Various different programs are used on PCs for debugging/testing and emulating host processor functionality. These are written in a variety of languages including C, C++, Python, Perl, Matlab and Tcl.   
+Minimum Qualifications   Key Responsibilities:
+ Production of quality embedded DSP software for Qualcomm products 
+ Problem solving and code debugging 
+ Providing support on customer issues/requirements to application engineers 
+ Providing input to project planning and timescales 
+ Creation of engineering documentation 
+ Development of Qualcomm intellectual property and submission of patent applications.
+Minimum Qualifications Proven experience of writing efficient assembly and C code for resource constrained systems
+ Sound knowledge of audio engineering and signal processing theory and techniques
+ Extensive hands-on experience with Audio DSP development on embedded systems.
+ Enthusiasm for solving interesting problems, and excellent trouble shooting and analytical skills that can be applied to resolve potential system issues 
+ Highly professional and flexible, with the ability to deliver high quality work on tight schedules 
+ Eager to learn, self-motivated, independent, proactive and able to work effectively in a multi-site team 
+ Effective verbal and written communication skills
+ 5-15 years of relevant industry work experience.
+ Engineering degree in Computer Science or Electronics
+Preferred Qualifications Familiarity with Python scripting
+ Prior experience of working on Qualcomm/CSR chips Proven track record of developing signal processing algorithms, preferably audio 
+ Understanding of software development techniques and experience in system architecture and design using established methodologies
+ Knowledge of digital hardware concepts and familiarity with hardware-software co-design principles
+ Familiarity with wireless technologies, and exposure to digital baseband and RF concepts  
+Preferred Qualifications   Key Responsibilities: Production of quality embedded DSP software for Qualcomm products Problem solving and code debugging Providing support on customer issues/requirements to application engineers Providing input to project planning and timescales Creation of engineering documentation Development of Qualcomm intellectual property and submission of patent applications. Minimum Qualifications Proven experience of writing efficient assembly and C code for resource constrained systems Sound knowledge of audio engineering and signal processing theory and techniques Extensive hands-on experience with Audio DSP development on embedded systems. Enthusiasm for solving interesting problems, and excellent trouble shooting and analytical skills that can be applied to resolve potential system issues Highly professional and flexible, with the ability to deliver high quality work on tight schedules Eager to learn, self-motivated, independent, proactive and able to work effectively in a multi-site team Effective verbal and written communication skills 5-15 years of relevant industry work experience. Engineering degree in Computer Science or Electronics Preferred Qualifications Familiarity with Python scripting Prior experience of working on Qualcomm/CSR chips Proven track record of developing signal processing algorithms, preferably audio Understanding of software development techniques and experience in system architecture and design using established methodologies Knowledge of digital hardware concepts and familiarity with hardware-software co-design principles Familiarity with wireless technologies, and exposure to digital baseband and RF concepts  
+      
+Education Requirements   Required: Bachelor's, Computer Engineering
+Preferred: Master's, Computer Engineering 
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1954206","Communications;Semiconductors","Bachelors;Masters","Computer Science;Electrical Engineering;Computer Engineering","","5","DSP;Embedded","C++;Python;C;Matlab;Assembly;Perl;Tcl","","Kalimba","Digital Baseband;RF","","","","","Algorithms"
+"2017/07/27 5:46:52 PM AST","Software Engineer","Audio;Technologies","  Qualcomm Technologies, Inc. ","Cambridge, UK","Join a team of Agile embedded C practitioners crafting embedded applications for leading edge Voice and Music chipsets. An experienced Developer will apply practices such as Test Driven Development and Continuous Integration to develop embedded C applications for our current and future range of Bluetooth and Wifi technology. These will run on our leading edge audio platforms sold to the best known audio and HiFi companies across the globe. Key Responsibilities / skills Collaborating with Product Marketing to define user stories 
+Develop re-usable platform software. 
+Apply TTD to develop working code with automated unit tests 
+Play a significant role in continuous development of the departments processes to shorten cycle time. 
+Create relevant documentation following the departments processes 
+Assist/Lead external inter-operability and compliance test events 
+Provide mentoring and guidance to engineers on technical issues and software engineering principles 
+Demonstrate a passion for good software design and clean code 
+  
+Minimum Qualifications   
+Degree or equivalent qualification and experience
+
+Advanced understanding of embedded software design techniques
+
+Familiarity with automated C/ C++ unit test harnesses e.g. Unity, CUnit, CPPUnit
+
+Good understanding of debug techniques
+
+Advanced understanding of software architecture
+
+Good understanding of configuration management
+
+Familiarity dealing with hardware designs, schematics and signalling
+
+Excellent communication skills both within an engineering team and to customers and marketing
+
+Extensive commercial embedded software development experience using C and be familiar and comfortable with hardware interfaces
+
+A passion for developing quality wireless audio products for consumers
+
+Proven success in taking ownership of embedded software engineering projects within tight technical constraints
+
+  
+Preferred Qualifications    Good understanding of multi-processor architectures and peripherals 
+Good experience of wireless communication protocols 
+Good experience working directly with customers or marketing 
+iOS, Android or Windows development experience 
+Knowledge of DSP, audio and wireless technology is a benefit 
+Knowledge of Python scripting 
+Experience of Continuous Integration tools e.g. Jenkins 
+Experience with SCRUM development framework 
+  
+      
+Education Requirements   Degree in Engineering, Computer Science or related discipline or equivalent experience  
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1956124","Communications;Semiconductors","","Computer Science;Electrical Engineering;Computer Engineering","","","DSP;Embedded;TDD","C++;Python;C","Miles;Bluetooth","","","","","","",""
+"2017/07/27 5:54:17 PM AST","Researcher","Audio;Codec","  Qualcomm Atheros Inc.","Auburn Hills, MI","Research leading to the implementation of proprietary audio codec solutions. Investigations will define improvements and extensions to existing codecs along with requirements and roadmap for future solutions. Responsibilities: Supporting project management including definition of scope and schedule for assigned projects Maintenance and improvement of existing codec algorithms Performing Research and Feasibility Studies including defining the scope and goals of audio codec research tasks and completion of detailed reports on results and recommendations for development activities Development of new algorithmic IP for audio codec solutions in the form of invention report submissions.   
+Minimum Qualifications   PhD degree in electrical engineering with concentration on communication, digital signal processing and correlated areas including:
+Experience with sub-band processing used in audio coding and perceptual audio codec design
+Experience with codec algorithms such as SBC, MP3, AAC, OPUS, aptX and others
+Background knowledge in digital signal processing and mathematics
+Publication records in scholarly conferences or journals with international circulation in the field of audio or speech processing
+Working experience with Matlab for algorithm development
+Experience in analyzing audio problems using tools such as Matlab, Adobe Audition and objective evaluation programs
+Experience with fixed-point programming and effects on algorithm development
+  
+Preferred Qualifications   Experience in bringing theoretical ideas to an efficient design is highly desired Knowledge of/experience with industry standards Familiarity with patent application process and IP filing strategies Ability to work without close supervision Ability to guide and assist members of the group on technical issues Excellent technical writing and presentation skills Excellent communications and organizational skills Excellent team player   
+      
+Education Requirements   PhD in Electrical Engineering, Computer Science, or related fields.
+
+*LI-SRC  
+Keywords   Audio processing and coding, signal processing, data compression, information theory, psychoacoustics and perceptual audio coding  
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1956680","Communications;Semiconductors","PhD","Computer Science;Electrical Engineering","","","DSP;Math;Patents;Audio Codec","Matlab","","AAC;Adobe Audition;MP3;OPUS;aptx","","","","","","Algorithms;IP"
+"2017/07/27 5:59:58 PM AST","Engineer","Senior;Audio;DSP","Qualcomm Technologies, Inc.","Noida, India","Looking for a skilled Embedded Engineer experience in DSP software implementation of algorithmic solutions for audio. Candidate will be responsible for designing and developing a highly complex Audio and DSP platform. Writing, debugging, optimizing and testing of Matlab, embedded C and assembly source code with an emphasis on audio applications. Member of the Innovation team at Qualcomm, responsible for providing technical expertise covering following: - -Writing, debugging, optimizing and testing of Matlab, embedded C and assembly source code with an emphasis on audio applications -Maintenance and improvement of existing audio algorithm code base including audio CODEC design and development, music enhancement, dynamic range control, acoustic event detection, packet loss compensation, and other audio enhancements -Supporting Research and Feasibility Studies including defining the scope and goals of audio research tasks and completion of detailed reports on results and recommendations for development activities -Improve scalability of system in terms of both hardware and software -Implementation of key modules and can develop quick working prototypes.   
+Minimum Qualifications   -Develop DSP algorithms and software for recognizers, demodulators, and decoders
+-Serve as key DSP developer that performs collaborative software development tasks
+-Develop, analyze, and perform maintenance of Digital Signal Processing (DSP) software for Radio Frequency (RF) systems.
+-Perform unit testing, integration testing, and end-to-end system testing.
+-Hands on experience in design and development on RTOS (ThreadX) and usage of IDE, toolchain, debuggers.
+-Worked on programming and interfacing peripherals like timers, UART, SPI, IO, sensors and actuators. 
+-Demonstrated experience creating technical documentation like design and/or specification documents.
+-Solid programming experience in C or C++.
+-Proven experience in embedded systems design with preemptive, multitasking real-time operating systems
+-Excellent knowledge of OS coding techniques, IP protocols, interfaces and hardware subsystems.
+-Experience in hardware security modules like secure storage and secure boot would be a plus.
+  
+Preferred Qualifications   -Bachelor's degree in Computer Science or related field from premier institute (IIT or REC). -Overall 8 to 10 years of experience. - 5 years or more experience Digital Signal Processing, signal modulation/demodulation, and error control coding.  
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1955984","Communications;Semiconductors","Bachelors","Computer Science;Related Field","","8","DSP;Real-Time Operating System (RTOS);Audio Codec","C++;C","","","Demodulation;Modulation","","","","",""
+"2017/07/27 6:05:00 PM AST","Software Engineer","DSP","Qualcomm Atheros Inc.","Auburn Hills, MI","An employee in this position will be primarily involved with DSP software implementation of algorithmic solutions for audio. Responsibilities: •Writing, debugging, optimizing and testing of Matlab, embedded C and assembly source code with an emphasis on audio applications 
+•Maintenance and improvement of existing audio algorithm code base including audio CODEC design and development, music enhancement, dynamic range control, acoustic event detection, packet loss compensation, and other audio enhancements 
+•Supporting Research and Feasibility Studies including defining the scope and goals of audio research tasks and completion of detailed reports on results and recommendations for development activities 
+•Project management tasks including creation and maintenance of requirements and schedule documentation for assigned projects 
+•Provide international customer support, liaison, technical training and conference papers as dictated by the assigned projects 
+ 
+Minimum Qualifications   Advanced degree or 5+ years of experience in algorithm design for audio or speech signal processing including:
+•Understanding of Sample and Linear system theory
+
+•Experience using Matlab
+
+•Fixed-point DSP programming
+
+•Experience with audio processing techniques for voice and music
+
+•Knowledge of/experience with industry standards
+
+•Basic experience with analog and digital circuitry
+
+•Basic experience with Network Protocols and Standards: VoIP, xDSL, ATM, Frame Relay, IP, TCP, UDP, RTP/RTCP.
+
+
+ 
+Preferred Qualifications   MS in Electrical/Computer Engineering with emphasis in audio or speech signal processing Experience in analyzing audio problems using tools such as Matlab, Adobe Audition and objective evaluation tools Knowledge of C/C++, assembly language and a scripting language such as Python Experience with echo cancellation and noise reduction techniques Familiarity with audio portions of wireless standards such as Bluetooth Experience with standard DAC, ADC, data flow controls, SPI, I2C, PCM, uLaw, aLaw and others. Exposure to a multitude of DSP architectures and platforms. Ability to take ownership of projects with minimal supervision Ability to guide and assist members of the group on technical issues.  
+      
+Education Requirements   BSEE or equivalent experience  
+Keywords   DSP, Audio, Algorithm, Voice processing, Music processing, echo cancellation, adaptive signal processing.  
+","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1954742","Communications;Semiconductors","Bachelors;Masters","Electrical Engineering;Computer Engineering","","5","DSP;Embedded;Speech;Audio Codec","C;Matlab","","VoIP;UDP;TCP","Echo Control","","","","","Algorithms"
+"2017/07/27 8:01:38 PM AST","Research & Development Engineer","Audio;3D;VR","Qualcomm Technologies, Inc.","San Diego, CA","	The 3D Audio team at Qualcomm is spearheading the development and adoption of 3D audio technology for traditional TV broadcast as well as for Virtual Reality (VR) and internet streaming. The team has developed technology that removes the redundancy and irrelevancy in audio representations. That technology is part of the recent MPEG-H 3D Audio standard and is gaining a lot of traction in the emerging areas of VR and AR as seen by the proliferation of Ambisonics support on all the major 360 video platforms. In addition, the candidate is expected to contribute to research and development in the field of 3D Audio, its representation, its transport for traditional TV systems as well as streaming over the internet as well as building best-in-class rendering algorithms for VR consumption as well as loudspeaker and speaker-bar consumption. Links to papers published :
+http://ieeexplore.ieee.org/document/7874294/
+http://www.aes.org/e-lib/browse.cfm?elib=18329
+http://www.aes.org/e-lib/browse.cfm?elib=18493
+http://ieeexplore.ieee.org/document/7399639/
+Minimum Qualifications		3+ yrs. of industry experience required in one or more of the following areas:
+Programming in C/C++ and Matlab
+3D Audio production tools: Experience in creating plugins for HOA and Objects based audio (AAX, VST, etc) 
+Audio Coding: Knowledge and experience in Audio Coding (AAC, USAC, MPEG-H) and Source Coding/Information Theory
+Broadcast/Streaming Workflow: Knowledge and experience A/V transport in Television plants.
+3D Audio Rendering & VR: Concept and knowledge of 3D Audio rendering algorithms over loudspeakers and headphones
+Preferred Qualifications		Programming on mobile platforms for Android and/or iOS.
+Education Requirements		Required: Master's, Computer Engineering and/or Computer Science and/or Electrical Engineering, Music Technology, Acoustics and/or related areas. 
+Preferred: Doctorate, Computer Engineering and/or Computer Science and/or Electrical Engineering, Music Technology, Acoustics and/or related areas.
+Keywords		Scene-based audio, Higher order ambisonics (HOA), MPEG-H, Audio compression, Audio coding, Virtual Reality, Augmented Reality, Surround sound, HRTF, Binaural audio, Speaker bars, Audio production, Spatial audio, ATSC, DVB, Next gen audio (NGA)","Direct","https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1955516","Communications;Broadcast Media;Research & Development;Audio Technology;Semiconductors","Masters;PhD","Computer Science;Electrical Engineering;Computer Engineering;Music Technology;Acoustics;Related Field","","3","Streaming Audio;Transcoding;3D Audio;Spatial Sound","C++;C;Matlab","VST;AAX;Higher Order Ambisonics (HOA)","AAC","","iOS;Android","","","",""
+"2017/07/27 8:16:10 PM AST","Software Engineer","Audio;Embedded","nest","Palo Alto, CA","Description
+As a Nest Embedded Audio Software Engineer you will be a crucial part of the team that is enabling audio in the Thoughtful Home, creating new experiences that enhance communication, privacy, and control. You will architect, design, and implement embedded software solutions that enable innovative audio features on existing and future Nest products. The ideal candidate is a strong programmer with experience in media software design and implementation.
+The Work:
+Develop novel media solutions for connecting people and devices
+Build high quality device software for Nest’s media services
+Develop, enhance, and maintain embedded audio algorithm software
+Write clear, maintainable, and performant code
+Work closely with server-side audio engineers to create peer-to-peer and cloud-based solutions
+Work cross functionally with the Algorithm team, Product Marketing, TechOps, and Integration Engineering
+Minimum Qualifications:
+Bachelor’s degree (or higher) in Computer Science, Mathematics, Statistics, or related field
+3+ years of experience in multiple programming languages (e.g. C/C++, Python, Java)
+
+Preferred Qualifications:
+Proficient in designing, building, and debugging application software for embedded systems
+Comfortable working on Linux-based and RTOS platforms
+Experience with kernel and driver development for media applications
+Experience building high quality client software for real-time communications, e.g. WebRTC (audio and/or video), on embedded platforms
+Experience in developing signal processing solutions for real-time communications is a plus
+Matlab proficiency a plus
+A passion and curiosity for creating and building things
+Understanding of testing methodologies
+3+ years of software development experience
+Experience with code coverage and static analysis tools
+","Direct","https://webcache.googleusercontent.com/search?q=cache:H4zTjxPMNbkJ:https://jobs.jobvite.com/nest/job/oad84fwj+&cd=1&hl=en&ct=clnk&gl=us","Computer Hardware;Home Automation","Bachelors","Computer Science;Mathematics;Statistics;Related Field","","3","DSP;Embedded;Real-Time Operating System (RTOS);Testing","C++;Python;C;Java;Matlab","WebRTC","","","Linux","","","","Algorithms"
+"2017/07/27 8:24:26 PM AST","Software Engineer","Audio;Tools;Infrastructure","nest","Palo Alto, CA","Nest’s Integration Engineering team is looking for a strong Software Engineer, Tools & Infrastructure for our Nest product audio solutions. Your focus is to develop tools, frameworks, virtual/physical fixtures, and supporting infrastructure for our product audio solutions to ensure we can collect and analyze the data that drives critical product, business, and quality decisions for our customers.
+
+The Work:
+Test by taking a holistic system level approach - pay equal attention to all parts of the audio chain including transducers, acoustics, electronics and the intelligent signal processing software that ties it all together
+Collaborate with the audio systems and DSP teams to test features that are implemented at the end of each sprint
+Contribute to the design and development of an effective and functional audio test lab with required tooling and analyzers
+Deliver efficient and thorough automated testing
+Investigate and triage bugs to determine root cause and establish prioritization
+Shape test processes to ensure exceptional sound quality and audio experience for Nest customers
+Be a passionate advocate for software and product quality
+Minimum Qualifications:
+BS degree in Computer Science or Computer Engineering
+5+ years of experience working on embedded consumer electronic devices
+Preferred Qualifications:
+Experience working with A2DP, audio quality testing, or audio sync and latency testing
+Proficient expertise with wireless RF protocols and communication such as Bluetooth, BLE, Wifi
+Hands on experience developing automation and tests for audio product integration and performance
+Working knowledge of Bluetooth and wifi tools such as Ellisys bluetooth protocol analyzers, Wireshark, Airpcap
+Working knowledge of audio analyzers and test configuration tools such as Audio Precision and HATs, microphones, audio enclosures
+Knowledgeable with IP based networking, protocols, and socket programming
+Experience working with embedded consumer electronic device
+Experience in DSP is a plus
+Experience testing microphone arrays and speaker array (e.g echo cancellation, noise suppression, beam forming)
+Solid understanding of audio test and measurement methods
+Passionate about high quality sound
+Experience driving Effective Software QA processes and methodologies and history of shipping product with high quality
+Experience Developing robust and scalable automation frameworks and tests
+Understanding of micro controllers and protocols such as I2C, SPI a plus
+Experience with Linux","Direct","https://nest.com/careers/positions/oya84fwE/audio-software-engineer-tools-infrastructure","Computer Hardware;Home Automation","Bachelors","Computer Science;Computer Engineering","","5","DSP;A/V Sync;Microcontrollers;Testing","","Bluetooth","A2DF","Noise Reduction (Denosing);Latency;Transducers (Microphones, Speakers, etc);Echo Control;RF","Linux","","","","Sockets"
+"2017/07/27 8:31:09 PM AST","Software Engineer","Core Audio","Apple","Santa Clara, CA","Core Audio Software Engineer
+Job Number: 70888589
+Santa Clara Valley, California, United States
+Posted: Jun. 6, 2017
+Weekly Hours: 40.00
+Job Summary
+The Interactive Media Group (IMG) provides the audio, video, and graphics foundation across all of Apple's innovative products, including iPhone, iPod, iPad, Apple TV, Apple Watch, iTunes, and Mac OS X, as well as professional and consumer applications from Final Cut and Logic to iLife and iWork. The Core Audio team within IMG is looking for a software engineer with experience and passion in audio systems implementation to work on the audio infrastructure of Apple's devices. The work we do is crucial to Audio, Music and Speech processing across all of Apple's platforms and directly impacts the end user experience with respect to high profile features such as Siri, Phone Calls, Music/Movie Playback etc. These platforms and features have a considerable level of complexity in the way that audio is routed through the system and integrates the various hardware pieces that are available. The design intuition we are looking for should lean towards elegance and simplicity. The position will involve developing and enhancing the software components and features that are responsible for real-time audio applications.
+Key Qualifications
+Excellent software system design/programming skills in C++ and/or objective C
+3+ years of software development experience
+Experience working with digital audio is preferred
+Description
+The ideal candidate must be a self-starter with excellent communication skills and attention to detail. The candidate must be a team player, but also be able to work effectively on their own. The fast-paced nature of the job requires a candidate who can work well under pressure. We are seeking someone who is passionate about audio and is interested in improving the quality of audio experience for our customers.
+Education
+BS/MS/PhD in CS, EE, or related
+","Direct","http://apple.com","Electronics;Mobile;Computer Hardware","Bachelors;Masters;PhD","Computer Science;Electrical Engineering;Related Field","","3","System Architecture","C++;Objective-C","","","","","","","",""
+"2017/07/27 8:49:45 PM AST","Software Engineer","Audio;DSP;Platform;Architecture;Digital","Apple","Santa Clara","Job Number: 57267938
+Santa Clara Valley, California, United States
+Posted: May. 2, 2017
+Weekly Hours: 40.00
+Job Summary
+Apple is seeking a highly motivated Digital Audio Software & DSP Engineer to take a key role in the architecture of the next generation of low-power audio processors and associated software & tools.
+Key Qualifications
+The ideal candidate will have 10+ years of experience in the audio industry
+Experience in the pro-audio, musical instrument, broadcast, or professional equipment environments
+Practical programming experience in C, C++ and DSP processors/languages
+Good mathematical knowledge as applied to audio problems and their solutions
+Description
+As a member of the audio processor team, the ideal candidate will contribute to many areas of audio control and DSP software. This will include designing, programming, testing and debugging new audio processing and programming tools, as well as introducing internal users to these new processors and languages. This is very much a digital audio hands-on design and engineering role where you can make a difference to the future of real time audio processing at Apple. Responsibilities include: - Design of the following: digital filters, noise shaping, sample-rate conversion, dynamics processing, reverberation, equalization - Willingness to attack new problems - Ability to adapt to new languages, problems and tools while using previous digital audio experience
+","Direct","","Electronics;Mobile;Computer Hardware","","","","10","DSP","C++;C","","","","","","","","Musical Instruments"
+"2017/07/27 8:50:56 PM AST","Software Engineer","Audio;WiSE;BaseBand","Apple","Santa Clara, CA","Job Number: 56707706
+Santa Clara Valley, California, United States
+Posted: Apr. 28, 2017
+Weekly Hours: 40.00
+Job Summary
+Join our Wireless Software Engineering team and drive innovation that matters! We create and seamlessly integrate technologies that enrich people’s lives and deliver the absolute best user-experience. If you're passionate about Audio Engineering and Embedded Systems and want to work on the World's most cutting edge mobile systems, then we may have the job for you.
+Key Qualifications
+This position is hands-on and requires working knowledge of software development in C / C++ and Perl, as well as the software development workflow. Experience with Gitlab a plus. Requirements in include the following:
+Experience and familiarity with cellular handset audio, including 3GPP specifications.
+Experience and familiarity with cellular audio test equipment such as call boxes (CMW500) and audio analyzers (Audio Precision).
+Experience and familiarity with analysis tools such as Adobe Audition or similar.
+Experience and familiarity with audio signal processing, including fixed point and floating point processing, sampling theory, typical audio signal processing algorithms such as AGC, filtering, noise suppression, echo cancellation, vocoding, etc.
+Experience and familiarity with the voice path of 3GPP UE terminals from MRP/ERP to the modem payload buffer interface for both CS and VoLTE.
+Experience architecting and writing audio driver software.
+Description
+Work with one of Apple's most exciting groups! Apple’s Baseband Audio Engineers deliver some of the most cutting-edge technologies found in today’s Consumer Electronics. As a Baseband Audio Engineer at Apple, you will: Implement state-of-the-art audio programming solutions for the next generation of mobile devices. Implement, port, and deploy AMR-WB, AMR-NB, CELP, EVRC-B, EVRC, EVS Vocoders, and Jitter Buffers on Mobile devices. Develop drivers for I2S, PCM, and other audio interfaces Interact with SW design teams, network equipment vendors, carriers, QA, and other teams to analyze and develop practical solutions which enhance Apple’s Software Products.
+Education
+MS or PhD in Electrical, CS or other related field. 7+ years and direct experience with Signal Processing and/or Human Auditory Systems.
+","Direct","","Electronics;Mobile;Computer Hardware","Masters;PhD","Computer Science;Electrical Engineering;Related Field","","","DSP","C++;C;Perl","Wwise","Git;3GPP","Noise Reduction (Denosing);Echo Control;Digital Filtering;Digital Baseband","","","","","Floating Point;Fixed Point"
