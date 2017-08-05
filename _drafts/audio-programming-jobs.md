@@ -24,7 +24,36 @@ One way to start to answer these questions is to look at what the market says th
 
 ### Research
 
+I went through {{ site.data.audio-jobs | size }} job postings.
+
+
 #### Titles
+{% for job in site.data.audio-jobs %}
+   {% assign title = job.Title | replace: ",", " " | replace: ")", " " | replace: "(", " " | replace: "/", " " | downcase | split: " " | join: ", " %}
+   {% if forloop.first == false %}
+      {% assign title_tokens = title_tokens | append: ", " %}
+   {% endif %}
+   {% assign title_tokens = title_tokens | append: title %}
+{% endfor %}
+
+{% assign title_tokens = title_tokens | split: ", " | sort %}
+{% assign current_token = "" %}
+{% for title_token in title_tokens %}
+   {% if current_token == title_token %}
+      {% assign count = count | plus: 1 %}
+   {% else %}
+      {% if current_token != "" %}
+         {{ current_token | append: ":" | append: " " | append: count }}
+      {% endif %}      
+      {% assign current_token = title_token %}
+      {% assign count = 1 %}
+   {% endif %}
+   {{ title_token }}
+   
+{% endfor %}
+{{ title_tokens }}
+
+
 
 * highest word frequency
 
