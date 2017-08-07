@@ -8,7 +8,7 @@ I've been thinking a lot about the field of audio and its prospects as a softwar
 
 I've read a big chunk of [So Good They Can't Ignore][so-good-they-cant-ignore-you] by Cal Newport and I've taken away that for the vast majority of people, becoming highly skilled at something comes before passion.  We often try to find our passion first and then pursue it; however, when you examine passionate, successful people, it's often the case that their passion (and subsequent desirable lifestyle) came after investing in becoming a "craftsmen" in their field.  They built upon acquired career capital instead of starting from scratch in a new field.
 
-I've read a big chunk of [Soft Skills: The software developer's life manual][soft-skills-sonmez] by John Sonmez and one of the things I've taken away that a software engineer needs to specialize.
+I've read a big chunk of [Soft Skills: The software developer's life manual][soft-skills-sonmez] by John Sonmez and one of the things I've taken away is that a software engineer needs to specialize.
 
 I've done a lot of reading and researching.  Some of the links I've come across can be found [here](#audio-links).
 
@@ -43,17 +43,17 @@ I went through {{ site.data.audio-jobs | size }} job postings.
       {% assign count = count | plus: 1 %}
    {% else %}
       {% if current_token != "" %}
-         {{ current_token | append: ":" | append: " " | append: count }}
+         {% assign results = results | append: current_token | append: ":" | append: " " | append: count | append: "; " %}
       {% endif %}      
       {% assign current_token = title_token %}
       {% assign count = 1 %}
-   {% endif %}
-   {{ title_token }}
-   
+   {% endif %}   
 {% endfor %}
-{{ title_tokens }}
 
-
+{% assign results = results | split: "; " %}
+{% for result in results %}
+   {{ result }}
+{% endfor %}
 
 * highest word frequency
 
