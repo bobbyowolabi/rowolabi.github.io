@@ -10,8 +10,6 @@ I've read a big chunk of [So Good They Can't Ignore][so-good-they-cant-ignore-yo
 
 I've read a big chunk of [Soft Skills: The software developer's life manual][soft-skills-sonmez] by John Sonmez and one of the things I've taken away is that [a software engineer needs to specialize][generalists-specialists].
 
-I've done a lot of reading and researching.  Some of the links I've come across can be found [here](#audio-links).
-
 What do you call a software engineer that works in audio?  An audio programmer?  An audio software engineer?  How about an audio digital signal processing (DSP) engineer?
 
 What domains do such individuals work in? Music? Speech? Communications?  Academia?  Gaming?
@@ -24,7 +22,7 @@ One way to start to answer these questions is to look at what the market says th
 
 ### Research
 
-I manually went through {{ site.data.audio-jobs | size }} job postings.  The following a
+I manually went through {{ site.data.audio-jobs | size }} job postings.  The following are my findings.
 
 
 #### Titles
@@ -33,14 +31,33 @@ I manually went through {{ site.data.audio-jobs | size }} job postings.  The fol
 The following words appeared in the title of job postings at least {{ min_title_frequency }} times.
 <canvas id="title-token-frequencies"></canvas>
 
-##### Frequency of Combination of W
-
-* Different Title Combinations
-ex: software engineer, research, dsp, etc
-
-
-
 #### Locations
+CA - 49
+WA - 21
+MI - 6
+MA - 21
+GA - 2
+TX - 5
+IL - 3
+FL - 5
+UT - 2
+CO - 1
+IN - 1
+MD - 1
+
+UK - 12
+India - 6
+China - 4
+Sweden - 2
+Finland - 2
+Germany - 2
+Italy - 1
+Belgium - 1
+Taiwan - 1
+Spain - 2
+Poland - 1
+Singapore - 1
+
 
 
 #### Industries
@@ -94,10 +111,6 @@ I think what Mckenzie is saying makes sense.  I don't think my original question
       </tr>
    {% endfor %}
 </table>
-
-### Audio Links
-
-
 
 <script src="js/Chart.bundle.min.js"></script>
 {% for job in site.data.audio-jobs %}
