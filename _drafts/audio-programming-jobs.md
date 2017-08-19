@@ -22,49 +22,135 @@ One way to start to answer these questions is to look at what the market says th
 
 ### Research
 
-I manually went through {{ site.data.audio-jobs | size }} job postings.  The following are my findings.
+I manually went through [{{ site.data.audio-jobs | size }} job postings](#data).  Below are my findings:
 
 
-#### Titles
-##### Frequency of Words in Titles
+#### Frequency of Words in Titles
 {% assign min_title_frequency = 4 %}
 The following words appeared in the title of job postings at least {{ min_title_frequency }} times.
 <canvas id="title-token-frequencies"></canvas>
 
 #### Locations
-CA - 49
-WA - 21
-MI - 6
-MA - 21
-GA - 2
-TX - 5
-IL - 3
-FL - 5
-UT - 2
-CO - 1
-IN - 1
-MD - 1
+<iframe src="https://www.google.com/maps/d/embed?mid=15iWFbSMQD8Xs7caPrpaQ1HBpyLI" width="100%" height="480"></iframe>
 
-UK - 12
-India - 6
-China - 4
-Sweden - 2
-Finland - 2
-Germany - 2
-Italy - 1
-Belgium - 1
-Taiwan - 1
-Spain - 2
-Poland - 1
-Singapore - 1
-
-
+The frequency of postings by State / Country:
+<table>
+  <tr>
+    <th>Location</th>
+    <th>Number of Postings</th>
+  </tr>
+  <tr>
+    <td>California, USA</td>
+    <td>49</td>
+  </tr>
+  <tr>
+    <td>Washington, USA</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Massachusetts, USA</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>United Kingdom</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>Michigan, USA</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>India</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>Texas, USA</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Florida, USA</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>China</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Illinois, USA</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Georgia, USA</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Utah, USA</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Sweden</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Finland</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Germany</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Spain</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Sweden</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Colorado, USA</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Indiana, USA</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Maryland, USA</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Italy</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Belgium</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Taiwan</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Poland</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Singapore</td>
+    <td>1</td>
+  </tr>
+</table>
 
 #### Industries
+This analysis was a bit more subjective.  I determined a position's industry by looking at the company's listed [industry][wikipedia-industries] on it's wikipedia page.  I also considered focus areas in the job posting's description.
+
+<canvas id="industries-chart"></canvas>
+
 
 #### Education 
 
 #### Languages
+<canvas id="languages-chart"></canvas>
 
 <!-- todo, affiliate links? Need to update privacy notice if so -->
 [audio-kit]: http://audiokit.io/
@@ -79,6 +165,7 @@ Singapore - 1
 [so-good-they-cant-ignore-you]: https://www.amazon.com/dp/1455509124
 [soft-skills-sonmez]: https://www.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397
 [generalists-specialists]: https://simpleprogrammer.com/2017/06/19/generalists-specialists/
+[wikipedia-industries]: https://en.wikipedia.org/wiki/Category:Industries
    
 ### Notes
 [<a name="1-note">1</a>] At first glance, asking this question appears to go against the mindset of striving to be an excellent engineer not bound by a stack.  Patrick Mckenzie makes the claim that one is "... not defined by your chosen software stack".  He says that "If a Python shop was looking for somebody technical to make them a pile of money, the fact that I’ve never written a line of Python would not get held against me."  Talented engineers are rare — vastly rarer than opportunities to use them — and it is a seller’s market for talent right now in almost every facet of the field.  Everybody at Matasano uses Ruby.  If you don’t, but are a good engineer, they’ll hire you anyway.  (A good engineer has a track record of — repeat after me — increasing revenue or decreasing costs.)  Much of Fog Creek uses the Microsoft Stack.  I can’t even spell ASP.NET and they’d still hire me. [[A]](#A-citation)
@@ -93,21 +180,18 @@ I think what Mckenzie is saying makes sense.  I don't think my original question
 ][generalists-specialists]. Blog. Simple Programmer. Publish 19 June 2017. Web. 13 August 2017.
 
 
-
 ### Data
 <table>
    <tr>
       <th>Title</th>
       <th>Company</th>
       <th>Location</th>
-      <th>Description</th>
    </tr>
    {% for job in site.data.audio-jobs %}
       <tr>
          <td><a href="{{ job.URL }}">{{ job.Title }}</a></td>
          <td>{{ job.Company }}</td>
          <td>{{ job.Location }}</td>
-         <td></td>         
       </tr>
    {% endfor %}
 </table>
@@ -137,7 +221,7 @@ I think what Mckenzie is saying makes sense.  I don't think my original question
 
 <script>
    var ctx = document.getElementById('title-token-frequencies').getContext('2d');
-   var chart = new Chart(ctx, {
+   var titleChart = new Chart(ctx, {
        type: 'bar',
        data: {
            labels: [ {{ labels | split: " " | join: ", " }} ],
@@ -150,4 +234,34 @@ I think what Mckenzie is saying makes sense.  I don't think my original question
        },
        options: {}
    });
+
+   ctx = document.getElementById('industries-chart').getContext('2d');
+   var titleChart = new Chart(ctx, {
+       type: 'horizontalBar',
+       data: {
+           labels: [ "games", "Music", "Communications", "Electronics", "Broadcast Media", "Mobile", "Health", "Social Networking", "Artificial Intelligence", "Voice / Speech", "Online Shopping", "Research & Development", "Audio Technology", "Semiconductors", "Home Automation", "Virtual Reality", "Internet", "Computer Hardware", "Computer Software", "Automotive", "Education", "Client Services" ],
+           datasets: [{
+               label: "Industries",
+               backgroundColor: 'rgb(255, 99, 132)',
+               borderColor: 'rgb(255, 99, 132)',
+               data: [18, 25, 28, 69, 4, 13, 2, 2, 1, 21, 8, 23, 42, 36, 1, 11, 9, 43, 42, 4, 2, 2],
+           }]
+       },
+       options: {}
+   });   
+
+   ctx = document.getElementById('languages-chart').getContext('2d');
+   var titleChart = new Chart(ctx, {
+       type: 'horizontalBar',
+       data: {
+           labels: [ "C", "C++", "Matlab", "Python", "C#", "Java", "Swift", "Objective-C", "Assembly", "HTML", "CSS3", "Javascript", "Go", "Perl", "Tcl", "TensorFlow", "Torch", "Octave", "Verilog", "Ruby", "Shell Scripting", "VB" ],
+           datasets: [{
+               label: "Industries",
+               backgroundColor: 'rgb(255, 99, 132)',
+               borderColor: 'rgb(255, 99, 132)',
+               data: [94, 91, 48, 37, 11, 15, 3, 9, 18, 1, 2, 4, 1, 7, 2, 5, 1, 2, 2, 2, 1, 1],
+           }]
+       },
+       options: {}
+   });      
 </script>
