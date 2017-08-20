@@ -1,6 +1,6 @@
 ---
 title: Audio Programming Jobs
-description: 
+description: In this post, I look at 151 job postings of positions related to the field of audio with an emphasis on software engineering. 
 comments: true
 ---
 
