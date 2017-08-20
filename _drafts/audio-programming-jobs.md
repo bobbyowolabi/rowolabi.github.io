@@ -6,7 +6,7 @@ comments: true
 
 I've been thinking a lot about the field of audio and its prospects as a software engineer.
 
-I've read a big chunk of [So Good They Can't Ignore][so-good-they-cant-ignore-you] by Cal Newport and I've taken away that for the vast majority of people, becoming highly skilled at something comes before passion.  We often try to find our passion first and then pursue it; however, when you examine passionate, successful people, it's often the case that their passion (and subsequent desirable lifestyle) came after investing in becoming a "craftsmen" in their field.  They built upon acquired career capital instead of starting from scratch in a new field.
+I've read a big chunk of [So Good They Can't Ignore You][so-good-they-cant-ignore-you] by Cal Newport and I've taken away that for the vast majority of people, becoming highly skilled at something comes before passion.  We often try to find our passion first and then pursue it; however, when you examine passionate, successful people, it's often the case that their passion (and subsequent desirable lifestyle) came after investing in becoming a "craftsmen" in their field.  They built upon acquired career capital instead of starting from scratch in a new field.
 
 I've read a big chunk of [Soft Skills: The software developer's life manual][soft-skills-sonmez] by John Sonmez and one of the things I've taken away is that [a software engineer needs to specialize][generalists-specialists].
 
@@ -16,7 +16,7 @@ What domains do such individuals work in? Music? Speech? Communications?  Academ
 
 Is it possible to live anywhere and do this work?  Can you work remotely?  Can you consult?
 
-What technologies and concepts should one study?  [[1]](#1-note)  I admire the work and business that the folks of [AudioKit][audio-kit] are creating for themselves.  That could be a good place to start.  They recently wrote of [some project ideas][audio-kit-projects] that new folks can pursue.  I recently purchased [The Scientist and Engineer's Guide to Digital Signal Processing][dsp-guide-amazon] by Dr. Steven W. Smith.  It is [available online for free][dsp-guide-site].  I got excited after skimming through it because it was written in a very approachable way.  Should I start there?  What about taking the Stanford's [MOOC][mooc] course [Audio Signal Processing for Music Applications][audio-signal-processing-course].  Or how about the course [Physics-based Sound Synthesis for Games and Interactive Systems][physics-sound-synthesis-course]?
+What technologies and concepts should one study?  [[1]](#1-note)  I admire the work and business that the folks of [AudioKit][audio-kit] are creating for themselves.  That could be a good place to start.  They recently wrote of [some project ideas][audio-kit-projects] that new folks can pursue.  I recently purchased [The Scientist and Engineer's Guide to Digital Signal Processing][dsp-guide-amazon] by Dr. Steven W. Smith.  It is [available online for free][dsp-guide-site].  I got excited after skimming through it because it was written in a very approachable way.  Should one start there?  What about taking the Stanford's [MOOC][mooc] course [Audio Signal Processing for Music Applications][audio-signal-processing-course].  Or how about the course [Physics-based Sound Synthesis for Games and Interactive Systems][physics-sound-synthesis-course]?
 
 One way to start to answer these questions is to look at what the market says through job postings.  As Patrick McKenzie stated, most jobs actually aren't posted and most positions aren't filled through job postings [[2]](#2-note).  Nevertheless, analyzing the public record of the market can provide valuable insight.
 
@@ -33,126 +33,51 @@ The following words appeared in the title of job postings at least {{ min_title_
 #### Locations
 <iframe src="https://www.google.com/maps/d/embed?mid=15iWFbSMQD8Xs7caPrpaQ1HBpyLI" width="100%" height="480"></iframe>
 
-The frequency of postings by State / Country:
-<table>
-  <tr>
-    <th>Location</th>
-    <th>Number of Postings</th>
-  </tr>
-  <tr>
-    <td>California, USA</td>
-    <td>49</td>
-  </tr>
-  <tr>
-    <td>Washington, USA</td>
-    <td>21</td>
-  </tr>
-  <tr>
-    <td>Massachusetts, USA</td>
-    <td>21</td>
-  </tr>
-  <tr>
-    <td>United Kingdom</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>Michigan, USA</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>India</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>Texas, USA</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>Florida, USA</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>China</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>Illinois, USA</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>Georgia, USA</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Utah, USA</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Sweden</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Finland</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Germany</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Spain</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Sweden</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>Colorado, USA</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Indiana, USA</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Maryland, USA</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Italy</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Belgium</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Taiwan</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Poland</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>Singapore</td>
-    <td>1</td>
-  </tr>
-</table>
+<br/>
+The following are the top six locations by number of job postings:
+1. California, USA - 49
+1. Washington, USA - 21
+1. Massachusetts, USA - 21
+1. United Kingdom - 12
+1. Michigan, USA - 6
+1. India - 6
+
 
 #### Industries
-This analysis was a bit more subjective.  I determined a position's industry by looking at the company's listed [industry][wikipedia-industries] on it's wikipedia page.  I also considered focus areas in the job posting's description.
+The analysis of the job postings by industry was somewhat subjective.  I determined a position's industry by looking at the company's listed [industry][wikipedia-industries] on it's wikipedia page.  I also considered focus areas in the job posting's description.
 
 <canvas id="industries-chart"></canvas>
 
+#### Education - Degree
+<canvas id="education-chart"></canvas>
 
-#### Education 
+#### Education - Field
+<canvas id="education-field-chart"></canvas>
 
 #### Languages
 <canvas id="languages-chart"></canvas>
 
-<!-- todo, affiliate links? Need to update privacy notice if so -->
+#### Top 6 Audio Related Skills by Number of Postings:
+1. DSP - 106
+1. Speech - 48
+1. Audio Formats (Transcoding, Codecs) - 41
+1. Transducers (Microphones, Speakers, etc) - 40
+1. Real-time Concepts - 35
+1. Sound Design, Sound Engineering, Acoustics - 34
+
+#### Top 8 DSP Related Skills by Number of Postings:
+1. Noise - 30
+1. Echo Control - 22
+1. Filtering - 21 
+1. Sound Effects - 12
+1. Reverb - 12
+1. Equalization - 9
+1. Fixed Point; Floating Point - 9
+1. Compression - 8
+
+
+
+
 [audio-kit]: http://audiokit.io/
 [audio-kit-projects]: http://audiokitpro.com/project-ideas/
 [audio-signal-processing-course]: http://online.stanford.edu/course/audio-signal-processing-music-applications-0
@@ -239,9 +164,9 @@ I think what Mckenzie is saying makes sense.  I don't think my original question
    var titleChart = new Chart(ctx, {
        type: 'horizontalBar',
        data: {
-           labels: [ "games", "Music", "Communications", "Electronics", "Broadcast Media", "Mobile", "Health", "Social Networking", "Artificial Intelligence", "Voice / Speech", "Online Shopping", "Research & Development", "Audio Technology", "Semiconductors", "Home Automation", "Virtual Reality", "Internet", "Computer Hardware", "Computer Software", "Automotive", "Education", "Client Services" ],
+           labels: [ "Games", "Music", "Communications", "Electronics", "Broadcast Media", "Mobile", "Health", "Social Networking", "Artificial Intelligence", "Voice / Speech", "Online Shopping", "Research & Development", "Audio Technology", "Semiconductors", "Home Automation", "Virtual Reality", "Internet", "Computer Hardware", "Computer Software", "Automotive", "Education", "Client Services" ],
            datasets: [{
-               label: "Industries",
+               label: "Positions",
                backgroundColor: 'rgb(255, 99, 132)',
                borderColor: 'rgb(255, 99, 132)',
                data: [18, 25, 28, 69, 4, 13, 2, 2, 1, 21, 8, 23, 42, 36, 1, 11, 9, 43, 42, 4, 2, 2],
@@ -256,12 +181,46 @@ I think what Mckenzie is saying makes sense.  I don't think my original question
        data: {
            labels: [ "C", "C++", "Matlab", "Python", "C#", "Java", "Swift", "Objective-C", "Assembly", "HTML", "CSS3", "Javascript", "Go", "Perl", "Tcl", "TensorFlow", "Torch", "Octave", "Verilog", "Ruby", "Shell Scripting", "VB" ],
            datasets: [{
-               label: "Industries",
+               label: "Positions",
                backgroundColor: 'rgb(255, 99, 132)',
                borderColor: 'rgb(255, 99, 132)',
                data: [94, 91, 48, 37, 11, 15, 3, 9, 18, 1, 2, 4, 1, 7, 2, 5, 1, 2, 2, 2, 1, 1],
            }]
        },
        options: {}
-   });      
+   });
+
+   ctx = document.getElementById('education-chart').getContext('2d');
+   var titleChart = new Chart(ctx, {
+       type: 'bar',
+       data: {
+           labels: [ "Bachelors", "Masters", "PhD", "Postdoctoral", "Equivalent Experience"],
+           datasets: [{
+               label: "Positions",
+               backgroundColor: [ 
+                'rgb(255, 99, 132)',
+                'rgb(201, 203, 207)',
+                'rgb(255, 159, 64)',
+                'rgb(255, 205, 86)',
+                'rgb(75, 192, 192)'],
+               borderColor: 'rgb(255, 99, 132)',
+               data: [84, 89, 37, 3, 25],
+           }]
+       },
+       options: {}
+   });
+   ctx = document.getElementById('education-field-chart').getContext('2d');
+   var titleChart = new Chart(ctx, {
+       type: 'horizontalBar',
+       data: {
+           labels: [ "Computer Science", "Electrical Engineering", "Computer Engineering", "Engineering", "Related Field", "Mathematics", "Physics", "Digital Audio Signal Processing", "Software Engineering", "Music Technology", "Acoustics", "Statistics", "Audio Engineering", "Business", "Mechanical Engineering", "Electronic Engineering"],
+           datasets: [{
+               label: "Positions",
+               backgroundColor: 'rgb(255, 99, 132)',
+               borderColor: 'rgb(255, 99, 132)',
+               data: [82, 65, 27, 15, 46, 9, 15, 17, 3, 1, 15, 1, 5, 2, 5, 4],
+           }]
+       },
+       options: {}
+   });
 </script>
