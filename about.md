@@ -7,7 +7,7 @@ description: This page provides information about the author and the purpose of 
 ## About
 <br/>
 
-Hello, my name is Bobby Owolabi.  I’m a software engineer in the District of Columbia, Maryland and Virginia (DMV) metropolitan area.  My work has largely been in Java enterprise and web applications, but I’ve become more and more interested in the area of audio programming.  This likely stems from my love of music.  
+Hello, my name is Bobby Owolabi.  I’m a software engineer in the Washington, D.C. metropolitan area.  My work has largely been in Java enterprise and web applications, but I’ve become more and more interested in the area of audio programming.  This likely stems from my love of music.  
 
 Audio is often a crucial component of software these days; however, its implementations and corresponding profession seem to be a black box to many.  It’s my aim to bring clarity of this field to myself and others.
 
