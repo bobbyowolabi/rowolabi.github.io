@@ -1,14 +1,16 @@
+
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
-.footer-links {
+.contact-links {
    font-style: italic;
    padding-top: 30px;
+   padding-bottom: 30px;
 }
 
-.footer-links a {
-   padding-left: 30px;
-   padding-right: 30px;
+.contact-links a {
+   padding-left: 15px;
+   padding-right: 15px;
 }
 
 .comment-count {
