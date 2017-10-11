@@ -53,7 +53,7 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    *End of File:* `[<a name="id-citation">id</a>] Doe, John. "Thoughts on Testings." Blog post. The Blog of John. 29 Sept. 2016. Web. 3 Apr. 2017. <http://theblogofjohhn.com/2016/09/thoughts-on-testing.html>.` 
    
 ## License
-> Copyright © 2017-Present Robert B. Owolabi.
+> **Copyright &copy; 2017-Present Robert B. Owolabi.**
 
 Code Released Under [MIT License](license.md).
 
