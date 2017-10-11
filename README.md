@@ -1,10 +1,24 @@
+# [bobbyowolabi.com][blog]
+*The Intersection of Audio, Coding & Music*
+
 ## About
+This is my personal blog where I share about my exploration of "audio programming", software engineering and music.
 
-[The blog of Bobby Owolabi](https://rowolabi.github.io), made with Jekyll.
+## Site Generator
+This site is built with [jekyll][jekyll].
 
-## Template used
+### Plugins
+* jekyll-paginate
+* jekyll-sitemap
 
-[Monochrome](https://github.com/dyutibarma/monochrome)
+## Template
+I created this site based off of the [Monochrome][template] template created by [@dyutibarma][dyutibarma].
+
+## Dependencies
+* Font Awesome
+* Chart.js
+* Google Analytics
+* Disqus
 
 ## Citation Methodology
 Efforts will be made to carefully cite sources in the posts of this blog.
@@ -39,7 +53,13 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    *End of File:* `[<a name="id-citation">id</a>] Doe, John. "Thoughts on Testings." Blog post. The Blog of John. 29 Sept. 2016. Web. 3 Apr. 2017. <http://theblogofjohhn.com/2016/09/thoughts-on-testing.html>.` 
    
 ## License
-Released under [MIT License](license.md).
+> Copyright © {{ 'now' | date: "%Y" }} Robert B. Owolabi.
+
+Code Released Under [MIT License](license.md).
 
 
 [1]: https://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-blog-mla/
+[blog]: https://www.bobbyowolabi.com
+[dyutibarma]: https://github.com/dyutibarma
+[jekyll]: https://jekyllrb.com/
+[template]: https://github.com/dyutibarma/monochrome
