@@ -13,6 +13,8 @@ In attempting to understand sound, it’s important to separate ourselves from t
 1. Our body interprets this information (our nervous system) 
 1. Our senses are stimulated (we hear it via our sensory system)
 
+Why is it important to separate ourselves from the hearing of sound? Because sound is used to refer to two things (https://books.google.com/books?id=a1VVBQAAQBAJ&pg=PA15&dq=communication+acoustics&source=gbs_toc_r&cad=4#v=onepage&q=communication%20acoustics&f=false)
+
 *What are the signals our ears received?*
 
 *How is it that we “hear” this information?*
@@ -30,9 +32,9 @@ Sound Involves Three Actors [music-and-computers]:
 At its core, this boils down to physics and perception [music-and-computers].  The first two things, an object & medium are where the physics occurs; the listener is where the perception occurs [music-and-computers]. 
 
 The Interaction of the Actors Produces Sound [music-and-computers]:
-The Movement of an Object
-The Transmission of the Result of the Movement Through a Medium
-A Listener Perceives the Transmission of the Movement as Sound
+1. The Movement of an Object
+1. The Transmission of the Result of the Movement Through a Medium
+1. A Listener Perceives the Transmission of the Movement as Sound
 
 “All things that make sound move, and in some very metaphysical sense, all things that move (if they don’t move too slowly or too quickly) make sound.” [music-and-computers]
 
