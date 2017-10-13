@@ -16,8 +16,6 @@ Our hearing of sound is merely an interpretation our body performs for us of a p
 1. Our body interprets this information (our nervous system) 
 1. Our senses are stimulated (we hear it via our sensory system)
 
-Why is it important to separate ourselves from the hearing of sound? Because sound is used to refer to two things (https://books.google.com/books?id=a1VVBQAAQBAJ&pg=PA15&dq=communication+acoustics&source=gbs_toc_r&cad=4#v=onepage&q=communication%20acoustics&f=false)
-
 *What are the signals our ears received?*
 
 *How is it that we “hear” this information?*
@@ -27,19 +25,19 @@ Why is it important to separate ourselves from the hearing of sound? Because sou
 I hope that through our exploration of this topic, we’ll be able to provide more insight into the questions above.
 
 ### What Comprises Sound?
-Sound Involves Three Actors [music-and-computers]:
+Sound Involves Three Actors <sup>[[3]](#music-and-computers)</sup>:
 1. An Object
 1. Medium
 1. Listener
 
-At its core, this boils down to physics and perception [music-and-computers].  The first two things, an object & medium are where the physics occurs; the listener is where the perception occurs [music-and-computers]. 
+At its core, this boils down to physics and perception <sup>[[3]](#music-and-computers)</sup>.  The first two things, an object & medium are where the physics occurs; the listener is where the perception occurs <sup>[[3]](#music-and-computers)</sup>. 
 
-The Interaction of the Actors Produces Sound [music-and-computers]:
+The Interaction of the Actors Produces Sound <sup>[[3]](#music-and-computers)</sup>:
 1. The Movement of an Object
 1. The Transmission of the Result of the Movement Through a Medium
 1. A Listener Perceives the Transmission of the Movement as Sound
 
-“All things that make sound move, and in some very metaphysical sense, all things that move (if they don’t move too slowly or too quickly) make sound.” [music-and-computers]
+“All things that make sound move, and in some very metaphysical sense, all things that move (if they don’t move too slowly or too quickly) make sound.” <sup>[[3]](#music-and-computers)</sup>
 
 ### The Production of Sound
 #### What is the result of the movement that we are hearing?
@@ -94,10 +92,13 @@ There are different physical signals around us, one of them is sound.  It is a v
 Are there mediums that cannot transmit waves?
 Yes, in space.
 
+We can now answer the question ["If a tree falls in a forest and no one is around to hear it, does it make a sound?"][tree-in-forest-sound].  If we are referring to sound as a physical phenomenon; then yes, the tree falling will cause a physical sound event that could be analyzed and recorded <sup>[[1]](#communication-acoustics)</sup>.  If we are referring to sound in terms of perception; then no, there is no listener around to actually hear the event <sup>[[1]](#communication-acoustics).
+
 <Talk about releasing early> - masters of scale
 
 [tree-in-forest-sound]: https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
 [wiki-perception-link]: https://en.wikipedia.org/wiki/Perception
+[music-and-computers-link]: http://cmc.music.columbia.edu/MusicAndComputers/
 
 
 ### References
@@ -106,6 +107,14 @@ Pulkki, Ville; Karjalainen, *Matti. Communication Acoustics: An Introduction to 
 
 [<a name="wiki-perception">2</a>] Wikipedia contributors. ["Perception."][wiki-perception-link] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Sep. 2017. Web. 3 Oct. 2017
 
+[<a name="music-and-computers">3</a>]
+Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: Sound and Timbre; Section 1.1: What Is Sound?” [Music and computers: a theoretical and historical approach][music-and-computers-link], Self-Published Online. 2011. Accessed 8 Sep. 2017.
+> **Authors**<br/>
+> Phil Burk, SoftSynth.com<br/>
+> Larry Polansky, Department of Music, Dartmouth College<br/>
+> Douglas Repetto, Computer Music Center, Columbia University<br/>
+> Mary Roberts<br/>
+> Dan Rockmore, Department of Mathematics, Dartmouth College<br/>
 
 [wiki-vibration]
 Wikipedia contributors. "Vibration." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 3 Oct. 2017. 
@@ -143,14 +152,5 @@ URL
 https://blogs.msdn.microsoft.com/dawate/2009/06/22/intro-to-audio-programming-part-1-how-audio-data-is-represented/
 [Newmarch]
 Newmarch, Jan. “1. Basic Concepts of Sound.” Linux sound programming, Apress, Berkeley, CA, 2017.
-[music-and-computers]
-Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: Sound and Timbre; Section 1.1: What Is Sound?” Music and computers: a theoretical and historical approach, Self-Published Online. 2011. Accessed 8 Sep. 2017.
-Authors
-Phil Burk, SoftSynth.com
-Larry Polansky, Department of Music, Dartmouth College
-Douglas Repetto, Computer Music Center, Columbia University
-Mary Roberts
-Dan Rockmore, Department of Mathematics, Dartmouth College 
-URL
-http://cmc.music.columbia.edu/MusicAndComputers/
+
 
