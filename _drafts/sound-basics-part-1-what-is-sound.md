@@ -7,8 +7,11 @@ comments: true
 A lot of times when sound is described, a graph of a sound wave is shown.  The term analog may pop up.  The sine function is discussed … wasn’t that about angles of a triangle?  We are told sound is simply changes in pressure.  This all is somehow represented in digital form as 0s and 1s.  What does all of this mean?  How can looking at a sine graph help me understand and describe the sound of a saxophone versus a laughing baby?  I want to present these concepts through the eyes of a true beginner.  I hope to achieve this by asking questions of a beginner.
 
 ### What is Sound?
+In attempting to understand sound, it’s important to separate ourselves from the experience of hearing because it is different from what sound is at it’s core.  Why would I want to put aside the notion of hearing?  That seems pretty important in understanding sound.  The reason for this distinction is that the term "sound" actually refers to two things <sup>[[1]](#communication-acoustics)</sup>:
+1. The physical phenonenom
+1. The perception
 
-In attempting to understand sound, it’s important to separate ourselves from the experience of hearing because it is different from what sound is at it’s core.  Our hearing of sound is merely an interpretation our body performs for us of a specific kind of physical event.  We often call these physical events signals.  At a high level, the following occurs [wiki-perception]:
+Our hearing of sound is merely an interpretation our body performs for us of a physical event.  We often call these physical events signals.  At a high level, the following occurs <sup>[[2]](#wiki-perception)</sup>:
 1. Our ears receive information (signals)
 1. Our body interprets this information (our nervous system) 
 1. Our senses are stimulated (we hear it via our sensory system)
@@ -19,7 +22,7 @@ Why is it important to separate ourselves from the hearing of sound? Because sou
 
 *How is it that we “hear” this information?*
 
-*["If a tree falls in a forest and no one is around to hear it, does it make a sound?"](https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest)*
+[*"If a tree falls in a forest and no one is around to hear it, does it make a sound?"*][tree-in-forest-sound]
 
 I hope that through our exploration of this topic, we’ll be able to provide more insight into the questions above.
 
@@ -93,7 +96,17 @@ Yes, in space.
 
 <Talk about releasing early> - masters of scale
 
+[tree-in-forest-sound]: https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
+[wiki-perception-link]: https://en.wikipedia.org/wiki/Perception
+
+
 ### References
+[<a name="communication-acoustics">1</a>]
+Pulkki, Ville; Karjalainen, *Matti. Communication Acoustics: An Introduction to Speech, Audio and Psychoacoustics*. Chapter 2 Physics of Sound. John Wiley & Sons, 2014. Print.
+
+[<a name="wiki-perception">2</a>] Wikipedia contributors. ["Perception."][wiki-perception-link] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Sep. 2017. Web. 3 Oct. 2017
+
+
 [wiki-vibration]
 Wikipedia contributors. "Vibration." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 3 Oct. 2017. 
 https://en.wikipedia.org/wiki/Vibration
@@ -101,9 +114,7 @@ https://en.wikipedia.org/wiki/Vibration
 Tattoni, Guido. Chapter 1.1 “what is sound?”. Smack My Pitch Up. Self-Published Online (Date Unknown). Accessed 3 October 2017. 
 http://www.smackmypitchup.com/smpu/?sec=content&id=72&topid=123
 This work is published under a Creative Commons License.
-[wiki-perception]
-Wikipedia contributors. "Perception." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Sep. 2017. Web. 3 Oct. 2017
-https://en.wikipedia.org/wiki/Perception
+
 [computerphile-digital-audio]
 David Domminney Fowler [Computerphile]. “How Digital Audio Works - Computerphile”. 26, October 2015. Accessed. 2 October 2017.
 https://www.youtube.com/watch?v=1RIA9U5oXro
