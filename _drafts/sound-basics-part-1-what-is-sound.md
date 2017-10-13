@@ -37,7 +37,7 @@ The Interaction of the Actors Produces Sound <sup>[[3]](#music-and-computers)</s
 1. The Transmission of the Result of the Movement Through a Medium
 1. A Listener Perceives the Transmission of the Movement as Sound
 
-“All things that make sound move, and in some very metaphysical sense, all things that move (if they don’t move too slowly or too quickly) make sound.” <sup>[[3]](#music-and-computers)</sup>
+> “All things that make sound move, and in some very metaphysical sense, all things that move (if they don’t move too slowly or too quickly) make sound.” <sup>[[3]](#music-and-computers)</sup>
 
 ### The Production of Sound
 #### What is the result of the movement that we are hearing?
