@@ -7,7 +7,7 @@ comments: true
 A lot of times when sound is described, a graph of a sound wave is shown.  The sine function is discussed … wasn’t that about angles of a triangle?  We are told sound is simply changes in pressure.  This all is somehow represented in digital form as 0s and 1s.  What does all of this mean?  How can looking at a sine graph help me understand and describe the sound of a saxophone versus a laughing baby?  I want to present these concepts through the eyes of a true beginner.  I hope to achieve this by asking questions of a beginner.
 
 ### What is Sound?
-In attempting to understand sound, it’s important to separate ourselves from the experience of hearing because it is different from what sound is at it’s core.  Why would I want to put aside the notion of hearing?  That seems pretty important in understanding sound.  The reason for this distinction is that the term "sound", in English, interchangeably refers to two things <sup>[[1]](#communication-acoustics)</sup>:
+In attempting to understand sound, it’s important to separate ourselves from the experience of hearing because it is different from what sound is at it’s core.  But why would I want to put aside the notion of hearing?  That seems pretty important in understanding sound.  The reason for this distinction is that the term "sound", in English, interchangeably refers to two things <sup>[[1]](#communication-acoustics)</sup>:
 1. The physical phenonenom
 1. The perception
 
@@ -56,53 +56,28 @@ Liquids have their molecules spaced further apart.  Things can move through them
 ##### Gases
 Gases have molecules that are relatively far apart.  Objects, including us, can easily move through this medium <sup>[[4]](#thompson-mike)</sup>.  It is this movement that results in the production of sound.  Air is comprised of invisible gases that are all around us.  It is made up of certain molecules mainly nitrogen and oxygen.
 
-Let’s get back to our original question, what is this “result of the movement” that we are hearing?  Focusing on the medium of air, the result of the movement we hear are air molecules hitting each other.  How do these air molecules hitting each other arrive to my ear so I can perceive it as sound?   How is it that two listeners can hear the same sound when situated in opposite directions of the object?  Do these air molecules go around and visit each listener?
+Let’s get back to our original question, what is this “result of the movement” that we are hearing?  Focusing on the medium of air, the result of the movement we hear are air molecules hitting each other.  How do these air molecules hitting each other arrive to my ear so I can perceive it as sound?
 
-The following is a clip from the Khan Academy and gives a good illustration of how the air molecules interact when sound is produced:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_xZZt99MzY?start=07&end=13" frameborder="0" allowfullscreen></iframe>
-
+#### How Do Colliding Air Molecules Arrive to Our Ear?
 As an object moves, it pushes and pulls at the surrounding air thus causing the air molecules to indeed hit each other, producing something called pressure.  The physical act of the molecules hitting each other is not pressure, but rather, the force that is exerted when they collide with themselves and other objects is what we call pressure. <sup>[[5]](#ucar-what-is-air)</sup>
 
-As seen in the video, this disturbance <sup>[[5]](#waters)</sup> in the air causes the molecules move back and forth and hit other molecules that move back and forth causing a transmission of the initial pressure through the air to arrive to the ears of a listener.  This forward and backwards movement towards a listener’s ear is described as a wave [computerphile-digital-audio].  
+Not only do the air molecules hit each other producing pressure, but they also produce a wave.  It is through this wave that they arrive at our ears.
 
-Think of falling dominos ...
-<iframe src="https://giphy.com/embed/zFb4l4CvD4MOQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/domino-zFb4l4CvD4MOQ">via GIPHY</a></p>
+##### Sound Waves
+A wave like this?
+<iframe src="https://giphy.com/embed/3o7aTBq3lldT3hx2RW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-Or a wave at a sporting event:
-<iframe src="https://giphy.com/embed/3o7aTBq3lldT3hx2RW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/euroleague-basketball-3o7aTBq3lldT3hx2RW">via GIPHY</a></p>
+Sort of.  
 
-<Talk about vibration, propagation>
+The following is a clip from the Khan Academy and gives a good illustration of how the air molecules interact when sound is produced:
+<iframe width="480" height="270" src="https://www.youtube.com/embed/-_xZZt99MzY?start=07&end=13" frameborder="0" allowfullscreen></iframe>
 
-Listen to David Domminney Fowler describe this motion: link (0 - 14/15 seconds)
-### Waves
-#### Sound Waves
-The physical act of pressure being transmitted through the air produces a “wave” referred to as a soundwave.  The molecules themselves don’t actually travel with the sound [wiki-sound] but merely transport it a short distance to a neighboring molecule.  It’s this transport at a higher level in terms of groups of molecules that comprise the physical phenomenon of a wave.
+As seen in the video, this disturbance <sup>[[5]](#waters)</sup> in the air causes the molecules move back and forth and hit other molecules that move back and forth causing a transmission of the initial pressure through the air to arrive to the ears of a listener.  It is this forward and backwards movement of the pressure towards a listener’s ear is described as a wave <sup>[[7]](#computerphile-digital-audio)</sup>.  
 
-#### Sine Waves
-How can we describe the motion of a sound wave using precise language?  This is where math and the sine wave comes in.  For ease let’s look at the movement of an individual molecule.  When a molecule is not moving (at rest) it has an initial pressure of 0, also known as equilibrium [music-and-computers].  When it moves, it will go forward a certain distance, return back to equilibrium and go in the opposite direction a certain distance .  Essentially the traveled distance of the molecule is zero since the two movements cancel each other out.  This back and forth movement is called oscillation (Describe what an oscilloscope is).  
+[Professor Dan Russell][professor-russell] created an animation that illustrates this wave movement quite well <sup>[[x]](#)</sup>:
+<img src="http://www.acs.psu.edu/drussell/Demos/waves/Lwave-Red-2.gif" width=600 alt="animation showing particle motion for a longitudinal pressure wave highlighting the difference between particle motion and wave propagation.">
 
-A great illustration of this movement can be seen in the same Khan Academy video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_xZZt99MzY?start=22&end=40" frameborder="0" allowfullscreen></iframe>
-
-If you measure the distance the molecule travels from equilibrium (forward being a positive value and backwards being a negative value) and plot it over time on a graph, you get the form of a sinewave.  The form of this graph is called the waveform [wiki-waveform].  It turns out the sine function serves as a good foundational model for technically and formally representing the movement of a soundwave.
-
-Let’s define the components of a sine wave:
-Cycle
-Frequency - the number of cycles per second.  It is measured in Hertz (Hz)
-Amplitude - The size of each cycle.  Remember the equilibrium we spoke of?  This is the distance of the wave from equilibrium. - related to loudness
-Wavelength
-Distance Traveled Through Medium/Period
-
-We’ll talk more about the ear later in our exploration, but it is these characteristics of a soundwave that our ears take as input to produce sound for us [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam].
-
-##### Sine Waves in Practice
-We know that the sine wave is useful for modeling the motion of a soundwave, but does a single sine wave map directly to a sound?  No, a single sine wave is not a sound that actually exists, but it an artificial one [kalenzaga-shazam][wiki-pure-tones].  
-
-Here is an example of what sine waves sound like:
-<Ge Wang’s TED where he writes a CHUCK script to play random sound waves>
-
-We call the sound associated with a single sine wave a “pure tone”.  This wave consists on one frequency [wiki-pure-tones].  If the sound associated with a sine wave does not actually exist in practice, what is the sine wave important in modeling sound?  Every sound can be represented as the sum of many pure tones at different amplitudes [wiki-pure-tones].  This insight seems to be related to the Fourier theorem.  
+As seen in Russell's animation, the molecules themselves don’t actually travel with the sound [wiki-sound] but merely transport it a short distance to a neighboring molecule.  It’s this transport at a higher level in terms of groups of molecules that comprise the physical phenomenon of a wave.
 
 ### Conclusion
 There are different physical signals around us, one of them is sound.  It is a vibration that propagates through a medium and can be decrypted by our ears.  Light is also a vibration, but we can’t hear it because our ears weren’t designed to do so.  Our eyes were designed to interpret that vibration [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam], while light is composed of sine waves from 4 x 10^14 Hz to 7.9 10^14 Hz.
@@ -123,6 +98,8 @@ Talk about releasing early - masters of scale
 [music-and-computers]: http://cmc.music.columbia.edu/MusicAndComputers/
 [ucar-what-is-air]: https://eo.ucar.edu/kids/sky/air1.htm
 [waters]: https://blogs.msdn.microsoft.com/dawate/2009/06/22/intro-to-audio-programming-part-1-how-audio-data-is-represented/
+[professor-russell]: http://www.acs.psu.edu/drussell/
+[computerphile-digital-audio]: https://www.youtube.com/watch?v=1RIA9U5oXro
 
 
 ### References
@@ -147,6 +124,7 @@ The University Corporation for Atmospheric Research. [“What is Air?”][ucar-w
 
 [<a name="waters">6</a>] Waters, Dan. ["Intro to Audio Programming, Part 1: How Audio Data is Represented."][waters] Blog post.  Game Theory: A blog by Microsoft Academic Developer Evangelist, Dan Waters. 22 Jun. 2009. Accessed 8 Sep. 2017.
 
+[<a name="computerphile-digital-audio">7</a>] Fowler, David Domminney [Computerphile]. ["How Digital Audio Works - Computerphile"][computerphile-digital-audio]. 26 October 2015. Accessed. 2 October 2017.
 
 [wiki-vibration]
 Wikipedia contributors. "Vibration." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 3 Oct. 2017. 
@@ -156,9 +134,6 @@ Tattoni, Guido. Chapter 1.1 “what is sound?”. Smack My Pitch Up. Self-Publis
 http://www.smackmypitchup.com/smpu/?sec=content&id=72&topid=123
 This work is published under a Creative Commons License.
 
-[computerphile-digital-audio]
-David Domminney Fowler [Computerphile]. “How Digital Audio Works - Computerphile”. 26, October 2015. Accessed. 2 October 2017.
-https://www.youtube.com/watch?v=1RIA9U5oXro
 [wiki-pure-tones]
 Wikipedia contributors. "Musical tone." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 21 May. 2017. Accessed. 2 Oct. 2017.
 [wiki-waveform]
