@@ -44,7 +44,10 @@ Here is an example of what sine waves sound like:
 
 We call the sound associated with a single sine wave a “pure tone”.  This wave consists on one frequency [wiki-pure-tones].  If the sound associated with a sine wave does not actually exist in practice, what is the sine wave important in modeling sound?  Every sound can be represented as the sum of many pure tones at different amplitudes [wiki-pure-tones].  This insight seems to be related to the Fourier theorem.  
 
-### Links
+## Music Theory
+
+
+## Links
 http://cmc.music.columbia.edu/MusicAndComputers/
 
 http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
