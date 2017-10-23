@@ -47,6 +47,7 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 ## Music Theory
 [kalenzaga-shazam]
 http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
+http://www.silcom.com/~aludwig/Phase_audibility.htm
 
 
 ## Links
