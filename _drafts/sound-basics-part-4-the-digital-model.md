@@ -1,3 +1,8 @@
+---
+title: Sound Basics Part 4 - The Digital Model
+description: 
+comments: true
+---
 
 
 ## Converting Sound to Digital
