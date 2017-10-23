@@ -18,8 +18,6 @@ Our hearing of sound is merely an interpretation our body performs for us of a p
 
 > *What are the signals our ears received?*
 
-> *How is it that we “hear” this information?*
-
 > [If a tree falls in a forest and no one is around to hear it, does it make a sound?][tree-in-forest-sound]
 
 I hope that through our exploration of this topic, we’ll be able to provide more insight into the questions above.
@@ -83,6 +81,7 @@ As seen in Russell's animation, the molecules themselves don’t actually travel
 There are different physical signals around us, one of them is sound.  It is a vibration that propagates through a medium and can be decrypted by our ears.  Light is also a vibration, but we can’t hear it because our ears weren’t designed to do so.  Our eyes were designed to interpret that vibration [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam], while light is composed of sine waves from 4 x 10^14 Hz to 7.9 10^14 Hz.
 Are there mediums that cannot transmit waves?
 Yes, in space.
+(There are some illustrations at http://www.passmyexams.co.uk/GCSE/physics/sound-waves.html)
 
 Talk about wave
 
