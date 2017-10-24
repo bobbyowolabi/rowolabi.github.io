@@ -72,24 +72,31 @@ The following is a clip from the Khan Academy and gives a good illustration of h
 
 As seen in the video, this disturbance <sup>[[5]](#waters)</sup> in the air causes the molecules move back and forth and hit other molecules that move back and forth causing a transmission of the initial pressure through the air to arrive to the ears of a listener.  It is this forward and backwards movement of the pressure towards a listener’s ear is described as a wave <sup>[[7]](#computerphile-digital-audio)</sup>.  
 
-[Professor Dan Russell][professor-russell] created an animation that illustrates this wave movement quite well <sup>[[x]](#)</sup>:
-<img src="http://www.acs.psu.edu/drussell/Demos/waves/Lwave-Red-2.gif" width=600 alt="animation showing particle motion for a longitudinal pressure wave highlighting the difference between particle motion and wave propagation.">
+[Professor Dan Russell][professor-russell] created an animation that illustrates this wave movement quite well <sup>[[8]](#russell-particle-motion)</sup>:
 
-As seen in Russell's animation, the molecules themselves don’t actually travel with the sound [wiki-sound] but merely transport it a short distance to a neighboring molecule.  It’s this transport at a higher level in terms of groups of molecules that comprise the physical phenomenon of a wave.
+<img src="http://www.acs.psu.edu/drussell/Demos/waves/Lwave-Red-2.gif" width="600" alt="animation showing particle motion for a longitudinal pressure wave highlighting the difference between particle motion and wave propagation.">
+
+As seen in Russell's animation, the molecules themselves don’t actually travel with the sound <sup>[[9]](#wiki-sound)</sup> but merely transport it a short distance to a neighboring molecule.  It’s this transport at a higher level in terms of groups of molecules that comprise the physical phenomenon of a wave.
 
 ### Conclusion
-There are different physical signals around us, one of them is sound.  It is a vibration that propagates through a medium and can be decrypted by our ears.  Light is also a vibration, but we can’t hear it because our ears weren’t designed to do so.  Our eyes were designed to interpret that vibration [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam], while light is composed of sine waves from 4 x 10^14 Hz to 7.9 10^14 Hz.
+What are the signals our ears received?
+
+
+
 Are there mediums that cannot transmit waves?
 Yes, in space.
 (There are some illustrations at http://www.passmyexams.co.uk/GCSE/physics/sound-waves.html)
 
-Talk about wave
+
+There are different physical signals around us, one of them is sound.  It is a vibration that propagates through a medium and can be decrypted by our ears.  Light is also a vibration, but we can’t hear it because our ears weren’t designed to do so.  Our eyes were designed to interpret that vibration [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam], while light is composed of sine waves from 4 x 10^14 Hz to 7.9 10^14 Hz.
+
+
+
+How is it that we “hear” this information?
+
 
 We can now answer the question ["If a tree falls in a forest and no one is around to hear it, does it make a sound?"][tree-in-forest-sound].  If we are referring to sound as a physical phenomenon; then yes, the tree falling will cause a physical sound event that could be analyzed and recorded <sup>[[1]](#communication-acoustics)</sup>.  If we are referring to sound in terms of perception; then no, there is no listener around to actually hear the event <sup>[[1]](#communication-acoustics).
 
-Address questions that were poised and answered and some that weren't answered
-
-Talk about releasing early - masters of scale
 
 [air-molecule-distance]: https://www.youtube.com/watch?v=NO9F2UJ1EcY
 [tree-in-forest-sound]: https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
@@ -99,6 +106,7 @@ Talk about releasing early - masters of scale
 [waters]: https://blogs.msdn.microsoft.com/dawate/2009/06/22/intro-to-audio-programming-part-1-how-audio-data-is-represented/
 [professor-russell]: http://www.acs.psu.edu/drussell/
 [computerphile-digital-audio]: https://www.youtube.com/watch?v=1RIA9U5oXro
+[wiki-sound]: https://en.wikipedia.org/wiki/Sound#Physics_of_sound
 
 
 ### References
@@ -125,6 +133,15 @@ The University Corporation for Atmospheric Research. [“What is Air?”][ucar-w
 
 [<a name="computerphile-digital-audio">7</a>] Fowler, David Domminney [Computerphile]. ["How Digital Audio Works - Computerphile"][computerphile-digital-audio]. 26 October 2015. Accessed. 2 October 2017.
 
+[<a name="russell-particle-motion">8</a>] Russell, Daniel. "Longitudinal Waves". Acoustics and Vibration Animations; Section: Longitudinal and Transverse Wave Motion. 26, August 1998. Animations Updated 5 August 2016. HTML Code Modified 18 March 2014. Accessed 20 October 2017.
+> **License**  <br/>
+> This work by [Dan Russell](http://www.acs.psu.edu/drussell/demos.html) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Based on a work at http://www.acs.psu.edu/drussell/demos.html.
+
+[<a name="wiki-sound">9</a>]
+Wikipedia contributors. ["Sound."][wiki-sound] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 29 Sep. 2017. 
+
+
 [wiki-vibration]
 Wikipedia contributors. "Vibration." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 3 Oct. 2017. 
 https://en.wikipedia.org/wiki/Vibration
@@ -137,9 +154,7 @@ This work is published under a Creative Commons License.
 Wikipedia contributors. "Musical tone." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 21 May. 2017. Accessed. 2 Oct. 2017.
 [wiki-waveform]
 Wikipedia contributors. "Waveform." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 22 Sep. 2017. Accessed. 30 Sep. 2017
-[wiki-sound]
-Wikipedia contributors. "Sound." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 29 Sep. 2017. 
-https://en.wikipedia.org/wiki/Sound#Physics_of_sound
+
 [kalenzaga-shazam]
 Kalenzaga, Christophe. “How does Shazam work.” Blog post. Coding Geek: A blog about IT, programming and Java. 23 May 2015. Accessed 28 September 2017.
 URL
