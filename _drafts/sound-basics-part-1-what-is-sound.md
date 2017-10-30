@@ -50,11 +50,11 @@ Matter, for the purposes of our discussion, is made up of atoms that bond togeth
 ##### Solids
 Solids have their molecules tightly packed together.  They keep their shape and not much gets through them. <sup>[[4]](#thompson-mike)</sup>  
 ##### Liquids
-Liquids have their molecules spaced further apart.  Things can move through them but there is some resistance.  Then we have gases. <sup>[[4]](#thompson-mike)</sup>
+Liquids have their molecules spaced further apart.  Things can move through them but there is some resistance.  <sup>[[4]](#thompson-mike)</sup>
 ##### Gases
 Gases have molecules that are relatively far apart.  Objects, including us, can easily move through this medium <sup>[[4]](#thompson-mike)</sup>.  It is this movement that results in the production of sound.  Air is comprised of invisible gases that are all around us.  It is made up of certain molecules mainly nitrogen and oxygen.
 
-Let’s get back to our original question, what is this “result of the movement” that we are hearing?  Focusing on the medium of air, the result of the movement we hear are air molecules hitting each other.  How do these air molecules hitting each other arrive to my ear so I can perceive it as sound?
+Let’s get back to our original question, what is this “result of the movement” that we are hearing?  Focusing on the medium of air (as sound can occur in other mediums), the result of the movement we hear are air molecules hitting each other.  How do these air molecules hitting each other arrive to my ear so I can perceive it as sound?
 
 #### How Do Colliding Air Molecules Arrive to Our Ear?
 As an object moves, it pushes and pulls at the surrounding air thus causing the air molecules to indeed hit each other, producing something called pressure.  The physical act of the molecules hitting each other is not pressure, but rather, the force that is exerted when they collide with themselves and other objects is what we call pressure. <sup>[[5]](#ucar-what-is-air)</sup>
@@ -79,23 +79,25 @@ As seen in the video, this disturbance <sup>[[5]](#waters)</sup> in the air caus
 As seen in Russell's animation, the molecules themselves don’t actually travel with the sound <sup>[[9]](#wiki-sound)</sup> but merely transport it a short distance to a neighboring molecule.  It’s this transport at a higher level in terms of groups of molecules that comprise the physical phenomenon of a wave.
 
 ### Conclusion
-What are the signals our ears received?
+#### What are the signals our ears received?
+I believe we can now comfortably use the term "sound wave."  Sound waves are the signal that are reaching our ears.  Sound waves are a result of a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation or wave of that initial disruption to the ears of a listener.
 
+#### Are There Conditions Where Sound is Not Possible?
+Why yes!  We described that sound results from a disturbance (movement) that occurs in a medium.  There are "things" in that medium (molecules), that propagate that disturbance to a listener.  What would be an example of a place where there would be nothing to propagate the disturbance produced by a moving object?  Space.  In space, there are no particles that can propagate the disturbance of a moving object.
 
+##### Are There Conditions on Earth Where Sound Is Not Possible?
 
-Are there mediums that cannot transmit waves?
-Yes, in space.
-(There are some illustrations at http://www.passmyexams.co.uk/GCSE/physics/sound-waves.html)
+> Vacuum is space void of matter. <sup>[[10]](#wiki-vacuum)</sup>
 
+We can create such conditions.  We can put an alarm clock in a jar and remove all of the air via a vacuum pump <sup>[[11]](#pass-my-exams-sound)</sup>.  While there is air in the jar, the ringing of the alarm clock will be audible; however, the sound will grow faint until all of the air is removed, at which it will be inaudible <sup>[[11]](#pass-my-exams-sound)</sup>.
 
-There are different physical signals around us, one of them is sound.  It is a vibration that propagates through a medium and can be decrypted by our ears.  Light is also a vibration, but we can’t hear it because our ears weren’t designed to do so.  Our eyes were designed to interpret that vibration [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam], while light is composed of sine waves from 4 x 10^14 Hz to 7.9 10^14 Hz.
+#### How Do Sound Signals Compare to Others?
+We only talked about one kind of signal in our exploration, sound.  However, there are different physical signals around us.  There is a whole field called signal processing that is based on the analysis and techniques around modifying and mimicking these types of signals <sup>[[12]](#wiki-signal-processing)</sup>.  
 
+We know air is a vibration (aka disturbance, pressure, etc.) that propagates through a medium and can be "decrypted" by our ears <sup>[[13]](#kalenzaga-shazam)</sup>; but light is also a vibration.  The difference is that light vibrates much faster than sound and our ears weren’t designed to hear those types of vibrations; whereas, our eyes were designed to interpret that vibration <sup>[[13]](#kalenzaga-shazam)</sup>.
 
-
-How is it that we “hear” this information?
-
-
-We can now answer the question ["If a tree falls in a forest and no one is around to hear it, does it make a sound?"][tree-in-forest-sound].  If we are referring to sound as a physical phenomenon; then yes, the tree falling will cause a physical sound event that could be analyzed and recorded <sup>[[1]](#communication-acoustics)</sup>.  If we are referring to sound in terms of perception; then no, there is no listener around to actually hear the event <sup>[[1]](#communication-acoustics).
+#### ["If a tree falls in a forest and no one is around to hear it, does it make a sound?"][tree-in-forest-sound]
+We can now answer this question.  If we are referring to sound as a physical phenomenon; then yes, the tree falling will cause a physical sound event that could be analyzed and recorded <sup>[[1]](#communication-acoustics)</sup>. If we are referring to sound in terms of perception; then no, there is no listener around to actually hear the event <sup>[[1]](#communication-acoustics).
 
 
 [air-molecule-distance]: https://www.youtube.com/watch?v=NO9F2UJ1EcY
@@ -107,6 +109,10 @@ We can now answer the question ["If a tree falls in a forest and no one is aroun
 [professor-russell]: http://www.acs.psu.edu/drussell/
 [computerphile-digital-audio]: https://www.youtube.com/watch?v=1RIA9U5oXro
 [wiki-sound]: https://en.wikipedia.org/wiki/Sound#Physics_of_sound
+[pass-my-exams-sound]: http://www.passmyexams.co.uk/GCSE/physics/sound-waves.html
+[wiki-vacuum]: https://en.wikipedia.org/wiki/Vacuum
+[wiki-signal-processing]: https://en.wikipedia.org/wiki/Signal_processing
+[kalenzaga-shazam]: http://coding-geek.com/how-shazam-works/
 
 
 ### References
@@ -141,27 +147,10 @@ Based on a work at http://www.acs.psu.edu/drussell/demos.html.
 [<a name="wiki-sound">9</a>]
 Wikipedia contributors. ["Sound."][wiki-sound] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 29 Sep. 2017. 
 
+[<a name="wiki-vacuum">10</a>] Wikipedia contributors. ["Vacuum."][wiki-vacuum] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Oct. 2017. Accessed. 30 Oct. 2017. 
 
-[wiki-vibration]
-Wikipedia contributors. "Vibration." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 3 Oct. 2017. 
-https://en.wikipedia.org/wiki/Vibration
-[smack-my-pitch-up]
-Tattoni, Guido. Chapter 1.1 “what is sound?”. Smack My Pitch Up. Self-Published Online (Date Unknown). Accessed 3 October 2017. 
-http://www.smackmypitchup.com/smpu/?sec=content&id=72&topid=123
-This work is published under a Creative Commons License.
+[<a name="pass-my-exams-sound">11</a>] ["What is Sound?"][pass-my-exams-sound] PassMyExams. 28 May 2017. Accessed. 30 Oct. 2017. 
 
-[wiki-pure-tones]
-Wikipedia contributors. "Musical tone." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 21 May. 2017. Accessed. 2 Oct. 2017.
-[wiki-waveform]
-Wikipedia contributors. "Waveform." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 22 Sep. 2017. Accessed. 30 Sep. 2017
+[<a name="wiki-signal-processing">12</a>] Wikipedia contributors. ["Signal processing."][wiki-signal-processing] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 28 Oct. 2017. Web. 30 Oct. 2017. 
 
-[kalenzaga-shazam]
-Kalenzaga, Christophe. “How does Shazam work.” Blog post. Coding Geek: A blog about IT, programming and Java. 23 May 2015. Accessed 28 September 2017.
-URL
-http://coding-geek.com/how-shazam-works/
-[audio-programmer-beginning-tutorial]
-Hodge, Joshua [The Audio Programmer]. (2017, May 22). Audio Programming for Beginners Tutorial 00- Analog to Digital Conversion, Sample Rate & Bit Depth. Retrieved from https://www.youtube.com/watch?v=Ov3GXhorrJE
-[Newmarch]
-Newmarch, Jan. “1. Basic Concepts of Sound.” Linux sound programming, Apress, Berkeley, CA, 2017.
-
-
+[<a name="kalenzaga-shazam">13</a>] Kalenzaga, Christophe. [“How does Shazam work.”][kalenzaga-shazam] Blog post. Coding Geek: A blog about IT, programming and Java. 23 May 2015. Accessed 28 September 2017.
