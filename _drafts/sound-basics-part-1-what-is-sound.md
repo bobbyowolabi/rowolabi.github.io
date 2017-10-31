@@ -1,6 +1,6 @@
 ---
 title: Sound Basics Part 1 - What is Sound?
-description: The first part of a series exploration sound.
+description: The first part of a series exploringsound.
 comments: true
 published: true
 ---
