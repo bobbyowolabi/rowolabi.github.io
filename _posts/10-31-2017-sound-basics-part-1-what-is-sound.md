@@ -1,8 +1,7 @@
 ---
 title: Sound Basics Part 1 - What is Sound?
-description: The first part of a series exploration sound.
+description: The first part of a series exploring sound.  In this post, we talk about the physical phenonenom of sound versus the perception the perception of it.  We discuss the what's going on in the molecular level.  We even address the question, "If a tree falls in a forest and no one is around to hear it, does it make a sound?"
 comments: true
-published: true
 ---
 
 A lot of times when sound is described, a graph of a sound wave is shown.  The sine function is discussed … wasn’t that about angles of a triangle?  We are told sound is simply changes in pressure.  This all is somehow represented in digital form as 0s and 1s.  What does all of this mean?  How can looking at a sine graph help me understand and describe the sound of a saxophone versus a laughing baby?  I want to present these concepts through the eyes of a true beginner.  I hope to achieve this by asking questions of a beginner.
