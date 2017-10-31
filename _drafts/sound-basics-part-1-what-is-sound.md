@@ -1,7 +1,8 @@
 ---
 title: Sound Basics Part 1 - What is Sound?
-description: The first part of a series exploration sound. 
+description: The first part of a series exploration sound.
 comments: true
+published: true
 ---
 
 A lot of times when sound is described, a graph of a sound wave is shown.  The sine function is discussed … wasn’t that about angles of a triangle?  We are told sound is simply changes in pressure.  This all is somehow represented in digital form as 0s and 1s.  What does all of this mean?  How can looking at a sine graph help me understand and describe the sound of a saxophone versus a laughing baby?  I want to present these concepts through the eyes of a true beginner.  I hope to achieve this by asking questions of a beginner.
@@ -94,7 +95,7 @@ We can create such conditions.  We can put an alarm clock in a jar and remove al
 #### How Do Sound Signals Compare to Others?
 We only talked about one kind of signal in our exploration, sound.  However, there are different physical signals around us.  There is a whole field called signal processing that is based on the analysis and techniques around modifying and mimicking these types of signals <sup>[[12]](#wiki-signal-processing)</sup>.  
 
-We know air is a vibration (aka disturbance, pressure, etc.) that propagates through a medium and can be "decrypted" by our ears <sup>[[13]](#kalenzaga-shazam)</sup>; but light is also a vibration.  The difference is that light vibrates much faster than sound and our ears weren’t designed to hear those types of vibrations; whereas, our eyes were designed to interpret that vibration <sup>[[13]](#kalenzaga-shazam)</sup>.
+We know air is a vibration (aka disturbance, pressure, etc.) that propagates through a medium and can be "decrypted" by our ears <sup>[[13]](#kalenzaga-shazam)</sup>; but light is also a vibration.  The difference is that the vibration of light is much faster than sound and our ears weren’t designed to hear those types of vibrations; whereas, our eyes were designed to interpret the vibration of light.<sup>[[13]](#kalenzaga-shazam)</sup>.
 
 #### ["If a tree falls in a forest and no one is around to hear it, does it make a sound?"][tree-in-forest-sound]
 We can now answer this question.  If we are referring to sound as a physical phenomenon; then yes, the tree falling will cause a physical sound event that could be analyzed and recorded <sup>[[1]](#communication-acoustics)</sup>. If we are referring to sound in terms of perception; then no, there is no listener around to actually hear the event <sup>[[1]](#communication-acoustics).
