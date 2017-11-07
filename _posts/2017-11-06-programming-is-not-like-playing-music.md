@@ -13,7 +13,7 @@ Another way to put it is that since music performance is in real-time, once some
 **Programming is different … we have a delete key**.  
 
 > You named a “routine” <sup>[[2]](#thoughts-on-routine)</sup> in your program and realize that there is a much better name … **Delete** and rename!
->
+
 > You are singing your nation’s anthem and are unable to hit the notes of the most memorable section … **Hope** your audience is kind!
 
 Change is so ingrained in the process of programming that even our [IDEs][ide] supply us with tools to automate [refactoring][refactoring].  When performing music, you just don’t have that luxury.  There is no going back to change what you just played.
@@ -26,6 +26,6 @@ Music is beautiful.  Code and programs can be beautiful ... and that is good eno
 [refactoring]: https://en.wikipedia.org/wiki/Code_refactoring
 
 ### Notes
-<a name=”coughlin-lesson”>[1]</a> I learned this lesson from [Dr. Kyle Coughlin][kyle-coughlin].
+<a name="coughlin-lesson">[1]</a> I learned this lesson from [Dr. Kyle Coughlin][kyle-coughlin].
 
-<a name=”thoughts-on-routine”>[2]</a> I was going to use the term function or method but wondered if I should use a more general term.  I decided to try "routine" and read through this [stackoverflow answer on it][stackoverflow-routine].
+<a name="thoughts-on-routine">[2]</a> I was going to use the term function or method but wondered if I should use a more general term.  I decided to try "routine" and read through this [stackoverflow answer on it][stackoverflow-routine].
