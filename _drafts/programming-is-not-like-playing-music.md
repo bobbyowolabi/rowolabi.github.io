@@ -13,8 +13,8 @@ Another way to put it is that since music performance is in real-time, once some
 **Programming is different … we have a delete key**.  
 
 > You named a “routine” <sup>[[2]](#thought-on-routine)</sup> in your program and realize that there is a much better name … **Delete** and rename!
-
-> You are singing your nation’s anthem and are unable to hit the notes of the most memorable section … Hope your audience is kind!
+>
+> You are singing your nation’s anthem and are unable to hit the notes of the most memorable section … **Hope** your audience is kind!
 
 Change is so ingrained in the process of programming that even our IDEs supply us with tools to automate refactoring.  When performing music, you just don’t have that luxury.  There is no going back to change what you just played.
 
