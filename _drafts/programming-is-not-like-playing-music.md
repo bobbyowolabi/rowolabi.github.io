@@ -18,7 +18,7 @@ Another way to put it is that since music performance is in real-time, once some
 
 Change is so ingrained in the process of programming that even our IDEs supply us with tools to automate refactoring.  When performing music, you just don’t have that luxury.  There is no going back to change what you just played.
 
-Music is beautiful.  Code and programs can be beautiful ... maybe they are similar after all.
+Music is beautiful.  Code and programs can be beautiful ... and that is good enough for me.
 
 [kyle-coughlin]: http://www.kylecoughlin.com/
 [stackoverflow-routine]: https://stackoverflow.com/questions/6885937/whats-the-technical-definition-for-routine
