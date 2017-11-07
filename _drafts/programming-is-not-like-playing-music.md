@@ -16,15 +16,16 @@ Another way to put it is that since music performance is in real-time, once some
 >
 > You are singing your nation’s anthem and are unable to hit the notes of the most memorable section … **Hope** your audience is kind!
 
-Change is so ingrained in the process of programming that even our IDEs supply us with tools to automate refactoring.  When performing music, you just don’t have that luxury.  There is no going back to change what you just played.
+Change is so ingrained in the process of programming that even our [IDEs][ide] supply us with tools to automate [refactoring][refactoring].  When performing music, you just don’t have that luxury.  There is no going back to change what you just played.
 
 Music is beautiful.  Code and programs can be beautiful ... and that is good enough for me.
 
 [kyle-coughlin]: http://www.kylecoughlin.com/
 [stackoverflow-routine]: https://stackoverflow.com/questions/6885937/whats-the-technical-definition-for-routine
-[commit]: https://en.wikipedia.org/wiki/Commit_(version_control)
+[ide]: https://en.wikipedia.org/wiki/Integrated_development_environment
+[refactoring]: https://en.wikipedia.org/wiki/Code_refactoring
 
 ### Notes
 <a name=”coughlin-lesson”>[1]</a> I learned this lesson from [Dr. Kyle Coughlin][kyle-coughlin].
 
-<a name=”thoughts-on-routine”>[2]</a> I was going to use the term function or method but wondered if I should use a more general term.  I decided to try routine and read through this [stackoverflow answer on it][stackoverflow-routine].
+<a name=”thoughts-on-routine”>[2]</a> I was going to use the term function or method but wondered if I should use a more general term.  I decided to try "routine" and read through this [stackoverflow answer on it][stackoverflow-routine].
