@@ -53,6 +53,8 @@ http://www.silcom.com/~aludwig/Phase_audibility.htm
 ## Links
 http://cmc.music.columbia.edu/MusicAndComputers/
 
+https://books.google.com/books/about/Audio_Effects.html?id=mlHSBQAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
+
 http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
 
 http://www.passmyexams.co.uk/GCSE/physics/sound-waves.html
