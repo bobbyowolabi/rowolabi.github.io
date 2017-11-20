@@ -2,6 +2,7 @@
 title: Things They Say You Should Know - Merge Sort & Quick Sort
 description: 
 comments: true
+published: false
 ---
 
 In his book, “The Clean Coder: A Code of Conduct for Professional Programmers", Robert Martin makes the claim that one must know their field.  He asks the reader if they are familiar with various concepts in computer science including:

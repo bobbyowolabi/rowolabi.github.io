@@ -2,6 +2,7 @@
 title: Sound Basics Part X - Protperties of Sound
 description: 
 comments: true
+published: false
 ---
 
 ## Sine Waves
