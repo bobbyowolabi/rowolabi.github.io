@@ -52,6 +52,7 @@ http://www.silcom.com/~aludwig/Phase_audibility.htm
 
 
 ## Links
+http://teropa.info/blog/2016/08/19/what-is-the-web-audio-api.html
 http://cmc.music.columbia.edu/MusicAndComputers/
 
 https://books.google.com/books/about/Audio_Effects.html?id=mlHSBQAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
