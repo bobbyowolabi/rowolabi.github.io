@@ -79,6 +79,7 @@ Base Sine Wave
 
 
 ## Links
+http://teropa.info/blog/2016/08/19/what-is-the-web-audio-api.html
 https://www.soundonsound.com/techniques/digital-myth
 Intro to Audio Programming, Part 1: How Audio Data is Represented
 http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
