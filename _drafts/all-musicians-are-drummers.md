@@ -6,6 +6,9 @@ published: true
 ---
 
 Adam Neely had an interesting talk where he declared that rhythm and pitch are the same.
+http://dantepfer.com/blog/?p=277
+https://www.youtube.com/watch?v=_gCJHNBEdo
+
 
 He played a beat at a low frequency and gradually increased the frequency.  Something interesting happened ... 
 
