@@ -1,19 +1,21 @@
 ---
-title: Sound Basics Part X - Protperties of Sound
+title: Sound Basics Part 2 - Protperties of Sound
 description: 
 comments: true
 published: false
 ---
 
-## Sine Waves
+## Amplitudes
+"In part 1, we established that sound is a disturbance of air molecules, or rather pressure.  A way to think about sound is as a sequence of time varying pressures" (music-and-computers)
 
+## Frequency
+We often describe sounds as being high (Flute) or low (Tuba).  Does the pattern of varying amplitudes repeat?  If so, we are in the realm of frequency.  Frequency is how quickly does the pattern of varying pressures repeat?  (music-and-computers)
+
+## Sine Waves
 How can we describe the motion of a sound wave using precise language?  This is where math and the sine wave comes in.  For ease let’s look at the movement of an individual molecule.  When a molecule is not moving (at rest) it has an initial pressure of 0, also known as equilibrium [music-and-computers].  When it moves, it will go forward a certain distance, return back to equilibrium and go in the opposite direction a certain distance .  Essentially the traveled distance of the molecule is zero since the two movements cancel each other out.  This back and forth movement is called oscillation (Describe what an oscilloscope is).  
 
-
 A great illustration of this movement can be seen in the same Khan Academy video:
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-_xZZt99MzY?start=22&end=40" frameborder="0" allowfullscreen></iframe>
-
 
 If you measure the distance the molecule travels from equilibrium (forward being a positive value and backwards being a negative value) and plot it over time on a graph, you get the form of a sinewave.  The form of this graph is called the waveform [wiki-waveform].  It turns out the sine function serves as a good foundational model for technically and formally representing the movement of a soundwave.
 
