@@ -5,8 +5,15 @@ comments: true
 published: false
 ---
 
+When talking about the characteristics of sound, we have to separate those characteristics which are physical/acoustice versus those which are cognitive. (music-and-computers)
+
+What are pure tones?
+
 ## Amplitudes
 "In part 1, we established that sound is a disturbance of air molecules, or rather pressure.  A way to think about sound is as a sequence of time varying pressures" (music-and-computers)
+
+## Amplitude vs Loudness
+
 
 ## Frequency
 We often describe sounds as being high (Flute) or low (Tuba).  Does the pattern of varying amplitudes repeat?  If so, we are in the realm of frequency.  Frequency is how quickly does the pattern of varying pressures repeat?  (music-and-computers)
