@@ -6,6 +6,30 @@ published: false
 ---
 
 ## Hearing Sound
+Our eardrums are transducers, they turn one form of information into another like microphones and speakers (music-and-computers).  
+
+(music-and-computers)
+sound waves reach our ears and vibrate eardrums
+sound energy is transferred through middle ear to inner ear
+cochlea is located in inner ear
+it is a snail shaped organ filled with fluid and is bisected by an elastic partition called the basilar membrane which is covered with hair cells.
+When sound energy reaches the cochlea, it produces fluid waves that form a series of peaks in the basilar membrane, the position and size of which depend on the frequency content of the sound.
+
+(music-and-computers)
+Different sections of the basilar membrane resonate (form peaks) at different frequencies
+Front Cochlea Peaking - high frequiencies
+Back Cochlea peaking - low frequencies
+
+These peaks match up with and excite certain hair cells which send nerve impuleses to the brain via the auditory nerve. (music-and-computers)
+
+image from ((music-and-computers):
+http://cmc.music.columbia.edu/MusicAndComputers/images/chapter1/basilar.jpg
+
+(music-and-computers)
+The nerve pulses that are sent to the brain are interpreted as sound.
+The cochlea transforms sounds from their physical, time domain (amplitude vs time) to the frequency domain (amplitude vs frequency).  The latter domain is the one our brain can understand
+
+"basilar membrane serves as a time-to-frequency converter, in order to prepare sonic information for its eventual cognition by the higher functions of the brain." (music-and-computers)
 
 The analysis of sound is performed by looking at its fourier transform with is a mathematical thing.  Our ears perform a similar transform with its structure [Newmarch].
 
