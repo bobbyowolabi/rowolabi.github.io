@@ -38,6 +38,8 @@ Pure tones don’t exist naturally but every sound in the world is the sum of a 
 
 ### Sampling 
 
+"A Sample is esstially a measurement of the amplitude of a sound at a point in time" (music-and-computers-1.2)
+
 The act of capturing an amplitude over time 
 
 
