@@ -1,16 +1,22 @@
 ---
-title: Sound Basics Part 2 - Protperties of Sound
+title: Sound Basics Part 2 - Properties of Sound
 description: 
 comments: true
 published: false
 ---
 
+In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing to the physical aspects of sound.  As we move to 
+
 When talking about the characteristics of sound, we have to separate those characteristics which are physical/acoustice versus those which are cognitive. (music-and-computers)
 
 What are pure tones?
 
+Pure tones don’t exist naturally but every sound in the world is the sum of a multple of pure tones at different amplitudes. [kalenzaga-shazam]
+
 ## Amplitudes
 "In part 1, we established that sound is a disturbance of air molecules, or rather pressure.  A way to think about sound is as a sequence of time varying pressures" (music-and-computers)
+
+## How Do Amplitudes 
 
 ## Amplitude vs Loudness
 
@@ -53,6 +59,9 @@ Here is an example of what sine waves sound like:
 
 
 We call the sound associated with a single sine wave a “pure tone”.  This wave consists on one frequency [wiki-pure-tones].  If the sound associated with a sine wave does not actually exist in practice, what is the sine wave important in modeling sound?  Every sound can be represented as the sum of many pure tones at different amplitudes [wiki-pure-tones].  This insight seems to be related to the Fourier theorem.  
+
+[part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
+
 
 ## Music Theory
 [kalenzaga-shazam]
