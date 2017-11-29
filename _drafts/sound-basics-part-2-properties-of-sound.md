@@ -5,9 +5,31 @@ comments: true
 published: false
 ---
 
-In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing to the physical aspects of sound.  As we move to 
+We now have an idea of [what sound is][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
 
-When talking about the characteristics of sound, we have to separate those characteristics which are physical/acoustice versus those which are cognitive. (music-and-computers)
+This is a good foundation for us to build off of, but we often speak of sound in terms of:
+
+> How loud is it?
+
+> What are the pitches in the melody I'm hearing?
+
+> Why does it sound like it (aka timbre)?  What is its color?
+
+How does our molecular definition of sound relate to the basic questions above?
+
+They are related by the physical properties of how the molecules move.
+
+In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing to the physical aspects of sound.  As we move on to discuss the physical properties of sound, we will have to continue to maintain this mindset.  The properties of how the molecules move are:
+
+**physical measurements** <sup>[[1]](#music-and-computers)</sup>
+
+The things we hear, such as loudness, pitches and timbre are:
+
+**psychophysical measurements** <sup>[[1]](#music-and-computers)</sup>
+<br/><sub>*measurements of our perception*</sub>
+
+##
+
 
 What are pure tones?
 
@@ -63,6 +85,9 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 [part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
 
 
+[music-and-computers]: http://cmc.music.columbia.edu/MusicAndComputers/
+
+
 ## Music Theory
 [kalenzaga-shazam]
 http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
@@ -106,6 +131,15 @@ http://jackschaedler.github.io/circles-sines-signals/
 
 
 ### References
+
+[<a name="music-and-computers">1</a>]
+Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: Sound and Timbre; Section 1.2: Amplitude and Loudness?” [Music and computers: a theoretical and historical approach][music-and-computers], Self-Published Online. 2011. Accessed 29 Nov. 2017.
+> **Authors**<br/>
+> Phil Burk, SoftSynth.com<br/>
+> Larry Polansky, Department of Music, Dartmouth College<br/>
+> Douglas Repetto, Computer Music Center, Columbia University<br/>
+> Mary Roberts<br/>
+> Dan Rockmore, Department of Mathematics, Dartmouth College<br/>
 
 [wiki-vibration]
 
