@@ -19,7 +19,7 @@ How does our molecular definition of sound relate to the basic questions above?
 
 They are related by the physical properties of how the molecules move.
 
-In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing to the physical aspects of sound.  As we move on to discuss the physical properties of sound, we will have to continue to maintain this mindset.  The properties of how the molecules move are:
+In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing from the physical aspects of sound.  As we move on to discuss the physical properties of sound, we will have to continue to maintain this mindset.  The properties of how the molecules move are:
 
 **physical measurements** <sup>[[1]](#music-and-computers)</sup>
 
@@ -84,13 +84,6 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 
 [part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
 [music-and-computers]: http://cmc.music.columbia.edu/MusicAndComputers/
-
-
-## Music Theory
-[kalenzaga-shazam]
-http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
-http://www.silcom.com/~aludwig/Phase_audibility.htm
-
 
 ## Links
 http://teropa.info/blog/2016/08/19/what-is-the-web-audio-api.html
