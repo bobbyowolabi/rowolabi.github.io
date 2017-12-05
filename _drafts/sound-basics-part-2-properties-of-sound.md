@@ -13,7 +13,7 @@ This is a good foundation for us to build off of, but we often speak of sound in
 
 > What are the pitches in the melody I'm hearing?
 
-> Why does it sound like it (aka timbre)?  What is its color?
+> Why does it sound like that (aka timbre)?  What is its color?
 
 How does our molecular definition of sound relate to the basic questions above?
 
