@@ -22,6 +22,8 @@ Back Cochlea peaking - low frequencies
 
 These peaks match up with and excite certain hair cells which send nerve impuleses to the brain via the auditory nerve. (music-and-computers)
 
+"Our ear has a drum that moves in sympathy with these waves, and a larget array of differently sized hairs converts those vibrations into verve impulses.  We can therefore perceive a sound" (#cook-arduino-music)
+
 image from ((music-and-computers):
 http://cmc.music.columbia.edu/MusicAndComputers/images/chapter1/basilar.jpg
 
@@ -79,6 +81,7 @@ https://ccrma.stanford.edu/~jos/sasp/Introduction_Overview.html
 
 
 ## References
+[<a name="cook-adruino-music">X</a>] Cook, Mike, et al. “CHAPTER 10 The Anatomy of a Sound.” Arduino Music and Audio Projects, Apress, Springer Science Business Media, 2015.
 
 [wiki-vibration]
 
