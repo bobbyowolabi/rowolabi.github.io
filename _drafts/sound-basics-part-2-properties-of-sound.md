@@ -7,13 +7,13 @@ published: false
 
 We now have an idea of [what sound is][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
 
-This is a good foundation for us to build off of, but we often speak of sound in terms of:
+This is a good foundation for us to build off of, but we usually do not speak of sound like this.  We speak of sound in terms of:
 
 > How loud is it?
 
 > What are the pitches in the melody I'm hearing?
 
-> Why does it sound like that (aka timbre)?  What is its color?
+> What is its timbre <sup>[[X]](#what-is-timbre)</sup>?
 
 How does our molecular definition of sound relate to the basic questions above?
 
@@ -28,7 +28,8 @@ The things we hear, such as loudness, pitches and timbre are:
 **psychophysical measurements** <sup>[[1]](#music-and-computers)</sup>
 <br/><sub>*measurements of our perception*</sub>
 
-##
+## Mental Model for Sound Movement
+
 
 
 What are pure tones?
@@ -120,6 +121,8 @@ How Digital Audio Works - Computerphile
 
 http://jackschaedler.github.io/circles-sines-signals/
 
+### Notes
+[<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
 
 ### References
 
@@ -131,6 +134,8 @@ Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: 
 > Douglas Repetto, Computer Music Center, Columbia University<br/>
 > Mary Roberts<br/>
 > Dan Rockmore, Department of Mathematics, Dartmouth College<br/>
+
+[<a name="cook-adruino-music">X</a>] Cook, Mike, et al. “CHAPTER 10 The Anatomy of a Sound.” Arduino Music and Audio Projects, Apress, Springer Science Business Media, 2015.
 
 [wiki-vibration]
 
