@@ -89,6 +89,8 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 [part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
 [parviainen-amplitude]: http://teropa.info/blog/2016/08/30/amplitude-and-loudness.html
 [schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
+[cook-adruino-music]: https://www.safaribooksonline.com/library/view/arduino-music-and/9781484217214/9781484217207_Ch10.xhtml
+[hewitt-music]: https://www.safaribooksonline.com/library/view/music-theory-for/30000LTI00240/30000LTI00240_ch01lev1sec4.html 
 
 ### Notes
 [<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
@@ -103,15 +105,15 @@ Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: 
 > Mary Roberts<br/>
 > Dan Rockmore, Department of Mathematics, Dartmouth College<br/>
 
-[<a name="cook-adruino-music">X</a>] Cook, Mike, et al. “CHAPTER 10 The Anatomy of a Sound.” Arduino Music and Audio Projects, Apress, Springer Science Business Media, 2015.
+[<a name="cook-adruino-music">X</a>] Cook, Mike, et al. [“CHAPTER 10 The Anatomy of a Sound.” Arduino Music and Audio Projects][cook-adruino-music], Apress, Springer Science Business Media, 2015.
 
-[<a name="parviainen-amplitude">X</a>] Parviainen, Tero. "Learn Web Audio from the Ground Up, Part 3: Controlling Amplitude and Loudness" Blog. Tero Parviainen. 30 August 2016. Web. 12 December 2017.
+[<a name="parviainen-amplitude">X</a>] Parviainen, Tero. ["Learn Web Audio from the Ground Up, Part 3: Controlling Amplitude and Loudness"][parviainen-amplitude] Blog. Tero Parviainen. 30 August 2016. Web. 12 December 2017.
 
 [<a name="jos-why-sinusoids">X</a>] Smith, J.O. ["Why Sinusoids are Important."][jos-why-sinusoids] Under Section "Sinusoids and Exponentials: Sinusoids". In Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications, Second Edition. Online Book; 2007 Edition. Accessed 12 Decemeber 2017.
 
-[<a name="schaedler-sound"></a>] Schaedler, Jack. "Sound." circles-sines-signals: A Compact Primer On Digital Signal Processing. 7 September 2017. Accessed 12 December 2017.
+[<a name="schaedler-sound">X</a>] Schaedler, Jack. ["Sound."][schaedler-sound] circles-sines-signals: A Compact Primer On Digital Signal Processing. 7 September 2017. Accessed 12 December 2017.
 
-[<a name="hewitt-music">X</a>] Hewitt, Michael. Music Theory for Computer Musicians. Boston, MA: Course Technology, CENGAGE Learning, 2008. Apr. 2008. Web. 12 Dec. 2017.
+[<a name="hewitt-music">X</a>] Hewitt, Michael. [Music Theory for Computer Musicians][hewitt-music]. Boston, MA: Course Technology, CENGAGE Learning, 2008. Apr. 2008. Web. 12 Dec. 2017.
 
 [<a name="hass-amplitude">X</a>] Hass, Jeffrey. ["Amplitude."][hass-amplitude] Introduction to Computer Music: Volume One. 2013. Accessed 12 December 2017.
 
