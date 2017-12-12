@@ -83,49 +83,16 @@ Here is an example of what sine waves sound like:
 
 We call the sound associated with a single sine wave a “pure tone”.  This wave consists on one frequency [wiki-pure-tones].  If the sound associated with a sine wave does not actually exist in practice, what is the sine wave important in modeling sound?  Every sound can be represented as the sum of many pure tones at different amplitudes [wiki-pure-tones].  This insight seems to be related to the Fourier theorem.  
 
-[part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
+[jos-why-sinusoids]: https://ccrma.stanford.edu/~jos/mdft/Why_Sinusoids_Important.html
 [music-and-computers]: http://cmc.music.columbia.edu/MusicAndComputers/
-
-## Links
-http://teropa.info/blog/2016/08/19/what-is-the-web-audio-api.html
-http://cmc.music.columbia.edu/MusicAndComputers/
-
-https://books.google.com/books/about/Audio_Effects.html?id=mlHSBQAAQBAJ&printsec=frontcover&source=kp_read_button#v=onepage&q&f=false
-
-http://www.smackmypitchup.com/smpu/?sec=content&id=31&topid=123
-
-http://www.passmyexams.co.uk/GCSE/physics/sound-waves.html
-
-http://www.silcom.com/~aludwig/musicand.htm
-
-http://www.acs.psu.edu/drussell/demos.html
-
-https://www.chirp.io/
-
-What is Audio Programming? An Introduction
-
-The Audio Programmer on the ADC
-
-Audio Programming for Beginners Tutorial 00- Analog to Digital Conversion, Sample Rate & Bit Depth
-
-http://exploresound.org/explore-sound-home/what-is-acoustics/terms-definitions/
-
-http://teropa.info/blog/2016/08/04/sine-waves.html
-
-Frequencies & sound explained #1 - Basic sound theory
-
-Sound Properties (Amplitude, Period, Frequency, Wavelength) | Physics | Khan Academy
-Great Explanation, actually talks about how the air molecules move
-
-How Digital Audio Works - Computerphile
-
-http://jackschaedler.github.io/circles-sines-signals/
+[part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
+[parviainen-amplitude]: http://teropa.info/blog/2016/08/30/amplitude-and-loudness.html
+[schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
 
 ### Notes
 [<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
 
 ### References
-
 [<a name="music-and-computers">1</a>]
 Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: Sound and Timbre; Section 1.2: Amplitude and Loudness?” [Music and computers: a theoretical and historical approach][music-and-computers], Self-Published Online. 2011. Accessed 29 Nov. 2017.
 > **Authors**<br/>
@@ -137,102 +104,11 @@ Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: 
 
 [<a name="cook-adruino-music">X</a>] Cook, Mike, et al. “CHAPTER 10 The Anatomy of a Sound.” Arduino Music and Audio Projects, Apress, Springer Science Business Media, 2015.
 
-[wiki-vibration]
+[<a name="parviainen-amplitude">X</a>] Parviainen, Tero. "Learn Web Audio from the Ground Up, Part 3: Controlling Amplitude and Loudness" Blog. Tero Parviainen. 30 August 2016. Web. 12 December 2017.
 
-Wikipedia contributors. "Vibration." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 3 Oct. 2017. 
+[<a name="jos-why-sinusoids">X</a>] Smith, J.O. ["Why Sinusoids are Important."][jos-why-sinusoids] Under Section "Sinusoids and Exponentials: Sinusoids". In Mathematics of the Discrete Fourier Transform (DFT) with Audio Applications, Second Edition. Online Book; 2007 Edition. Accessed 12 Decemeber 2017.
 
-https://en.wikipedia.org/wiki/Vibration
+[<a name=""></a>] Schaedler, Jack. "Sound." circles-sines-signals: A Compact Primer On Digital Signal Processing. 7 September 2017. Accessed 12 December 2017.
 
-[smack-my-pitch-up]
-
-Tattoni, Guido. Chapter 1.1 “what is sound?”. Smack My Pitch Up. Self-Published Online (Date Unknown). Accessed 3 October 2017. 
-
-http://www.smackmypitchup.com/smpu/?sec=content&id=72&topid=123
-
-This work is published under a Creative Commons License.
-
-[wiki-perception]
-
-Wikipedia contributors. "Perception." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 25 Sep. 2017. Web. 3 Oct. 2017
-
-https://en.wikipedia.org/wiki/Perception
-
-[computerphile-digital-audio]
-
-David Domminney Fowler [Computerphile]. “How Digital Audio Works - Computerphile”. 26, October 2015. Accessed. 2 October 2017.
-
-https://www.youtube.com/watch?v=1RIA9U5oXro
-
-[wiki-pure-tones]
-
-Wikipedia contributors. "Musical tone." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 21 May. 2017. Accessed. 2 Oct. 2017.
-
-[wiki-waveform]
-
-Wikipedia contributors. "Waveform." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 22 Sep. 2017. Accessed. 30 Sep. 2017
-
-[wiki-sound]
-
-Wikipedia contributors. "Sound." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 24 Sep. 2017. Web. 29 Sep. 2017. 
-
-https://en.wikipedia.org/wiki/Sound#Physics_of_sound
-
-[thompson-mike]
-
-Mike Thompson [self-titled]. “Did You Ever Wonder: How Far Apart Are Air Molecules?”. 26 March 2015. Accessed 29 September 2017. Retrieved from https://www.youtube.com/watch?v=NO9F2UJ1EcY
-
-[ucar-what-is-air]
-
-The University Corporation for Atmospheric Research. “What is Air?”. Article.  Kids’ Crossing.  25 March 2005. Accessed 29 September 2017.
-
-URL
-
-https://eo.ucar.edu/kids/sky/air1.htm
-
-[kalenzaga-shazam]
-
-Kalenzaga, Christophe. “How does Shazam work.” Blog post. Coding Geek: A blog about IT, programming and Java. 23 May 2015. Accessed 28 September 2017.
-
-URL
-
-http://coding-geek.com/how-shazam-works/
-
-[audio-programmer-beginning-tutorial]
-
-Hodge, Joshua [The Audio Programmer]. (2017, May 22). Audio Programming for Beginners Tutorial 00- Analog to Digital Conversion, Sample Rate & Bit Depth. Retrieved from https://www.youtube.com/watch?v=Ov3GXhorrJE
-
-[Waters]
-
-Waters, Dan. "Intro to Audio Programming, Part 1: How Audio Data is Represented." Blog post.  Game Theory: A blog by Microsoft Academic Developer Evangelist, Dan Waters. 22 Jun. 2009. Accessed 8 Sep. 2017.
-
-URL
-
-https://blogs.msdn.microsoft.com/dawate/2009/06/22/intro-to-audio-programming-part-1-how-audio-data-is-represented/
-
-[Newmarch]
-
-Newmarch, Jan. “1. Basic Concepts of Sound.” Linux sound programming, Apress, Berkeley, CA, 2017.
-
-[music-and-computers]
-
-Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: Sound and Timbre; Section 1.1: What Is Sound?” Music and computers: a theoretical and historical approach, Self-Published Online. 2011. Accessed 8 Sep. 2017.
-
-Authors
-
-Phil Burk, SoftSynth.com
-
-Larry Polansky, Department of Music, Dartmouth College
-
-Douglas Repetto, Computer Music Center, Columbia University
-
-Mary Roberts
-
-Dan Rockmore, Department of Mathematics, Dartmouth College 
-
-URL
-
-http://cmc.music.columbia.edu/MusicAndComputers/
-
-
-
+[<a name="hewitt-music">X</a>] Hewitt, Michael. Music Theory for Computer Musicians. Boston, MA: Course Technology, CENGAGE Learning, 2008. Apr. 2008. Web. 12 Dec. 2017.
 
