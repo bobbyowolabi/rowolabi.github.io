@@ -1,11 +1,11 @@
 ---
-title: Sound Basics Part 2 - Properties of Sound
+title: Sound Basics Part 2 - What's the Deal With the Graph? (Amplitude)
 description: 
 comments: true
-published: false
+published: true
 ---
 
-We now have an idea of [what sound is][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
+We now have an idea of [what is sound][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
 
 This is a good foundation for us to build off of, but we usually do not speak of sound like this.  We speak of sound in terms of:
 
@@ -15,7 +15,7 @@ This is a good foundation for us to build off of, but we usually do not speak of
 
 > What is its timbre <sup>[[X]](#what-is-timbre)</sup>?
 
-How does our molecular definition of sound relate to the basic questions above?
+How does our molecular definition of sound relate to the basic questions above?  
 
 They are related by the physical properties of how the molecules move.
 
@@ -28,7 +28,15 @@ The things we hear, such as loudness, pitches and timbre are:
 **psychophysical measurements** <sup>[[1]](#music-and-computers)</sup>
 <br/><sub>*measurements of our perception*</sub>
 
-## Mental Model for Sound Movement
+We will discuss both physical and psychophysical measurements.
+
+## What's the Deal With the Sine Graph?
+We know that sound travels in a wave 
+
+Let's revisit [Professor Dan Russell's][professor-russell] animation for a soundwave <sup>[[8]](#russell-particle-motion)</sup>:
+
+<img src="http://www.acs.psu.edu/drussell/Demos/waves/Lwave-Red-2.gif" width="600" alt="animation showing particle motion for a longitudinal pressure wave highlighting the difference between particle motion and wave propagation.">
+
 
 
 
@@ -83,15 +91,16 @@ Here is an example of what sine waves sound like:
 
 We call the sound associated with a single sine wave a “pure tone”.  This wave consists on one frequency [wiki-pure-tones].  If the sound associated with a sine wave does not actually exist in practice, what is the sine wave important in modeling sound?  Every sound can be represented as the sum of many pure tones at different amplitudes [wiki-pure-tones].  This insight seems to be related to the Fourier theorem.  
 
+[cook-adruino-music]: https://www.safaribooksonline.com/library/view/arduino-music-and/9781484217214/9781484217207_Ch10.xhtml
 [hass-amplitude]: http://www.indiana.edu/%7Eemusic/etext/acoustics/chapter1_amplitude.shtml
 [hewitt-music]: https://www.safaribooksonline.com/library/view/music-theory-for/30000LTI00240/30000LTI00240_ch01lev1sec4.html
 [jos-why-sinusoids]: https://ccrma.stanford.edu/~jos/mdft/Why_Sinusoids_Important.html
+[kalenzaga-shazam]: http://coding-geek.com/how-shazam-works/
 [music-and-computers]: http://cmc.music.columbia.edu/MusicAndComputers/
 [part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
 [parviainen-amplitude]: http://teropa.info/blog/2016/08/30/amplitude-and-loudness.html
+[professor-russell]: http://www.acs.psu.edu/drussell/
 [schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
-[cook-adruino-music]: https://www.safaribooksonline.com/library/view/arduino-music-and/9781484217214/9781484217207_Ch10.xhtml
-
 
 ### Notes
 [<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
@@ -107,6 +116,13 @@ Burk, Phil, et al. “Chapter 1: The Digital Representation of Sound, Part One: 
 > Dan Rockmore, Department of Mathematics, Dartmouth College<br/>
 
 [<a name="cook-adruino-music">X</a>] Cook, Mike, et al. [“CHAPTER 10 The Anatomy of a Sound.” Arduino Music and Audio Projects][cook-adruino-music], Apress, Springer Science Business Media, 2015.
+
+[<a name="russell-particle-motion">X</a>] Russell, Daniel. "Longitudinal Waves". Acoustics and Vibration Animations; Section: Longitudinal and Transverse Wave Motion. 26, August 1998. Animations Updated 5 August 2016. HTML Code Modified 18 March 2014. Accessed 20 October 2017.
+> **License**  <br/>
+> This work by [Dan Russell](http://www.acs.psu.edu/drussell/demos.html) is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Based on a work at http://www.acs.psu.edu/drussell/demos.html.
+
+[<a name="kalenzaga-shazam">X</a>] Kalenzaga, Christophe. [“How does Shazam work.”][kalenzaga-shazam] Blog post. Coding Geek: A blog about IT, programming and Java. 23 May 2015. Accessed 28 September 2017.
 
 [<a name="parviainen-amplitude">X</a>] Parviainen, Tero. ["Learn Web Audio from the Ground Up, Part 3: Controlling Amplitude and Loudness"][parviainen-amplitude] Blog. Tero Parviainen. 30 August 2016. Web. 12 December 2017.
 
