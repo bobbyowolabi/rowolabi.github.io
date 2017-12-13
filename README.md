@@ -53,6 +53,9 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    
    *[Online Video Citation Format:][2]*   
    `Last name, First|Company|username. “Title of the Video.” Title of the Website. Posted Dated. URL.`
+   
+   *Book:*  
+   `Last Name, First Name. "Chapter Title." Book Title, Publisher. Date Published.`
       
 ## License
 > **Content: Copyright &copy; 2017-Present Robert B. Owolabi.**
