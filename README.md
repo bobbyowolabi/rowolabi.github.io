@@ -2,7 +2,7 @@
 *The Intersection of Audio, Coding & Music*
 
 ## About
-This is my personal blog where I share about my exploration of "audio programming", software engineering and music.
+This is my personal blog where I share about my exploration of audio programming, software engineering and music.
 
 ## Site Generator
 This site is built with [jekyll][jekyll].
