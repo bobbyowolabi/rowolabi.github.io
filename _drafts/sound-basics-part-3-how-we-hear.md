@@ -78,6 +78,8 @@ http://cmc.music.columbia.edu/MusicAndComputers/
 http://www.silcom.com/~aludwig/EARS.htm
 http://www.silcom.com/~aludwig/Brain.htm
 https://ccrma.stanford.edu/~jos/sasp/Introduction_Overview.html
+http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/hearcon.html#c1
+http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/soucon.html
 
 
 ## References
