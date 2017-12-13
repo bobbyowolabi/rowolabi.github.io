@@ -42,23 +42,26 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 
 1. **Use Anchors to Provide Citations**
 
-   Provide citation of sources such as blog posts, videos, articles, etc.
+   Provide citation of sources such as blog posts, videos, articles, etc.      
    
-   *[Blog Post Citation Format:][1]* 
-   
-   `Last Name, First Name. Title Medium Type. Title of Blog. Publish Date. Web. Access Date. URL`
-   
-   *Inline:* `The author states that test driven development is the only approach that guarantees a comprehensive test suite [[id]](#id-citation)`
+   *Inline:* `The author states that test driven development is the only approach that guarantees a comprehensive test suite <sup>[[id]](#id-citation)</sup>`
    
    *End of File:* `[<a name="id-citation">id</a>] Doe, John. "Thoughts on Testings." Blog post. The Blog of John. 29 Sept. 2016. Web. 3 Apr. 2017. <http://theblogofjohhn.com/2016/09/thoughts-on-testing.html>.` 
    
+   *[Blog Post Citation Format:][1]*    
+   `Last Name, First Name. Title Medium Type. Title of Blog. Publish Date. Web. Access Date. URL`
+   
+   *[Online Video Citation Format:][2]*   
+   `Last name, First|Company|username. “Title of the Video.” Title of the Website. Posted Dated. URL.`
+      
 ## License
-> **Copyright &copy; 2017-Present Robert B. Owolabi.**
+> **Content: Copyright &copy; 2017-Present Robert B. Owolabi.**
 
-Code Released Under [MIT License](license.md).
+> **Code: Released Under [MIT License](license.md).**
 
 
 [1]: https://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-blog-mla/
+[2]: http://www.citationmachine.net/resources/cite-youtube-video
 [blog]: https://www.bobbyowolabi.com
 [dyutibarma]: https://github.com/dyutibarma
 [jekyll]: https://jekyllrb.com/
