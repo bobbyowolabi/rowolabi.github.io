@@ -35,7 +35,7 @@ It's like you are familiar with the following picture:
 
 
 Variations of the following image are often shown to represent sound:
-
+https://commons.wikimedia.org/wiki/File:Simple_sine_wave.svg
 
 We know that sound travels in a wave.  The air molecules move back and forth and collide with neighboring air molecules transferring the energy of the initial disrupution on to the ears of a listener.
 
