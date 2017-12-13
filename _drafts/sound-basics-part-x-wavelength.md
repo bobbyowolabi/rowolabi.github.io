@@ -6,6 +6,7 @@ published: false
 ---
 
 [nave-diffraction]: http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/diffrac.html#c1
+[nave-traveling-wave-relationship]: http://hyperphysics.phy-astr.gsu.edu/hbase/wavrel.html#c1
 
 
 ### References
