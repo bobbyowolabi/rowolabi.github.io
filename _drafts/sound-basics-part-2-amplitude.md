@@ -1,6 +1,6 @@
 ---
-title: Sound Basics Part 2 - What's the Deal With the Graph? (Amplitude)
-description: 
+title: Sound Basics Part 2 - Amplitude
+description: null
 comments: true
 published: true
 ---
@@ -17,7 +17,7 @@ This is a good foundation for us to build off of, but we usually do not speak of
 
 How does our molecular definition of sound relate to the basic questions above?  
 
-They are related by the physical properties of how the molecules move.
+**They are related by the physical properties of how the molecules move.**
 
 In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing from the physical aspects of sound.  As we move on to discuss the physical properties of sound, we will have to continue to maintain this mindset.  The properties of how the molecules move are:
 
@@ -30,13 +30,22 @@ The things we hear, such as loudness, pitches and timbre are:
 
 We will discuss both physical and psychophysical measurements.
 
-## What's the Deal With the Sine Graph?
-We know that sound travels in a wave 
+## What's the Deal With the Sound Wave Graph?
+Variations of the following image are often shown to represent sound:
 
-Let's revisit [Professor Dan Russell's][professor-russell] animation for a soundwave <sup>[[8]](#russell-particle-motion)</sup>:
+
+We know that sound travels in a wave.  The air molecules move back and forth and collide with neighboring air molecules transferring the energy of the initial disrupution on to the ears of a listener.
+
+[Professor Dan Russell's][professor-russell] animation is a good illustration of this <sup>[[X]](#russell-particle-motion)</sup>:
 
 <img src="http://www.acs.psu.edu/drussell/Demos/waves/Lwave-Red-2.gif" width="600" alt="animation showing particle motion for a longitudinal pressure wave highlighting the difference between particle motion and wave propagation.">
 
+Another good illustration of this would be a slinky <sup>[[X]](#russell-slinky)</sup>:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7qS6SyyrFU?start=16&end=21" frameborder="0" allowfullscreen></iframe>
+
+
+
+There are different kinds of waves.  There are two of particular distinction.
 
 
 
@@ -101,6 +110,7 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 [parviainen-amplitude]: http://teropa.info/blog/2016/08/30/amplitude-and-loudness.html
 [professor-russell]: http://www.acs.psu.edu/drussell/
 [schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
+[russell-slinky]: https://www.youtube.com/watch?v=y7qS6SyyrFU	
 
 ### Notes
 [<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
@@ -133,3 +143,6 @@ Based on a work at http://www.acs.psu.edu/drussell/demos.html.
 [<a name="hewitt-music">X</a>] Hewitt, Michael. [Music Theory for Computer Musicians][hewitt-music]. Boston, MA: Course Technology, CENGAGE Learning, 2008. Apr. 2008. Web. 12 Dec. 2017.
 
 [<a name="hass-amplitude">X</a>] Hass, Jeffrey. ["Amplitude."][hass-amplitude] Introduction to Computer Music: Volume One. 2013. Accessed 12 December 2017.
+
+[<a name="russell-slinky">X</a>] Russell, Daniel. [“Longitudinal Wave Propagation on a Slinky.”][russell-slinky] YouTube. 29 September 2012.
+
