@@ -105,6 +105,7 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 
 [cook-adruino-music]: https://www.safaribooksonline.com/library/view/arduino-music-and/9781484217214/9781484217207_Ch10.xhtml
 [hass-amplitude]: http://www.indiana.edu/%7Eemusic/etext/acoustics/chapter1_amplitude.shtml
+[hass-sound]: http://www.indiana.edu/%7Eemusic/etext/acoustics/chapter1_sound2.shtml
 [hewitt-music]: https://www.safaribooksonline.com/library/view/music-theory-for/30000LTI00240/30000LTI00240_ch01lev1sec4.html
 [jos-why-sinusoids]: https://ccrma.stanford.edu/~jos/mdft/Why_Sinusoids_Important.html
 [kalenzaga-shazam]: http://coding-geek.com/how-shazam-works/
@@ -114,9 +115,37 @@ We call the sound associated with a single sine wave a “pure tone”.  This wa
 [professor-russell]: http://www.acs.psu.edu/drussell/
 [schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
 [russell-slinky]: https://www.youtube.com/watch?v=y7qS6SyyrFU	
+[nave-transverse-waves]: http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/tralon.html#c1  
 
 ### Notes
 [<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
+
+
+We need a way of understanding how these amplitudes, which are a physical measurement (like frequency), correspond to our perception of loudness, which is a psychophysical
+[music-and-computers]
+
+frequency and amplitude are not independent; they both contribute to our perception of loudness.
+The relationship is described by something called the Fletcher-Munson curves
+[music-and-computers]
+
+amplitude and intensity are one component that contribute to loudness, in the next part of our series, we will introduce another physical property that contributes to sound.
+[music-and-computers]
+
+Physical Measurement			Psychoacoustic Measurement
+Amplitude*		-> Intensity**	Loudness***
+
+* How much something vibrates
+** How much the medium is displaced
+*** How loud we perceive it (affected by pitch and timbre)
+
+frequency*						Pitch**
+
+* How fast something vibrates
+** How high or low we perceive it
+[music-and-computers]
+
+Pitch and Frequency are not the same thing.
+[music-and-computers]
 
 ### References
 [<a name="music-and-computers">1</a>]
@@ -146,6 +175,8 @@ Based on a work at http://www.acs.psu.edu/drussell/demos.html.
 [<a name="hewitt-music">X</a>] Hewitt, Michael. [Music Theory for Computer Musicians][hewitt-music]. Boston, MA: Course Technology, CENGAGE Learning, 2008. Apr. 2008. Web. 12 Dec. 2017.
 
 [<a name="hass-amplitude">X</a>] Hass, Jeffrey. ["Amplitude."][hass-amplitude] Introduction to Computer Music: Volume One. 2013. Accessed 12 December 2017.
+
+[<a name="hass-sound">X</a>] Hass, Jeffrey. ["Chapter One: An Acoustics Primer 2. What is Sound?"][hass-sound] Introduction to Computer Music: Volume One. 2013. Accessed 13 December 2017.
 
 [<a name="russell-slinky">X</a>] Russell, Daniel. [“Longitudinal Wave Propagation on a Slinky.”][russell-slinky] YouTube. 29 September 2012.
 
