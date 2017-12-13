@@ -48,14 +48,17 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    
    *End of File:* `[<a name="id-citation">id</a>] Doe, John. "Thoughts on Testings." Blog post. The Blog of John. 29 Sept. 2016. Web. 3 Apr. 2017. <http://theblogofjohhn.com/2016/09/thoughts-on-testing.html>.` 
    
-   *[Blog Post Citation Format:][1]*    
+   *[Blog Post Citation Format:][blog-citation]*    
    `Last Name, First Name. Title Medium Type. Title of Blog. Publish Date. Web. Access Date. URL`
    
-   *[Online Video Citation Format:][2]*   
+   *[Online Video Citation Format:][video-citation]*   
    `Last name, First|Company|username. “Title of the Video.” Title of the Website. Posted Dated. URL.`
    
    *Book:*  
    `Last Name, First Name. "Chapter Title." Book Title, Publisher. Date Published.`
+   
+   *[Image:][image-citation]*    
+   `Last name, First. "Title|Description". Website Title, Publisher. Publication Date. URL.`
       
 ## License
 > **Content: Copyright &copy; 2017-Present Robert B. Owolabi.**
@@ -63,8 +66,9 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 > **Code: Released Under [MIT License](license.md).**
 
 
-[1]: https://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-blog-mla/
-[2]: http://www.citationmachine.net/resources/cite-youtube-video
+[blog-citation]: https://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-blog-mla/
+[video-citation]: http://www.citationmachine.net/resources/cite-youtube-video
+[image-citation]: http://www.citationmachine.net/resources/cite-image-found-google-images
 [blog]: https://www.bobbyowolabi.com
 [dyutibarma]: https://github.com/dyutibarma
 [jekyll]: https://jekyllrb.com/
