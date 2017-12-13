@@ -31,6 +31,9 @@ The things we hear, such as loudness, pitches and timbre are:
 We will discuss both physical and psychophysical measurements.
 
 ## What's the Deal With the Sound Wave Graph?
+It's like you are familiar with the following picture:
+
+
 Variations of the following image are often shown to represent sound:
 
 
@@ -146,3 +149,4 @@ Based on a work at http://www.acs.psu.edu/drussell/demos.html.
 
 [<a name="russell-slinky">X</a>] Russell, Daniel. [“Longitudinal Wave Propagation on a Slinky.”][russell-slinky] YouTube. 29 September 2012.
 
+[<a name="nave-transverse-waves">X</a>]  Nave, Carl R. "Transverse Waves." HyperPhysics. 9 November 2016. Accessed 13 December 2017.
