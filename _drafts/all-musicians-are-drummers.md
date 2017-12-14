@@ -2,7 +2,7 @@
 title: All Musicians are Drummers
 description: 
 comments: true
-published: true
+published: false
 ---
 
 Adam Neely had an interesting talk where he declared that rhythm and pitch are the same.
