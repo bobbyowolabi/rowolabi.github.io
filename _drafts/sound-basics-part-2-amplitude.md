@@ -51,47 +51,12 @@ Another good illustration of this would be a slinky <sup>[[X]](#russell-slinky)<
 There are different kinds of waves.  There are two of particular distinction.
 
 
-
+## Pure Tones
 What are pure tones?
 
 Pure tones don’t exist naturally but every sound in the world is the sum of a multple of pure tones at different amplitudes. [kalenzaga-shazam]
 
-## Amplitudes
-"In part 1, we established that sound is a disturbance of air molecules, or rather pressure.  A way to think about sound is as a sequence of time varying pressures" (music-and-computers)
-
-## How Do Amplitudes 
-
-## Amplitude vs Loudness
-
-
-## Frequency
-We often describe sounds as being high (Flute) or low (Tuba).  Does the pattern of varying amplitudes repeat?  If so, we are in the realm of frequency.  Frequency is how quickly does the pattern of varying pressures repeat?  (music-and-computers)
-
-## Sine Waves
-How can we describe the motion of a sound wave using precise language?  This is where math and the sine wave comes in.  For ease let’s look at the movement of an individual molecule.  When a molecule is not moving (at rest) it has an initial pressure of 0, also known as equilibrium [music-and-computers].  When it moves, it will go forward a certain distance, return back to equilibrium and go in the opposite direction a certain distance .  Essentially the traveled distance of the molecule is zero since the two movements cancel each other out.  This back and forth movement is called oscillation (Describe what an oscilloscope is).  
-
-A great illustration of this movement can be seen in the same Khan Academy video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-_xZZt99MzY?start=22&end=40" frameborder="0" allowfullscreen></iframe>
-
-If you measure the distance the molecule travels from equilibrium (forward being a positive value and backwards being a negative value) and plot it over time on a graph, you get the form of a sinewave.  The form of this graph is called the waveform [wiki-waveform].  It turns out the sine function serves as a good foundational model for technically and formally representing the movement of a soundwave.
-
-
-Let’s define the components of a sine wave:
-
-Cycle
-
-Frequency - the number of cycles per second.  It is measured in Hertz (Hz)
-
-Amplitude - The size of each cycle.  Remember the equilibrium we spoke of?  This is the distance of the wave from equilibrium. - related to loudness
-
-Wavelength
-
-Distance Traveled Through Medium/Period
-
-
-We’ll talk more about the ear later in our exploration, but it is these characteristics of a soundwave that our ears take as input to produce sound for us [kalenzaga-shazam].  Human ears can hear pure tones from 20 Hz to 20,000 Hz [kalenzaga-shazam].
-
-### Sine Waves in Practice
+### Sine Waves in Practice (Pure Tones)
 
 We know that the sine wave is useful for modeling the motion of a soundwave, but does a single sine wave map directly to a sound?  No, a single sine wave is not a sound that actually exists, but it an artificial one [kalenzaga-shazam][wiki-pure-tones].  
 
@@ -102,6 +67,19 @@ Here is an example of what sine waves sound like:
 
 
 We call the sound associated with a single sine wave a “pure tone”.  This wave consists on one frequency [wiki-pure-tones].  If the sound associated with a sine wave does not actually exist in practice, what is the sine wave important in modeling sound?  Every sound can be represented as the sum of many pure tones at different amplitudes [wiki-pure-tones].  This insight seems to be related to the Fourier theorem.  
+
+## Amplitudes
+"In part 1, we established that sound is a disturbance of air molecules, or rather pressure.  A way to think about sound is as a sequence of time varying pressures" (music-and-computers)
+
+Amplitude - The size of each cycle.  Remember the equilibrium we spoke of?  This is the distance of the wave from equilibrium. - related to loudness
+
+## Sine Waves
+How can we describe the motion of a sound wave using precise language?  This is where math and the sine wave comes in.  For ease let’s look at the movement of an individual molecule.  When a molecule is not moving (at rest) it has an initial pressure of 0, also known as equilibrium [music-and-computers].  When it moves, it will go forward a certain distance, return back to equilibrium and go in the opposite direction a certain distance .  Essentially the traveled distance of the molecule is zero since the two movements cancel each other out.  This back and forth movement is called oscillation (Describe what an oscilloscope is).  
+
+A great illustration of this movement can be seen in the same Khan Academy video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_xZZt99MzY?start=22&end=40" frameborder="0" allowfullscreen></iframe>
+
+If you measure the distance the molecule travels from equilibrium (forward being a positive value and backwards being a negative value) and plot it over time on a graph, you get the form of a sinewave.  The form of this graph is called the waveform [wiki-waveform].  It turns out the sine function serves as a good foundational model for technically and formally representing the movement of a soundwave.
 
 [cook-adruino-music]: https://www.safaribooksonline.com/library/view/arduino-music-and/9781484217214/9781484217207_Ch10.xhtml
 [hass-amplitude]: http://www.indiana.edu/%7Eemusic/etext/acoustics/chapter1_amplitude.shtml
@@ -142,9 +120,6 @@ frequency*						Pitch**
 
 * How fast something vibrates
 ** How high or low we perceive it
-[music-and-computers]
-
-Pitch and Frequency are not the same thing.
 [music-and-computers]
 
 ### References
