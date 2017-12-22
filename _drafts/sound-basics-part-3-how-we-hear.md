@@ -22,7 +22,7 @@ Back Cochlea peaking - low frequencies
 
 These peaks match up with and excite certain hair cells which send nerve impuleses to the brain via the auditory nerve. (music-and-computers)
 
-"Our ear has a drum that moves in sympathy with these waves, and a larget array of differently sized hairs converts those vibrations into verve impulses.  We can therefore perceive a sound" (#cook-arduino-music)
+"Basically, when we hear a sound, our ears are sensing a pressure wave. The air molecules are being alternately squeezed together and pulled apart, which results in a sequence of changing air pressures. Our ear has a drum that moves in sympathy with these waves, and a large array of differently sized hairs converts those vibrations into nerve impulses. We can therefore perceive a sound." (#cook-arduino-music)
 
 image from ((music-and-computers):
 http://cmc.music.columbia.edu/MusicAndComputers/images/chapter1/basilar.jpg
