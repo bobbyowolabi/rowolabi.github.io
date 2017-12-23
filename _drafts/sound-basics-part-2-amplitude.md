@@ -30,14 +30,13 @@ The things we hear, such as loudness, pitches and timbre are:
 
 We will discuss both physical and psychophysical measurements.
 
-## What's the Deal With the Sound Wave Graph?
-It's like you are familiar with the following picture:
+## From Air Molecules to Sine Waves
+It's likely you have seen a variation of the following image in reference to sound:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Simple_sine_wave.svg" width="560" height="315">
 
-Variations of the following image are often shown to represent sound:
-https://commons.wikimedia.org/wiki/File:Simple_sine_wave.svg
-
-We know that sound travels in a wave.  The air molecules move back and forth and collide with neighboring air molecules transferring the energy of the initial disrupution on to the ears of a listener.
+We know that sound travels in a wave.  The air molecules move back and forth and collide with neighboring air molecules transferring the energy of the initial isrupution on to the ears of a listener.
+But how does this common picture of sound relate to how sound actually moves?
 
 [Professor Dan Russell's][professor-russell] animation is a good illustration of this <sup>[[X]](#russell-particle-motion)</sup>:
 
@@ -94,6 +93,8 @@ If you measure the distance the molecule travels from equilibrium (forward being
 [schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
 [russell-slinky]: https://www.youtube.com/watch?v=y7qS6SyyrFU	
 [nave-transverse-waves]: http://hyperphysics.phy-astr.gsu.edu/hbase/Sound/tralon.html#c1  
+[omegatron]: https://commons.wikimedia.org/wiki/User:Omegatron
+[omegatron-sine-wave]: https://upload.wikimedia.org/wikipedia/commons/0/02/Simple_sine_wave.svg
 
 ### Notes
 [<a name="what-is-timbre">a</a>] Imagine a note is played on both a guitar and piano ... can you differeientate the instruments based on the sound even though the notes are the same?  Sure you can, that is because their timbre is different.  The timbre of the sound is its quality, the thing that makes it different from other sounds <sup>[[X]](#cook-adruino-music)</sup>.  
@@ -155,4 +156,6 @@ Based on a work at http://www.acs.psu.edu/drussell/demos.html.
 
 [<a name="russell-slinky">X</a>] Russell, Daniel. [“Longitudinal Wave Propagation on a Slinky.”][russell-slinky] YouTube. 29 September 2012.
 
-[<a name="nave-transverse-waves">X</a>]  Nave, Carl R. "Transverse Waves." HyperPhysics. 9 November 2016. Accessed 13 December 2017.
+[<a name="nave-transverse-waves">X</a>]  Nave, Carl R. ["Transverse Waves."][nave-transverse-waves] HyperPhysics. 9 November 2016. Accessed 13 December 2017.
+
+[<a name="omegatron-sine-wave">X</a>]  [Omegatron][omegatron]. ["File:Simple sine wave.svg."][omegatron-sine-wave] Wikimedia Commons, the free media repository. 12 Jan 2015. Accessed 22 Dec 2017. 
