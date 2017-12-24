@@ -1,10 +1,10 @@
 # Site settings
 title: Bobby Owolabi | The Intersection of Audio, Coding & Music
-description: "The Blog of Bobby Owolabi, Software Engineer"
+description: The Blog of Bobby Owolabi, Software Engineer, where he shares about his exploration of audio programming, software engineering and music.
 url: "https://www.bobbyowolabi.com"
 author:
   name: "Bobby Owolabi"
-  email: "bobbyowolabi@gmail.com"
+  email: "bobby@bobbyowolabi.com"
   url: "http://www.bobbyowolabi.com"
 encoding: UTF-8
 

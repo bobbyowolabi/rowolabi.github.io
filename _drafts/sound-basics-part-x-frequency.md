@@ -2,7 +2,7 @@
 title: Sound Basics Part X - Frequency
 description: null
 comments: true
-published: true
+published: false
 ---
 
 ## Frequency

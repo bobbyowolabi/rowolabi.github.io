@@ -2,7 +2,7 @@
 title: Sound Basics Part 2 - Amplitude
 description: null
 comments: true
-published: true
+published: false
 ---
 
 We now have an idea of [what is sound][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
