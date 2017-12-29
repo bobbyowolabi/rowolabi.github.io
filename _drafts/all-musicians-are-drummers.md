@@ -1,9 +1,17 @@
 ---
 title: All Musicians are Drummers
-description: 
+description: null
 comments: true
 published: false
 ---
+> You are really drummer a you know ...
+
+> You need to think like a drummer
+
+These are sentiments that I have learned from musicians
+
+7-5-3-2-1
+Juxtaposed with Elijah Balbed's lick on his tune a song for everything wrong.
 
 Adam Neely had an interesting talk where he declared that rhythm and pitch are the same.
 http://dantepfer.com/blog/?p=277
@@ -35,4 +43,4 @@ Adam Neely all pitch and rhythm are the same
 
 
 ### Notes
-[<a name="playing-by-ear">1</a>] Musicians are always listening and "using their ears", but this phrase refers to the techniq 
+[<a name="playing-by-ear">1</a>] Musicians are always listening and "using their ears", but this phrase refers to the techniq
