@@ -1,6 +1,8 @@
 # [bobbyowolabi.com][blog]
 *The Intersection of Audio, Coding & Music*
 
+<img width="192" height="210" src="https://www.bobbyowolabi.com/img/logo.png">
+
 ## About
 This is my personal blog where I share about my exploration of audio programming, software engineering and music.
 
