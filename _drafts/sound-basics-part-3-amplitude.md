@@ -1,11 +1,11 @@
 ---
-title: Sound Basics Part 2 - Amplitude
+title: Sound Basics Part 2 - Properties of Sound
 description: null
 comments: true
 published: false
 ---
 
-We now have an idea of [what is sound][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
+We now have an idea of [what sound is][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
 
 This is a good foundation for us to build off of, but we usually do not speak of sound like this.  We speak of sound in terms of:
 
@@ -13,11 +13,11 @@ This is a good foundation for us to build off of, but we usually do not speak of
 
 > What are the pitches in the melody I'm hearing?
 
-> What is its timbre <sup>[[X]](#what-is-timbre)</sup>?
+> What is its timbre <sup>[[a]](#what-is-timbre)</sup>?
 
 How does our molecular definition of sound relate to the basic questions above?  
 
-**They are related by the physical properties of how the molecules move.**
+> They are related by the physical properties of how the molecules move.
 
 In the first [part of our series][part-1-what-is-sound], we established the need to separate the notion of hearing from the physical aspects of sound.  As we move on to discuss the physical properties of sound, we will have to continue to maintain this mindset.  The properties of how the molecules move are:
 
@@ -26,14 +26,21 @@ In the first [part of our series][part-1-what-is-sound], we established the need
 The things we hear, such as loudness, pitches and timbre are:
 
 **psychophysical measurements** <sup>[[1]](#music-and-computers)</sup>
-<br/><sub>*measurements of our perception*</sub>
+<br/><sub>(*measurements of our perception*)</sub>
 
-We will discuss both physical and psychophysical measurements.
+We will discuss both physical and psychophysical measurements and distinguish between the two.
 
-## From Air Molecules to Sine Waves
+We will discuss things such as:
+
+## The Meaning of the "Graph"
 It's likely you have seen a variation of the following image in reference to sound:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Simple_sine_wave.svg" width="560" height="315">
+
+How do we go from colliding air molecules to a sine wave graph like the one above?  
+
+This graph describes a physical measurement does not describe the actual motion 
+
 
 We know that sound travels in a wave.  The air molecules move back and forth and collide with neighboring air molecules transferring the energy of the initial isrupution on to the ears of a listener.
 But how does this common picture of sound relate to how sound actually moves?
@@ -87,7 +94,7 @@ If you measure the distance the molecule travels from equilibrium (forward being
 [jos-why-sinusoids]: https://ccrma.stanford.edu/~jos/mdft/Why_Sinusoids_Important.html
 [kalenzaga-shazam]: http://coding-geek.com/how-shazam-works/
 [music-and-computers]: http://cmc.music.columbia.edu/MusicAndComputers/
-[part-1-what-is-sound]: {{ site.baseurl }}{% link _posts/2017-10-31-sound-basics-part-1-what-is-sound.md %}
+[part-1-what-is-sound]: {% post_url 2017-10-31-sound-basics-part-1-what-is-sound %}
 [parviainen-amplitude]: http://teropa.info/blog/2016/08/30/amplitude-and-loudness.html
 [professor-russell]: http://www.acs.psu.edu/drussell/
 [schaedler-sound]: https://jackschaedler.github.io/circles-sines-signals/sound.html
