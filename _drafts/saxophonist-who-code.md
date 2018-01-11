@@ -5,25 +5,30 @@ comments: true
 published: true
 ---
 
-The saxophone is my favorite instrument.  I love to hear players with [great tones][lefkowitz-brown-recordame]<sup>[[a]](#great-one)</sup>.  The piano is great as well.  I love it when people play [cool chords in succession][cool-chords].  But for me, it's the saxophone anyday.
+The saxophone is my favorite instrument.  I love to hear players with [great tones][lefkowitz-brown-recordame]<sup>[[a]](#great-tone)</sup>.  The piano is great as well.  I love it when people play [cool chords in succession][cool-chords].  But for me, it's the saxophone anyday.
 
 While I wrote about how [programming is not like playing music][programming-is-not-like-playing-music]; I do acknowledge that there is some substance to the sentiment that musicians make for good programmers.  Two months ago, I attended the [Audio Developer Conference (ADC)][adc].  I met some good people and listened to interesting talks.  Many of the attendees were active programmers and virtually everyone I spoke to had an active interest in music.  I met a freelance software engineer that played the trumpet and performed in a small jazz combo group ... An independent developer who humbly dabbles on the piano ... And yet another who led his own band.
 
 I though it would be interesting to explore some people who code and play music.  In this case, we'll be exploring those who play the best instrument ... the saxophone!
 
-Gary Paul Scavone
-http://www.music.mcgill.ca/~gary/
-http://www.music.mcgill.ca/~gary/performing.html
+### [[Matt Mullenweg]][matt-mullenweg]
+Matt Mullenweg is the CEO and founder of [Automattic][automattic], the company behind [wordpress.com](https://wordpress.com) and major contributor to the wordpress opensource project, which he started along with Mike Little.
 
-George Tzanetakis
-http://webhome.csc.uvic.ca/~gtzan/output/
+Mullenweg attended the High School for the Performing and Visual Arts (HSPVA) and studied the saxophone while there.  Fellow notable allumni include Beyoncé Knowles & Robert Glasper amongst many others.
 
-Kevin Danenberg
-http://www.kevindanenberg.com/
+### [[Gary Paul Scavone]][gary-scavone]
+Gary Scavone is a professor at McGill University specializing in the "scientific research in musical acoustics".  He wrote the The Synthesis ToolKit in C++ (STK) along with Perry Cook, which has been integrated into various audio synthesis languages and tools <sup>[[X]](#stk-wiki)</sup>.  Along with his technical pursuits, [Scavone plays saxophone in various concert and chamber music settings][scavone-performing].
 
-Kyle Coughlin
+### [[George Tzanetakis]][george-tzanetakis]
 
-Matt Mullenweg
+
+### [[Kevin Danenberg]][kevin-danenberg]
+
+
+### [[Kyle Coughlin]][kyle-coughlin]
+
+
+
 
 ### [[Chad Fowler]][chad-fowler]
 Amongst many things, Fowler made his mark on the development through his involvement with the Ruby language.  He wanted to learn Ruby well and ended up writing a book.  He went on to form a big Ruby conference.  He wrote a book on how to have a remarkable career as a software engineer.
@@ -50,12 +55,23 @@ Maybe he is on to something ...
 [programming-is-not-like-playing-music]: {% post_url 2017-11-06-programming-is-not-like-playing-music %}
 [martin-fowler]: foo
 [susan-fowler]: foo
+[gary-scavone]: http://www.music.mcgill.ca/~gary/
+[kevin-danenberg]: http://www.kevindanenberg.com/
+[george-tzanetakis]: http://webhome.csc.uvic.ca/~gtzan/output/
+[kyle-coughlin]: http://www.kylecoughlin.com/
+[matt-mullenweg]: http://ma.tt
+[stk-wiki]: https://en.wikipedia.org/wiki/Synthesis_Toolkit
+[scavone-performing]: http://www.music.mcgill.ca/~gary/performing.html
+[automattic]: https://automattic.com
+
 
 
 ### Notes
 [<a name="great-tone">a</a>] I've really been enjoying listening to the videos of [Chad Lefkowitz-Brown][lefkowitz-brown].  His tone is beautiful and his musical vocabulary is very tasteful.
 
-[<a name="no-fowler-relation">b</a>] No relation, I believe, to other notable Fowlers in the community: [Martin Fowler][martin-fowler] & [Susan Fowler][susan-fowler]. 
+[<a name="no-fowler-relation">b</a>] Other notable Fowlers in the community include [Martin Fowler][martin-fowler] & [Susan Fowler][susan-fowler]. 
 
 ### Reference
 [<a name="the-passionate-programmer">X</a>] Introduction from The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
+
+[<a name="stk-wiki">X</a>] Wikipedia contributors. "Synthesis Toolkit." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 4 Dec. 2017. Web. 11 Jan. 2018.
