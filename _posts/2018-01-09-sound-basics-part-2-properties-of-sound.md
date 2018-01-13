@@ -3,6 +3,7 @@ title: Sound Basics Part 2 - Properties of Sound
 description: In part 2 of an ongoing series exploring sound, we move on from exploring the question "What is Sound" to lay the foundation for a further exploration into the physical properites of sound.  We pose questions such as, "what is ampltidue and frequency and how are they related to our perception of loudness?"  Stay tuned for answers in upcoming posts.
 comments: true
 published: true
+categories: sound-basics
 ---
 
 We now have an idea of [what sound is][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
