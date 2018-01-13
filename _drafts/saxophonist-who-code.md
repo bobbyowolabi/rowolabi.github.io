@@ -64,7 +64,8 @@ Maybe he is on to something ...
 [scavone-performing]: http://www.music.mcgill.ca/~gary/performing.html
 [automattic]: https://automattic.com
 
-
+## Cool Piano Chords - https://www.youtube.com/watch?v=l4oHRyHmkc8
+## Cool Piano Chords - https://www.youtube.com/watch?v=L_XJ_s5IsQc @ 4:18
 
 ### Notes
 [<a name="great-tone">a</a>] I've really been enjoying listening to the videos of [Chad Lefkowitz-Brown][lefkowitz-brown].  His tone is beautiful and his musical vocabulary is very tasteful.
