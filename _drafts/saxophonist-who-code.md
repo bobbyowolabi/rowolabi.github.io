@@ -31,6 +31,7 @@ Gary Scavone is a professor at McGill University specializing in the "scientific
 
 ### [[Kyle Coughlin]][kyle-coughlin]
 
+
 ### [[Nick Caldwell]][nick-caldwell]
 
 
@@ -52,13 +53,12 @@ Maybe he is on to something ...
 
 
 [adc]: https://juce.com/adc-2017
-[chad-fowler]: foo
-[cool-chords]: foo
+[chad-fowler]: http://chadfowler.com
 [lefkowitz-brown-recordame]: https://www.youtube.com/watch?v=dIhCMLBbwqs
 [lefkowitz-brown]: http://www.chadlefkowitz-brown.com/
 [programming-is-not-like-playing-music]: {% post_url 2017-11-06-programming-is-not-like-playing-music %}
-[martin-fowler]: foo
-[susan-fowler]: foo
+[martin-fowler]: https://martinfowler.com
+[susan-fowler]: https://www.susanjfowler.com
 [gary-scavone]: http://www.music.mcgill.ca/~gary/
 [kevin-danenberg]: http://www.kevindanenberg.com/
 [george-tzanetakis]: http://webhome.csc.uvic.ca/~gtzan/output/
@@ -73,10 +73,6 @@ Maybe he is on to something ...
 [nick-caldwell]: https://medium.com/@nickcaldwell
 [caldwell-hello-world]: https://blog.devcolor.org/career-journey-part-1-3bdddf1f87a
 [wordpress-wiki]: https://en.wikipedia.org/wiki/WordPress
-
-
-## Cool Piano Chords - https://www.youtube.com/watch?v=l4oHRyHmkc8
-## Cool Piano Chords - https://www.youtube.com/watch?v=L_XJ_s5IsQc?start=262&end=298
 
 
 ### Notes
