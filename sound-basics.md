@@ -2,6 +2,7 @@
 layout: series
 title: Sound Basics
 description: A series of writings providing a gentle introduction into the physics of sound and how it is represented and manipulated in the digital realm.
+comments: true
 ---
 
 ## Sound Basics

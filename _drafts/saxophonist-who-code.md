@@ -5,14 +5,18 @@ comments: true
 published: true
 ---
 
-The saxophone is my favorite instrument.  I love to hear players with [great tones][lefkowitz-brown-recordame]<sup>[[a]](#great-tone)</sup>.  The piano is great as well.  I love it when people play [cool chords in succession][cool-chords].  But for me, it's the saxophone anyday.
+The saxophone is my favorite instrument.  I love to hear players with [great tones][lefkowitz-brown-recordame]<sup>[[a]](#great-tone)</sup>.  The piano is great as well.  I love it when people play cool chords in succession:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_XJ_s5IsQc?start=262&end=299" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br/>
+
+But for me, it's the saxophone anyday.
 
 While I wrote about how [programming is not like playing music][programming-is-not-like-playing-music]; I do acknowledge that there is some substance to the sentiment that musicians make for good programmers.  Two months ago, I attended the [Audio Developer Conference (ADC)][adc].  I met some good people and listened to interesting talks.  Many of the attendees were active programmers and virtually everyone I spoke to had an active interest in music.  I met a freelance software engineer that played the trumpet and performed in a small jazz combo group ... An independent developer who humbly dabbles on the piano ... And yet another who led his own band.
 
 I though it would be interesting to explore some people who code and play music.  In this case, we'll be exploring those who play the best instrument ... the saxophone!
 
 ### [[Matt Mullenweg]][matt-mullenweg]
-Matt Mullenweg is the CEO and founder of [Automattic][automattic], the company behind [wordpress.com](https://wordpress.com) and major contributor to the wordpress opensource project, which he started along with Mike Little.
+Matt Mullenweg is the CEO and founder of [Automattic][automattic], the company behind [wordpress.com][wordpress-commercial] and a major contributor to the wordpress opensource project, which he started along with Mike Little <sup>[[X]](#wordpress-wiki)</sup>.
 
 Mullenweg attended the High School for the Performing and Visual Arts (HSPVA) and studied the saxophone while there.  Fellow notable allumni include Beyoncé Knowles & Robert Glasper amongst many others.
 
@@ -27,7 +31,7 @@ Gary Scavone is a professor at McGill University specializing in the "scientific
 
 ### [[Kyle Coughlin]][kyle-coughlin]
 
-
+### [[Nick Caldwell]][nick-caldwell]
 
 
 ### [[Chad Fowler]][chad-fowler]
@@ -63,9 +67,17 @@ Maybe he is on to something ...
 [stk-wiki]: https://en.wikipedia.org/wiki/Synthesis_Toolkit
 [scavone-performing]: http://www.music.mcgill.ca/~gary/performing.html
 [automattic]: https://automattic.com
+[wordpress-open-source]: https://wordpress.org
+[wordpress-commercial]: https://wordpress.com
+[cory-henry-lingus]: https://www.youtube.com/watch?v=L_XJ_s5IsQc?start=262&end=298
+[nick-caldwell]: https://medium.com/@nickcaldwell
+[caldwell-hello-world]: https://blog.devcolor.org/career-journey-part-1-3bdddf1f87a
+[wordpress-wiki]: https://en.wikipedia.org/wiki/WordPress
+
 
 ## Cool Piano Chords - https://www.youtube.com/watch?v=l4oHRyHmkc8
-## Cool Piano Chords - https://www.youtube.com/watch?v=L_XJ_s5IsQc @ 4:18
+## Cool Piano Chords - https://www.youtube.com/watch?v=L_XJ_s5IsQc?start=262&end=298
+
 
 ### Notes
 [<a name="great-tone">a</a>] I've really been enjoying listening to the videos of [Chad Lefkowitz-Brown][lefkowitz-brown].  His tone is beautiful and his musical vocabulary is very tasteful.
@@ -76,3 +88,7 @@ Maybe he is on to something ...
 [<a name="the-passionate-programmer">X</a>] Introduction from The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
 
 [<a name="stk-wiki">X</a>] Wikipedia contributors. "Synthesis Toolkit." Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 4 Dec. 2017. Web. 11 Jan. 2018.
+
+[<a name="caldwell-hello-world">X</a>] Caldwell, Nick. "From [“Hello World” to VP Eng: My Career Journey, Part 1"][caldwell-hello-world] Blog. The Compiler. 10 April 2017. Web. 14 January 2018.
+
+[<a name="wordpress-wiki">X</a>] Wikipedia contributors. ["WordPress."][wordpress-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 13 Jan. 2018. Web. 14 Jan. 2018.
