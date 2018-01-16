@@ -18,19 +18,18 @@ I though it would be interesting to explore some people who code and play music.
 ### [[Matt Mullenweg]][matt-mullenweg]
 Matt Mullenweg is the CEO and founder of [Automattic][automattic], the company behind [wordpress.com][wordpress-commercial] and a major contributor to the wordpress opensource project, which he started along with Mike Little <sup>[[X]](#wordpress-wiki)</sup>.
 
-Mullenweg attended the High School for the Performing and Visual Arts (HSPVA) and studied the saxophone while there.  Fellow notable allumni include Beyoncé Knowles & Robert Glasper amongst many others.
+Mullenweg attended the High School for the Performing and Visual Arts (HSPVA) and studied the saxophone while there.  Fellow notable alumni include Beyoncé Knowles & Robert Glasper amongst many others.
 
 ### [[Gary Paul Scavone]][gary-scavone]
 Gary Scavone is a professor at McGill University specializing in the "scientific research in musical acoustics".  He wrote the The Synthesis ToolKit in C++ (STK) along with Perry Cook, which has been integrated into various audio synthesis languages and tools <sup>[[X]](#stk-wiki)</sup>.  Along with his technical pursuits, [Scavone plays saxophone in various concert and chamber music settings][scavone-performing].
 
 ### [[George Tzanetakis]][george-tzanetakis]
-
-
-### [[Kevin Danenberg]][kevin-danenberg]
-
+George Tzanetakis is professor at the University of Victoria with cross appointments in the computer science, electrical engineering and music departments.  Much of research deals with audio signals with an empasis on music.  [Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk][tzanetakis-music].
 
 ### [[Kyle Coughlin]][kyle-coughlin]
+Jackie Mclean said that jazz is America's classical music and I agree with him<sup>[[X]](#mclean-american-classical-music)</sup>.  The interesting thing is that Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD classical clarinet performance but has released two [jazz recordings][coughlin-recordings].  Coughlin is a professor at Howard Community College.
 
+In addition to being deeply rooted in music, Coughlin is a self-taught programmer and has created various [websites and tools][coughlin-websites].
 
 ### [[Nick Caldwell]][nick-caldwell]
 
@@ -60,7 +59,6 @@ Maybe he is on to something ...
 [martin-fowler]: https://martinfowler.com
 [susan-fowler]: https://www.susanjfowler.com
 [gary-scavone]: http://www.music.mcgill.ca/~gary/
-[kevin-danenberg]: http://www.kevindanenberg.com/
 [george-tzanetakis]: http://webhome.csc.uvic.ca/~gtzan/output/
 [kyle-coughlin]: http://www.kylecoughlin.com/
 [matt-mullenweg]: http://ma.tt
@@ -73,12 +71,22 @@ Maybe he is on to something ...
 [nick-caldwell]: https://medium.com/@nickcaldwell
 [caldwell-hello-world]: https://blog.devcolor.org/career-journey-part-1-3bdddf1f87a
 [wordpress-wiki]: https://en.wikipedia.org/wiki/WordPress
+[tzanetakis-music]: http://webhome.csc.uvic.ca/~gtzan/output/music/ 
+[jackie-mclean-on-mars]: https://vimeo.com/12192828
+[coughlin-recordings]: http://www.kylecoughlin.com/recordings.html
+[coughlin-websites]: http://www.kylecoughlin.com/educational-and-music-websites.html
 
 
 ### Notes
 [<a name="great-tone">a</a>] I've really been enjoying listening to the videos of [Chad Lefkowitz-Brown][lefkowitz-brown].  His tone is beautiful and his musical vocabulary is very tasteful.
 
-[<a name="no-fowler-relation">b</a>] Other notable Fowlers in the community include [Martin Fowler][martin-fowler] & [Susan Fowler][susan-fowler]. 
+[<a name="no-fowler-relation">b</a>] Other notable Fowlers (of no relation) in the community include [Martin Fowler][martin-fowler] & [Susan Fowler][susan-fowler]. 
+
+[<a name="mclean-american-classical-music">c</a>] In a very interesting documentary, ["Jackie Mclean on Mars"][jackie-mclean-on-mars], Mclean expresses that jazz is an American classical music:
+
+> "The student in the university will avail himself to many other facets of music that I didn't even consider when I was playing.  For instance, playing different instruments, learning how to read in a manner that would enable him to play in a classical situation, western classical situation and a Afro American classical situation.  And we have to get into these terms now; you notice, I'm using these terms because these were the terms that were thrown at me when I arrived on the academic scene.  Legitmate music ... serious music ... making an interference that music that wasn't western classical music wasn't serious or wasn't legimate.  So I have used that term what they call jazz, I call that a classical music.  It's an American classical music.<sup>[[X]](#jackie-mclean-on-mars)</sup>"
+
+A better word for jazz is American classical music.  Traditionally, its not an artform that has gotten the esteem that it deserves ... Traditionally, it has been more revered internationally than in the nation of its birth.  In the same spirit, Nicholas Payton wrote a famous piece campaigning for the term Black American Music (BAM).  John Coltrance expressed the same sentiment in an interview chronicled in "Coltrance on Coltrane."
 
 ### Reference
 [<a name="the-passionate-programmer">X</a>] Introduction from The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
@@ -88,3 +96,5 @@ Maybe he is on to something ...
 [<a name="caldwell-hello-world">X</a>] Caldwell, Nick. "From [“Hello World” to VP Eng: My Career Journey, Part 1"][caldwell-hello-world] Blog. The Compiler. 10 April 2017. Web. 14 January 2018.
 
 [<a name="wordpress-wiki">X</a>] Wikipedia contributors. ["WordPress."][wordpress-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 13 Jan. 2018. Web. 14 Jan. 2018.
+
+[<a name="jackie-mclean-on-mars">X</a>] [Jackie McLean on Mars][jackie-mclean-on-mars]. Directed by Kenneth Levis. Performance by Jackie Mclean. 1980. Vimeo. Segment 7:34 - 8:27.
