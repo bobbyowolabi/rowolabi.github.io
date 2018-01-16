@@ -75,6 +75,7 @@ Maybe he is on to something ...
 [jackie-mclean-on-mars]: https://vimeo.com/12192828
 [coughlin-recordings]: http://www.kylecoughlin.com/recordings.html
 [coughlin-websites]: http://www.kylecoughlin.com/educational-and-music-websites.html
+[bam]: https://nicholaspayton.wordpress.com/2013/02/28/bam-for-dummies/
 
 
 ### Notes
