@@ -6,6 +6,9 @@ published: false
 ---
 
 
+## What is Audio Data
+"Audio data is nothing more thatn a sequence of numbers that represent the amplitude of a sound wave at even time intervals" <sup>[[X]](#gouveia-david)</sup>
+
 ## Converting Sound to Digital
 
 ### Modeling / Describing Sound
@@ -100,6 +103,7 @@ http://www.silcom.com/~aludwig/Sound_demos.html
 
 
 ## References
+[<a name="gouveia-david">X</a>] Gouveia, David. "6. Low-level Audio". Getting Started with C++ Audio Programming for Game Development, Packt Publishing. 2013. 
 
 [wiki-vibration]
 
