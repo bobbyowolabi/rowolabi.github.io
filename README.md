@@ -62,7 +62,7 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    *[Image:][image-citation]*    
    `Last name, First. "Title|Description". Website Title, Publisher. Publication Date. URL.`
 
-   *[Documentary Found Online:][online-documentary-citation]*
+   *[Documentary Found Online:][online-documentary-citation]*  
    `Documentary Title. Directed by First Name Last Name. Performance by First Name Last Name, Production Company, Year Published. Title of Site, Database, or Service Movie Was Streamed. URL.`
       
 ## License
