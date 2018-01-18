@@ -31,6 +31,8 @@ Jackie Mclean said that jazz is America's classical music and I agree with him<s
 
 In addition to being deeply rooted in music, Coughlin is a self-taught programmer and has created various [websites and tools][coughlin-websites].
 
+Thinking back on it, I am pretty used I used Coughlin's staff creator for my research project back in undergrad.
+
 ### [[Nick Caldwell]][nick-caldwell]
 Nick Caldwell works in Silicon Valley as the Vice President of Engineering for Reddit.  He previously held a high level position as a General Manager at Microsoft <sup>[[X]](#caldwell-origins)</sup>.  Growing up, Caldwell had a variety of interests, including academics, video games, [BBSs][bbs-wiki], basketball ... and yes, the saxophone<sup>[[X]](#caldwell-origins)[[X]](#caldwell-career-journey)</sup>.
 
@@ -109,7 +111,7 @@ A better word for jazz is American classical music.  Traditionally, its not an a
 
 [<a name="stk-wiki">5</a>] Wikipedia contributors. ["Synthesis Toolkit."][stk-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 4 Dec. 2017. Web. 11 Jan. 2018.
 
-[<a name="george-tzanetakis-site">6</a>] Tzanetakis, George. ["George Tzanetakis"][george-tzanetakis], University of Victoria. 07 November 2015. Accessed 18 January 2018.
+[<a name="george-tzanetakis-site">6</a>] Tzanetakis, George. ["George Tzanetakis"][george-tzanetakis-site], University of Victoria. 07 November 2015. Accessed 18 January 2018.
 
 [<a name="tzanetakis-cv">7</a>] Tzanetakis, George. ["Tzanetakis, George Curriculum Vitae"][tzanetakis-cv], University of Victoria. Spetember 2014. Accessed 18 January 2018.
 
