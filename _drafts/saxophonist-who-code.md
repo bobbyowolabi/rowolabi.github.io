@@ -24,10 +24,10 @@ Mullenweg attended the High School for the Performing and Visual Arts (HSPVA) an
 Gary Scavone is a professor at McGill University specializing in the scientific research in musical acoustics<sup>[[4]](#gary-scavone)</sup>.  He wrote the [The Synthesis ToolKit in C++ (STK)][stk] along with Perry Cook, which has been integrated into various audio synthesis languages and tools <sup>[[5]](#stk-wiki)</sup>.  Along with his technical pursuits, [Scavone plays saxophone in various concert and chamber music settings][scavone-performing].
 
 ### [[George Tzanetakis]][george-tzanetakis-site]
-George Tzanetakis is professor of computer scienve at the University of Victoria with cross appointments in the electrical engineering and music departments<sup>[[6]](#george-tzanetakis-site)</sup>.  Much of research deals with audio signals with an empasis on music.  [Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk][tzanetakis-music].
+George Tzanetakis is professor of computer scienve at the University of Victoria with cross appointments in the electrical engineering and music departments<sup>[[6]](#george-tzanetakis-site)</sup>.  Much of research deals with audio signals with an empasis on music<sup>[[7]](#tzanetakis-cv)</sup>.  Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk<sup>[[8]](#tzanetakis-music)</sup>.
 
 ### [[Kyle Coughlin]][kyle-coughlin]
-Jackie Mclean said that jazz is America's classical music and I agree with him<sup>[[X]](#mclean-american-classical-music)</sup>.  Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD classical clarinet performance but has released two [jazz recordings][coughlin-recordings].  Coughlin is a professor at Howard Community College.
+Jackie Mclean said that jazz is America's classical music and I agree with him<sup>[[c]](#mclean-american-classical-music)</sup>.  Considering this interesting dichotomy, Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD classical clarinet performance but has released two [jazz recordings][coughlin-recordings].  Coughlin is a professor at Howard Community College.
 
 In addition to being deeply rooted in music, Coughlin is a self-taught programmer and has created various [websites and tools][coughlin-websites].
 
@@ -114,6 +114,8 @@ A better word for jazz is American classical music.  Traditionally, its not an a
 [<a name="george-tzanetakis-site">6</a>] Tzanetakis, George. ["George Tzanetakis"][george-tzanetakis-site], University of Victoria. 07 November 2015. Accessed 18 January 2018.
 
 [<a name="tzanetakis-cv">7</a>] Tzanetakis, George. ["Tzanetakis, George Curriculum Vitae"][tzanetakis-cv], University of Victoria. Spetember 2014. Accessed 18 January 2018.
+
+[<a name="tzanetakis-music">8</a>] Tzanetakis, George. ["Music"][tzanetakis-music], University of Victoria. 07 November 2015. Accessed 19 January 2018.
 
 [<a name="the-passionate-programmer">X</a>] Introduction from The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
 
