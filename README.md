@@ -65,11 +65,11 @@ Efforts will be made to carefully cite sources in the posts of this blog.
    *[Documentary Found Online:][online-documentary-citation]*  
    `Documentary Title. Directed by First Name Last Name. Performance by First Name Last Name, Production Company, Year Published. Title of Site, Database, or Service Movie Was Streamed. URL.`
 
-   *[Online Interview:][online-interview]*
+   *[Online Interview:][online-interview]*   
    `Interviewee Last, First. “Interview Title.” Interview by First Last. Site Name. Date Month Year. Accessed Date Month Year. URL.`
 
-   *[Website w/ a Known Author:][known-author-website]*
-   Author's Last Name, First Name. Title of Website, Name of Organization Affiliated with the Website. Date of Copyright / Date Last Modified. Access Date. URL.
+   *[Website w/ a Known Author:][known-author-website]*  
+   `Author's Last Name, First Name. Title of Website, Name of Organization Affiliated with the Website. Date of Copyright / Date Last Modified. Access Date. URL.`
 
 ## License
 > **Content: Copyright &copy; 2017-Present Robert B. Owolabi.**
@@ -86,3 +86,4 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 [jekyll]: https://jekyllrb.com/
 [template]: https://github.com/dyutibarma/monochrome
 [online-interview]: http://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-interview-mla/
+[known-author-website]: http://columbiacollege-ca.libguides.com/mla/websites
