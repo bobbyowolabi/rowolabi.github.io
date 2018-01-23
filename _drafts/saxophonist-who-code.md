@@ -20,18 +20,20 @@ Matt Mullenweg is the CEO and founder of [Automattic][automattic], the company b
 
 Mullenweg attended the High School for the Performing and Visual Arts (HSPVA) and studied the saxophone while there<sup>[[2]](#mullenweg-jazz-quotes)</sup>.  [Fellow notable alumni][hspva-alumni] include Beyoncé Knowles & Robert Glasper amongst many others<sup>[[3]](#hspva-alumni)</sup>.
 
-### [[Gary Paul Scavone]][gary-scavone]
-Gary Scavone is a professor at McGill University specializing in the scientific research in musical acoustics<sup>[[4]](#gary-scavone)</sup>.  He wrote the [The Synthesis ToolKit in C++ (STK)][stk] along with Perry Cook, which has been integrated into various audio synthesis languages and tools <sup>[[5]](#stk-wiki)</sup>.  Along with his technical pursuits, [Scavone plays saxophone in various concert and chamber music settings][scavone-performing].
+### [[Gary Scavone]][gary-scavone]
+Gary Scavone is a professor at McGill University specializing in the scientific research of musical acoustics<sup>[[4]](#gary-scavone)</sup>.  He wrote the [The Synthesis ToolKit in C++ (STK)][stk] along with Perry Cook, which has been integrated into various audio synthesis languages and tools <sup>[[5]](#stk-wiki)</sup>.  Along with his technical pursuits, [Scavone plays saxophone in various concert and chamber music settings][scavone-performing].
 
 ### [[George Tzanetakis]][george-tzanetakis-site]
-George Tzanetakis is professor of computer scienve at the University of Victoria with cross appointments in the electrical engineering and music departments<sup>[[6]](#george-tzanetakis-site)</sup>.  Much of research deals with audio signals with an empasis on music<sup>[[7]](#tzanetakis-cv)</sup>.  Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk<sup>[[8]](#tzanetakis-music)</sup>.
+George Tzanetakis is professor of computer science at the University of Victoria with cross appointments in the electrical engineering and music departments<sup>[[6]](#george-tzanetakis-site)</sup>.  His research 
 
-### [[Kyle Coughlin]][kyle-coughlin]
-Jackie Mclean said that jazz is America's classical music and I agree with him<sup>[[c]](#mclean-american-classical-music)</sup>.  Considering this interesting dichotomy, Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD classical clarinet performance but has released two [jazz recordings][coughlin-recordings].  Coughlin is a professor at Howard Community College.
+> "... is inherently interdisciplinary and has the common unifying thread of using state-of-the-art signal processing, machine learning and visualization techniques to extract and analyze information from audio signals with specific emphasis on music."<sup>[[7]](#tzanetakis-cv)</sup>.  
 
-In addition to being deeply rooted in music, Coughlin is a self-taught programmer and has created various [websites and tools][coughlin-websites].
+	Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk<sup>[[8]](#tzanetakis-music)</sup>.
 
-Thinking back on it, I am pretty used I used Coughlin's staff creator for my research project back in undergrad.
+### [[Kyle Coughlin]][kyle-coughlin-site]
+Jackie Mclean said that jazz is America's classical music and I agree<sup>[[c]](#mclean-american-classical-music)</sup>.  Considering this interesting dichotomy, Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD in clarinet performance and has released two [jazz recordings][coughlin-recordings]<sup>[[9]](#kyle-coughlin-site)</sup>.  Coughlin is a professor at Howard Community College.
+
+In addition to being deeply rooted in music, Coughlin is a self-taught programmer and has created various [websites, tools and applications][coughlin-websites]<sup>[[d]](#experience-with-music-paper)</sup>.
 
 ### [[Nick Caldwell]][nick-caldwell]
 Nick Caldwell works in Silicon Valley as the Vice President of Engineering for Reddit.  He previously held a high level position as a General Manager at Microsoft <sup>[[X]](#caldwell-origins)</sup>.  Growing up, Caldwell had a variety of interests, including academics, video games, [BBSs][bbs-wiki], basketball ... and yes, the saxophone<sup>[[X]](#caldwell-origins)[[X]](#caldwell-career-journey)</sup>.
@@ -62,7 +64,7 @@ Maybe he is on to something ...
 [susan-fowler]: https://www.susanjfowler.com
 [gary-scavone]: http://www.music.mcgill.ca/~gary/
 [george-tzanetakis-site]: http://webhome.csc.uvic.ca/~gtzan/output/
-[kyle-coughlin]: http://www.kylecoughlin.com/
+[kyle-coughlin-site]: http://www.kylecoughlin.com/
 [matt-mullenweg]: http://ma.tt
 [stk-wiki]: https://en.wikipedia.org/wiki/Synthesis_Toolkit
 [scavone-performing]: http://www.music.mcgill.ca/~gary/performing.html
@@ -87,6 +89,8 @@ Maybe he is on to something ...
 [mullenweg-jazz-quotes]: https://ma.tt/2011/12/introducing-jazz-quotes-com/
 [tzanetakis-cv]: http://webhome.csc.uvic.ca/~gtzan/output/gtzanCV.pdf
 [stk]: https://ccrma.stanford.edu/software/stk/
+[music-paper]: http://www.music-paper.com
+[undergrad-paper]: /composing-music-on-paper-and-computers 
 
 
 ### Notes
@@ -99,6 +103,8 @@ Maybe he is on to something ...
 > "The student in the university will avail himself to many other facets of music that I didn't even consider when I was playing.  For instance, playing different instruments, learning how to read in a manner that would enable him to play in a classical situation, western classical situation and a Afro American classical situation.  And we have to get into these terms now; you notice, I'm using these terms because these were the terms that were thrown at me when I arrived on the academic scene.  Legitmate music ... serious music ... making an interference that music that wasn't western classical music wasn't serious or wasn't legimate.  So I have used that term what they call jazz, I call that a classical music.  It's an American classical music.<sup>[[X]](#jackie-mclean-on-mars)</sup>"
 
 A better word for jazz is American classical music.  Traditionally, its not an artform that has gotten the esteem that it deserves ... Traditionally, it has been more revered internationally than in the nation of its birth.  In the same spirit, Nicholas Payton wrote a famous piece campaigning for the term Black American Music (BAM).  John Coltrance expressed the same sentiment in an interview chronicled in "Coltrance on Coltrane."
+
+[<a name="experience-with-music-paper">d</a>] Thinking back on it, I am pretty sure I used Coughlin's [Music-Paper.com][music-paper] site for [my final undergraduate research project][undergrad-paper], long before I knew who he was.
 
 ### Reference
 [<a name="wordpress-wiki">1</a>] Wikipedia contributors. ["WordPress."][wordpress-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 13 Jan. 2018. Web. 14 Jan. 2018.
@@ -116,6 +122,8 @@ A better word for jazz is American classical music.  Traditionally, its not an a
 [<a name="tzanetakis-cv">7</a>] Tzanetakis, George. ["Tzanetakis, George Curriculum Vitae"][tzanetakis-cv], University of Victoria. Spetember 2014. Accessed 18 January 2018.
 
 [<a name="tzanetakis-music">8</a>] Tzanetakis, George. ["Music"][tzanetakis-music], University of Victoria. 07 November 2015. Accessed 19 January 2018.
+
+[<a name="kyle-coughlin-site">9</a>] Coughlin, Kyle. ["Kyle Coughlin - Musician, Composer, Author, Educator"][kyle-coughlin-site]. Copyright 2008-2015. Accessed 21 January 2018.
 
 [<a name="the-passionate-programmer">X</a>] Introduction from The Passionate Programmer: Creating a Remarkable Career in Software Development by Chad Fowler
 
