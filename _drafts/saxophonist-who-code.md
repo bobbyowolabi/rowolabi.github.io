@@ -28,7 +28,7 @@ George Tzanetakis is professor of computer science at the University of Victoria
 
 > "... is inherently interdisciplinary and has the common unifying thread of using state-of-the-art signal processing, machine learning and visualization techniques to extract and analyze information from audio signals with specific emphasis on music."<sup>[[7]](#tzanetakis-cv)</sup>.  
 
-	Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk<sup>[[8]](#tzanetakis-music)</sup>.
+Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk<sup>[[8]](#tzanetakis-music)</sup>.
 
 ### [[Kyle Coughlin]][kyle-coughlin-site]
 Jackie Mclean said that jazz is America's classical music and I agree<sup>[[c]](#mclean-american-classical-music)</sup>.  Considering this interesting dichotomy, Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD in clarinet performance and has released two [jazz recordings][coughlin-recordings]<sup>[[9]](#kyle-coughlin-site)</sup>.  Coughlin is a professor at Howard Community College.
@@ -100,7 +100,7 @@ Maybe he is on to something ...
 
 [<a name="mclean-american-classical-music">c</a>] In a very interesting documentary, ["Jackie Mclean on Mars"][jackie-mclean-on-mars], Mclean expresses that jazz is an American classical music:
 
-> "The student in the university will avail himself to many other facets of music that I didn't even consider when I was playing.  For instance, playing different instruments, learning how to read in a manner that would enable him to play in a classical situation, western classical situation and a Afro American classical situation.  And we have to get into these terms now; you notice, I'm using these terms because these were the terms that were thrown at me when I arrived on the academic scene.  Legitmate music ... serious music ... making an interference that music that wasn't western classical music wasn't serious or wasn't legimate.  So I have used that term what they call jazz, I call that a classical music.  It's an American classical music.<sup>[[X]](#jackie-mclean-on-mars)</sup>"
+> "The student in the university will avail himself to many other facets of music that I didn't even consider when I was playing.  For instance, playing different instruments, learning how to read in a manner that would enable him to play in a classical situation, western classical situation and a Afro American classical situation.  And we have to get into these terms now; you notice, I'm using these terms because these were the terms that were thrown at me when I arrived on the academic scene.  Legitmate music ... serious music ... making an inference that music that wasn't western classical music wasn't serious or wasn't legimate.  So I have used that term what they call jazz, I call that a classical music.  It's an American classical music.<sup>[[X]](#jackie-mclean-on-mars)</sup>"
 
 A better word for jazz is American classical music.  Traditionally, its not an artform that has gotten the esteem that it deserves ... Traditionally, it has been more revered internationally than in the nation of its birth.  In the same spirit, Nicholas Payton wrote a famous piece campaigning for the term Black American Music (BAM).  John Coltrance expressed the same sentiment in an interview chronicled in "Coltrance on Coltrane."
 
