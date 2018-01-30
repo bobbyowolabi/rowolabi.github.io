@@ -70,6 +70,9 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 
    *[Website w/ a Known Author:][known-author-website]*  
    `Author's Last Name, First Name. Title of Website, Name of Organization Affiliated with the Website. Date of Copyright / Date Last Modified. Access Date. URL.`
+   
+   *[Online Magazine Article:][online-magazine-article]*     
+   `Last, First M. "Article Title." Magazine Title. Date Month Year Published. Website Title Web. Date Month Year Accessed.`
 
 ## License
 > **Content: Copyright &copy; 2017-Present Robert B. Owolabi.**
@@ -87,3 +90,4 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 [template]: https://github.com/dyutibarma/monochrome
 [online-interview]: http://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-interview-mla/
 [known-author-website]: http://columbiacollege-ca.libguides.com/mla/websites
+[online-magazine-article]: http://www.easybib.com/reference/guide/mla/magazine
