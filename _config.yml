@@ -12,6 +12,7 @@ encoding: UTF-8
 social:
   github: "https://github.com/rowolabi"
   twitter: "https://twitter.com/bobbyowolabi"
+  linkedin: "https://www.linkedin.com/in/bobbyowolabi"
 
 # Build settings
 baseurl: /  # Change this to your relative path (ex: /blog/), or leave just a /

@@ -26,12 +26,12 @@ Gary Scavone is a professor at McGill University specializing in the scientific 
 ### [[George Tzanetakis]][george-tzanetakis-site]
 George Tzanetakis is professor of computer science at the University of Victoria with cross appointments in the electrical engineering and music departments<sup>[[6]](#george-tzanetakis-site)</sup>.  His research 
 
-> "... is inherently interdisciplinary and has the common unifying thread of using state-of-the-art signal processing, machine learning and visualization techniques to extract and analyze information from audio signals with specific emphasis on music."<sup>[[7]](#tzanetakis-cv)</sup>.  
+> "... is inherently interdisciplinary and has the common unifying thread of using state-of-the-art signal processing, machine learning and visualization techniques to extract and analyze information from audio signals with specific emphasis on music."<sup> [[7]](#tzanetakis-cv)</sup> 
 
 Tzanetakis plays the saxophone and has studied and performed in a variety settings including classical, jazz, experimental, and folk<sup>[[8]](#tzanetakis-music)</sup>.
 
 ### [[Kyle Coughlin]][kyle-coughlin-site]
-Jackie Mclean said that jazz is America's classical music and I agree<sup>[[c]](#mclean-american-classical-music)</sup>.  Considering this interesting dichotomy, Dr. Kyle Coughlin is formidable in both classical and jazz music.  He received his PhD in clarinet performance and has released two [jazz recordings][coughlin-recordings]<sup>[[9]](#kyle-coughlin-site)</sup>.  Coughlin is a professor at Howard Community College.
+Jackie Mclean said that jazz is America's classical music and I agree<sup>[[c]](#mclean-american-classical-music)</sup>.  Considering this interesting dichotomy, Dr. Kyle Coughlin is formidable in both traditional western classical and jazz music.  He received his PhD in clarinet performance and has released two [jazz recordings][coughlin-recordings]<sup>[[9]](#kyle-coughlin-site)</sup>.  Coughlin is a professor at Howard Community College.
 
 In addition to being deeply rooted in music, Coughlin is a self-taught programmer and has created various [websites, tools and applications][coughlin-websites]<sup>[[d]](#experience-with-music-paper)</sup>.
 
