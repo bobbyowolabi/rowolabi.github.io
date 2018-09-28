@@ -91,3 +91,4 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 [online-interview]: http://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-interview-mla/
 [known-author-website]: http://columbiacollege-ca.libguides.com/mla/websites
 [online-magazine-article]: http://www.easybib.com/reference/guide/mla/magazine
+[daattali]: https://github.com/daattali
