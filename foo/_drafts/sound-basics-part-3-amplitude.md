@@ -2,7 +2,7 @@
 title: Sound Basics Part 3 - Amplitude
 description: null
 comments: true
-
+published: false
 categories: sound-basics
 ---
 

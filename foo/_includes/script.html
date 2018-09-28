@@ -1,0 +1,5 @@
+<script src="{{ "/js/main.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
+
+{% if jekyll.environment == "production" %}
+   <script src="{{ "/js/analytics.js" | prepend: site.baseurl | replace: '//', '/' }}"></script>
+{% endif %}

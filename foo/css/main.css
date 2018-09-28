@@ -772,3 +772,9 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+/* Series Overview Pages */
+
+#series-page {
+  text-align: center;
+}

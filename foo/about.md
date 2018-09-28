@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 description: This page provides information about the author and the purpose of this blog.
 ---
 <img src="img/self-portrait.jpg" alt="Author's Portrait" height="192px" width="192px" align="right">
 
-Hello, my name is Bobby Owolabi.  I’m a software engineer experienced in dataflow, data modeling and backend Java development.  
+Hello, my name is Bobby Owolabi.  I’m a software engineer experienced in backend development.    
 
-This is where I share my musings on software development drawing from inspirations of art.
-
+This is where I share my musings on software development.  I enjoy and aspire to create beautiful code and I draw **inspiration** from **artful** things such as beautiful music.
