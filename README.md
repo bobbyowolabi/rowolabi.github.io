@@ -1,26 +1,27 @@
 # [bobbyowolabi.com][blog]
-*The Intersection of Audio, Coding & Music*
+*Artistic Inspiration*
 
 <img width="192" height="210" src="https://www.bobbyowolabi.com/img/logo.png">
 
 ## About
-This is my personal blog where I share about my exploration of audio programming, software engineering and music.
+This is my personal blog where I share about my exploration of sotfware engineering drawing from inspirations of art.
 
 ## Site Generator
 This site is built with [jekyll][jekyll].
 
 ### Plugins
 * jekyll-paginate
-* jekyll-sitemap
 
 ## Template
-I created this site based off of the [Monochrome][template] template created by [@dyutibarma][dyutibarma].
+I created this site based off of the [Beautiful Jekyll][template] template created by [@daattali][daattali].
 
 ## Dependencies
 * Font Awesome
 * Chart.js
 * Google Analytics
 * Disqus
+* Bootstrap.js
+* JQuery
 
 ## Citation Methodology
 Efforts will be made to carefully cite sources in the posts of this blog.
@@ -85,9 +86,9 @@ Efforts will be made to carefully cite sources in the posts of this blog.
 [image-citation]: http://www.citationmachine.net/resources/cite-image-found-google-images
 [online-documentary-citation]: http://www.easybib.com/guides/how-to-cite-a-documentary-found-online/
 [blog]: https://www.bobbyowolabi.com
-[dyutibarma]: https://github.com/dyutibarma
 [jekyll]: https://jekyllrb.com/
-[template]: https://github.com/dyutibarma/monochrome
+[template]:https://github.com/daattali/beautiful-jekyll
 [online-interview]: http://www.easybib.com/guides/citation-guides/mla-format/how-to-cite-a-interview-mla/
 [known-author-website]: http://columbiacollege-ca.libguides.com/mla/websites
 [online-magazine-article]: http://www.easybib.com/reference/guide/mla/magazine
+[daattali]: https://github.com/daattali
