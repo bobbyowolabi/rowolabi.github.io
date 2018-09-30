@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Composing Music on Paper and Computers
 description: Composing Music on Paper and Computers is the senior research paper written by Bobby Owolabi at the University of Maryland College Park.
 ---
