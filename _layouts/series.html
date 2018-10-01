@@ -8,6 +8,6 @@ layout: default
 		{{ content }}
 	</div>
     {% if jekyll.environment == "production" and page.comments %}
-       {% include comments.html %}
+       {% include disqus.html %}
     {% endif %}
 </article>
