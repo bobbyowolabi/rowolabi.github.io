@@ -1,5 +1,7 @@
 ---
 title: Saxophonists Who Code
+bigimg: /img/hcc-spring-2015-convocation-sax-square.jpg
+show-avatar: false
 description: 
 comments: true
 published: true
@@ -11,9 +13,9 @@ The saxophone is my favorite instrument.  I love to hear players with [great ton
 
 But for me, it's the saxophone anyday.
 
-While I wrote about how [programming is not like playing music][programming-is-not-like-playing-music]; I do acknowledge that there is some substance to the sentiment that musicians make for good programmers.  Last November, I attended the [Audio Developer Conference (ADC)][adc].  I met some good people and listened to interesting talks.  Many of the attendees were active programmers and virtually everyone I spoke to had an active interest in music.  I met a freelance software engineer that played the trumpet and performed in a small jazz combo group ... An independent developer who humbly dabbles on the piano ... And yet another who led his own band.
+While I wrote about how [programming is not like playing music][programming-is-not-like-playing-music]; I do acknowledge that there is some substance to the sentiment that musicians make for good programmers.  Last November 2017, I attended the [Audio Developer Conference (ADC)][adc].  I met some good people and listened to interesting talks.  Many of the attendees were active programmers and virtually everyone I spoke to had an active interest in music.  I met a freelance software engineer that played the trumpet and performed in a small jazz combo group ... An independent developer who humbly dabbles on the piano ... And yet another who led his own band.
 
-I thought it would be interesting to explore some people who code and play music.  In this case, we'll be exploring those who play (or played) the best instrument ... the saxophone!
+I thought it would be interesting to explore individuals who programmed and played music at some point in their lives.  In this case, we'll be exploring those who played the best instrument ... the saxophone!
 
 ### [[Matt Mullenweg]][matt-mullenweg]
 Matt Mullenweg is the CEO and founder of [Automattic][automattic], the company behind [wordpress.com][wordpress-commercial] and a major contributor to the wordpress opensource project, which he started along with Mike Little <sup>[[1]](#wordpress-wiki)</sup>.
@@ -39,7 +41,7 @@ In addition to being deeply rooted in music, Coughlin is a self-taught programme
 Nick Caldwell works in Silicon Valley as the Vice President of Engineering for Reddit.  He previously held a high level position as a General Manager at Microsoft <sup>[[11]](#caldwell-origins)</sup>.  Growing up, Caldwell had a variety of interests, including academics, video games, [BBSs][bbs-wiki], basketball ... and yes, the saxophone<sup>[[11]](#caldwell-origins)[[12]](#caldwell-career-journey)</sup>.
 
 ### [[Chad Fowler]][chad-fowler]
-Amongst many things, Fowler made his mark on the development community through his involvement with the Ruby language.  He wanted to learn Ruby well and ended up writing a book<sup>[[X]](place-holder)</sup>.  He went on to form a big Ruby conference.  He wrote a book on how to have a remarkable career as a software engineer.
+As an author, conference founder, software developer, amongst many things, Fowler has truly made his mark on the development community.
 
 What is notable about Fowler, is that he was formally trained as a musician, not a programmer.
 
@@ -49,8 +51,8 @@ Here are his words on the subject of being great (regardless of the field): In h
 >
 > But, though I’m unqualified to be a typical software developer, my background as a musician gave me one key insight that ultimately allowed me to skip the step of being a typical software developer (who wants to be typical, anyway?). Nobody becomes a musician be- cause they want to get a job and lead a stable and comfortable life. The music industry is too cruel an environment for this to be a feasible plan. People who become professional musicians all want to be great. At least when starting out, greatness is binary in the music world. A musician wants to either be great (and famous for it!) or not do it at all.
 
-And back to where we started, on the subject of why musicians make for good programmers<sup>[[13]](#the-passionate-programmer)</sup>:
-> I’m often asked why it is that there are so many good musicians who are also good software developers. That’s the reason. It’s not because the brain functions are the same or that they’re both detail-oriented or both require creativity. It’s because a person who wants to be great is far more likely to become great than someone who just wants to do their job. And even if we can’t all be Martin Fowler, Linus Torvalds, or the Pragmatic Programmers, setting a high target makes it likely that we’ll at least land somewhere far above average.
+And back to the subject of musicians making good programmers:
+> I’m often asked why it is that there are so many good musicians who are also good software developers. That’s the reason. It’s not because the brain functions are the same or that they’re both detail-oriented or both require creativity. It’s because a person who wants to be great is far more likely to become great than someone who just wants to do their job. And even if we can’t all be Martin Fowler, Linus Torvalds, or the Pragmatic Programmers, setting a high target makes it likely that we’ll at least land somewhere far above average.<sup>[[13]](#the-passionate-programmer)</sup>
 
 Maybe he is on to something ...
 
@@ -102,18 +104,18 @@ Maybe he is on to something ...
 
 > "The student in the university will avail himself to many other facets of music that I didn't even consider when I was playing.  For instance, playing different instruments, learning how to read in a manner that would enable him to play in a classical situation, western classical situation and a Afro American classical situation.  And we have to get into these terms now; you notice, I'm using these terms because these were the terms that were thrown at me when I arrived on the academic scene.  Legitmate music ... serious music ... making an inference that music that wasn't western classical music wasn't serious or wasn't legimate.  So I have used that term what they call jazz, I call that a classical music.  It's an American classical music.<sup>[[14]](#jackie-mclean-on-mars)</sup>"
 
-[<a name="experience-with-music-paper">d</a>] Thinking back on it, I am pretty sure I used Coughlin's [Music-Paper.com][music-paper] site for [my final undergraduate research project][undergrad-paper], long before I knew who he was.
+[<a name="experience-with-music-paper">d</a>] Thinking back on it, I am pretty sure I used Coughlin's [Music-Paper.com][music-paper] site for [my final undergraduate research project][undergrad-paper], long before I met him.
 
 ### Reference
-[<a name="wordpress-wiki">1</a>] Wikipedia contributors. ["WordPress."][wordpress-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 13 Jan. 2018. Web. 14 Jan. 2018.
+[<a name="wordpress-wiki">1</a>] Wikipedia contributors. ["WordPress."][wordpress-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 13 Jan. 2018. Accessed. 14 Jan. 2018.
 
-[<a name="mullenweg-jazz-quotes">2</a>] Mullenweg, Matt. ["Introducing Jazz-Quotes.com"][mullenweg-jazz-quotes] Blog. Unlucky in Cards. 31 Decemner 2011. Web. 18 January 2018.
+[<a name="mullenweg-jazz-quotes">2</a>] Mullenweg, Matt. ["Introducing Jazz-Quotes.com"][mullenweg-jazz-quotes] Blog. Unlucky in Cards. 31 Decemner 2011. Accessed. 18 January 2018.
 
-[<a name="hspva-alumni">3</a>] Wikipedia contributors. ["High School for the Performing and Visual Arts."][hspva-alumni] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 27 Dec. 2017. Web. 18 Jan. 2018.
+[<a name="hspva-alumni">3</a>] Wikipedia contributors. ["High School for the Performing and Visual Arts."][hspva-alumni] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 27 Dec. 2017. Accessed. 18 Jan. 2018.
 
 [<a name="gary-scavone-ref">4</a>] Scavone, Gary. ["Gary Scavone @ McGill"][gary-scavone], McGill University. 01 March 2017. Access Date. 18 January 2018.
 
-[<a name="stk-wiki">5</a>] Wikipedia contributors. ["Synthesis Toolkit."][stk-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 4 Dec. 2017. Web. 11 Jan. 2018.
+[<a name="stk-wiki">5</a>] Wikipedia contributors. ["Synthesis Toolkit."][stk-wiki] Wikipedia, The Free Encyclopedia. Wikipedia, The Free Encyclopedia, 4 Dec. 2017. Accessed. 11 Jan. 2018.
 
 [<a name="george-tzanetakis-site">6</a>] Tzanetakis, George. ["George Tzanetakis"][george-tzanetakis-site], University of Victoria. 07 November 2015. Accessed 18 January 2018.
 
@@ -123,7 +125,7 @@ Maybe he is on to something ...
 
 [<a name="kyle-coughlin-site">9</a>] Coughlin, Kyle. ["Kyle Coughlin - Musician, Composer, Author, Educator"][kyle-coughlin-site]. Copyright 2008-2015. Accessed 21 January 2018.
 
-[<a name="caldwell-hello-world">11</a>] Caldwell, Nick. "From [“Hello World” to VP Eng: My Career Journey, Part 1"][caldwell-hello-world] Blog. The Compiler. 10 April 2017. Web. 14 January 2018.
+[<a name="caldwell-hello-world">11</a>] Caldwell, Nick. "From [“Hello World” to VP Eng: My Career Journey, Part 1"][caldwell-hello-world] Blog. The Compiler. 10 April 2017. Accessed. 14 January 2018.
 
 [<a name="caldwell-origins">11</a>] Caldwell, Nick. [“Nick Caldwell, VP Engineering at Reddit.”][caldwell-origins] Interview by Unknown. Our Origins. 23 June 2017. Accessed 17 January 2018.
 
