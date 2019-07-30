@@ -1,7 +1,8 @@
 ---
+layout: post
 title: It Works But I Don't Know Why Part 1 - Address Your Mindset
 bigimg: /img/action-plan-brainstorming-complex-212286.jpg
-description: 
+description: null
 comments: true
 published: true
 categories: it-works-but-i-dont-know-why
@@ -19,6 +20,10 @@ Being in this zone can be unpleasant and can mess with your morale ... but it do
 (TODO: Talk about growth mindset)
 
 Have the mindset that I am going to grow no matter what.
+
+
+its important to separate how you feel about yourself and life from your performance.  you'll be up and down.
+
 
 ### Reference
 [<a name="growth-mindset-paper">1</a>] Mueller, Claudia M., and Carol S. Dweck. ["Praise for Intelligence Can Undermine Children's Motivation and Performance."][growth-mindset-paper] Journal of Personality and Social Psychology, vol. 75, no. 1, 1998, pp. 33–52., doi:10.1037//0022-3514.75.1.33.
