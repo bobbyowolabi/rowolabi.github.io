@@ -1,7 +1,8 @@
 ---
+layout: post
 title: It Works But I Don't Know Why Part 1 - Address Your Mindset
 bigimg: /img/action-plan-brainstorming-complex-212286.jpg
-description: 
+description: null
 comments: true
 published: true
 categories: it-works-but-i-dont-know-why
@@ -36,6 +37,7 @@ Be kind to yourself.  Sometimes a mental model may come easy to you.  Other time
 
 Being in this zone can be unpleasant and can mess with your morale ... but it doesn't have to.  The first thing you should do if you are getting down is to change your mindset.
 
+its important to separate how you feel about yourself and life from your performance.  you'll be up and down.
 
 
 ### Reference
