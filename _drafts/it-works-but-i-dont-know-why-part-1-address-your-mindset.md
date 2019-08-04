@@ -10,15 +10,33 @@ series-part: 1
 
 {% include it-works-but-i-dont-know-why-overview.md %}
 
+## Address Your Mindest
 
-### Address Your Mindest
-_(Growth Mindset)_
+How does it make you feel when you come across something you don't understand?  Are you curious?  Are you discouraged?  Are you energized?
 
-Being in this zone can be unpleasant and can mess with your morale ... but it doesn't have to.  The first thing you should do if you are getting down is to change your mindset.
+The way that one feels when encountering things they don't understand may be in correlation about their mindset.
 
+### Growth Mindset
 (TODO: Talk about growth mindset)
 
 Have the mindset that I am going to grow no matter what.
+
+#### Controversey
+Talk about some of the controversey around the theory but that anecdoteally that it has proved to be helpful.
+
+### Deal With Imposter Syndrome
+If you are in a healthy organization with good hiring processes, than there is a reason they hired you
+
+### It's Not Always User Error
+Some Code may just not be well written.  I have been in situations when I've felt self-concious for not understanding how something is working only to realize in the end that it was not well-written code.
+
+### You Are Learning Someone Else Mental Model
+Be kind to yourself.  Sometimes a mental model may come easy to you.  Other times it may not, be kind to yourself as you learn the model.
+
+
+Being in this zone can be unpleasant and can mess with your morale ... but it doesn't have to.  The first thing you should do if you are getting down is to change your mindset.
+
+
 
 ### Reference
 [<a name="growth-mindset-paper">1</a>] Mueller, Claudia M., and Carol S. Dweck. ["Praise for Intelligence Can Undermine Children's Motivation and Performance."][growth-mindset-paper] Journal of Personality and Social Psychology, vol. 75, no. 1, 1998, pp. 33–52., doi:10.1037//0022-3514.75.1.33.
