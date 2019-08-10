@@ -28,7 +28,7 @@ It then hit me why we have experiences of not understanding why or why not somet
 
 > What Can We Do About It?
 
-I will explore and offer encouraging insights and techniques over a series of posts to address this very question.  Stay tuned.
+I will explore and offer encouraging insights and techniques over a series of posts to address this very question.  Stay tuned!
 
 ### Notes
 [<a name="undergrad-experience">a</a>] I was once there.  I remember some instances in undergrad where I submitted programming assignments that passed all the required tests.  This is a great feeling, trust me!  But if I took a step back and were honest, there were instances where I wouldn't have been able to tell you exactly why.

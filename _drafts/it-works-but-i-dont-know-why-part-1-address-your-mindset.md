@@ -13,6 +13,18 @@ series-part: 1
 
 ## Address Your Mindest
 
+The answer to the following question will not only have a big impact on your level of enjoyment and happiness as a software engineer, but it will have a large influence in many aspects of your life.
+
+> How do you feel when you don't understand something?
+
+This seems like a simple question, but the answer is very telling.  Do you tend to feel "down" or get discouraged?  Or do you feel curious are you energized?
+
+Notes
+k
+
+It's very important to separate how you feel about yourself and life from your performance.  you'll be up and down.
+
+
 How does it make you feel when you come across something you don't understand?  Are you curious?  Are you discouraged?  Are you energized?
 
 The way that one feels when encountering things they don't understand may be in correlation about their mindset.
@@ -37,7 +49,7 @@ Be kind to yourself.  Sometimes a mental model may come easy to you.  Other time
 
 Being in this zone can be unpleasant and can mess with your morale ... but it doesn't have to.  The first thing you should do if you are getting down is to change your mindset.
 
-its important to separate how you feel about yourself and life from your performance.  you'll be up and down.
+
 
 
 ### Reference
