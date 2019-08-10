@@ -20,7 +20,7 @@ The answer to the following question will not only have a big impact on your lev
 This seems like a simple question, but the answer is very telling.  Do you tend to feel "down" or get discouraged?  Or do you feel curious are you energized?
 
 Notes
-k
+
 
 It's very important to separate how you feel about yourself and life from your performance.  you'll be up and down.
 
