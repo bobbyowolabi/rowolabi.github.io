@@ -5,7 +5,7 @@ comments: false
 published: false
 ---
 
-I, like many, have applied to many jobs online over the years.  I like many, have had my applications go into the abyss without so much as a reply.  Not too long ago, I relized something.  Out of my three professional work positions, 2 of them were the result of a connection with someone.  The one position I "applied" for was only possible because of my introduction into the industry by the first position I had.
+I, like many, have applied to many jobs online over the years.  I like many, have had my applications go into the abyss without so much as a reply.  Not too long ago, I relized something.  Every professional work position I've held has been the result of some kind of referral with the exception of one.  The one position I "applied" for was only possible because of my introduction into the industry by the first position I had.
 
 Some time ago, I came across the idea that there are different methods; or rather, doors to get into a job.  Here is my take on it.
 
