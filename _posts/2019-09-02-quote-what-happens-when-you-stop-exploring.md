@@ -1,8 +1,10 @@
 ---
 title: Quote - What Happens When You Stop Exploring
+bigimg: /img/path.jpg
 description: 
 comments: true
 published: true
+categories: quotes
 ---
 
 > "As you learn there will always be new

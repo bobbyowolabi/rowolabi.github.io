@@ -5,13 +5,13 @@ bigimg: /img/action-plan-brainstorming-complex-212286.jpg
 description: null
 comments: true
 published: true
-categories: it-works-but-i-dont-know-why
+categories: [it-works-but-i-dont-know-why]
 series-part: 1
 ---
 
 {% include it-works-but-i-dont-know-why-overview.md %}
 
-## Address Your Mindest
+## Address Your Mindset
 
 The answer to the following question will not only have a big impact on your level of enjoyment and happiness as a software engineer, but it will have a large influence in many aspects of your life.
 
