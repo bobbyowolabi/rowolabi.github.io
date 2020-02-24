@@ -4,7 +4,7 @@ title: Proofreading Hack
 bigimg: /img/computer-keyboard-contemporary-desk-930530.jpg
 description: null
 comments: true
-published: true
+published: false
 ---
 
 I don't know about you, but when I write, I often omit words.  It sounds great and complete in my mind, but when I look back and see the mistakes, it looks like I'm a bad writer or have a lack of care (especially in emails).  Sometimes, I write a passage that I know doesn't sound right or flow but I am unsure of how to improve it.  Of course you can't forget about those spelling mistakes or grammar mishaps.

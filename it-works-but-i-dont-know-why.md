@@ -3,7 +3,7 @@ layout: series
 title: It Works But I Don't Know Why
 description: In this series, we are exploring ecouraging insights and techniques to mentally deal with the sentiment of not understanding how to use a system or framework in your everyday work.
 comments: true
-published: false
+published: true
 ---
 
 ## It Works But I Don't Know Why

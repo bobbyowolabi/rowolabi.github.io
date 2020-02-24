@@ -120,7 +120,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title
-paginate: 5
+paginate: 144
 
 kramdown:
   input: GFM

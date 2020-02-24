@@ -5,7 +5,7 @@ bigimg: /img/action-plan-brainstorming-complex-212286.jpg
 description: 
 comments: true
 published: true
-categories: it-works-but-i-dont-know-why
+categories: [it-works-but-i-dont-know-why]
 series-part: 0
 ---
 <p style="text-align: center">

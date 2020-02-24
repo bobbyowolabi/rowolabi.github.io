@@ -19,12 +19,17 @@ No Door
 Cal Newpory argues that doing something rare and valuable is what gets you opportunities
 https://mobile.nytimes.com/2016/11/20/jobs/quit-social-media-your-career-may-depend-on-it.html
 
+------
+This can be turned into its own blog: be-good.md
 Having connections in itself isn't enough.  Be good.
 Dr. Coughlin said there are three things when loooking for someone to play with:
 # Reliable, On Time
 # Proficient & Skilled
 # Pleasant to WOrk With (Not a jerk)
 Having at least 2 of the 3 makes the person viable.  In software, replace being Being Good with writing clean resuable code, Being Pleasant 
+------
+
+
 If you are looking for a startup - maybe clean reusable code isn't necessary, you need a hacker.
 
 Being prolific gets you opportunities

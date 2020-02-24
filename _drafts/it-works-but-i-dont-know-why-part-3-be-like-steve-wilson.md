@@ -4,6 +4,8 @@ bigimg: /img/action-plan-brainstorming-complex-212286.jpg
 description: 
 comments: true
 published: false
+categories: it-works-but-i-dont-know-why
+series-part: 3
 ---
 
 {% include it-works-but-i-dont-know-why-overview.md %}

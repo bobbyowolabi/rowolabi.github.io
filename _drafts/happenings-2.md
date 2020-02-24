@@ -2,7 +2,7 @@
 title: Happenings
 description: 
 comments: true
-published: true
+published: false
 ---
 
 > #### Different Types of Learning
@@ -18,16 +18,15 @@ ___
 > #### Fitness Tips
 [My Six Pack Journey — How I went from Fat to Ripped in 6 months][fitness-journey]
 
+Encouraging post about one's weight loss journey in 6 months.  At the end of the day, I like Chad Fowler's simple adivce, [stick with any legitimate program for 6 months][chad-fowler-weight-loss-advice].  I'm becoming interested in this topic.  Some other good resources I've come across are, [strong lifts][strong-lifts], [] 
 
 
 ___
 
 > #### Great Video Conferencing / Vlogging Setup Tips That Won't 
-GoodBetterBestCreatingTheUltimateRemoteWorkerWebcamSetupOnABudget
-https://www.hanselman.com/blog/GoodBetterBestCreatingTheUltimateRemoteWorkerWebcamSetupOnABudget.aspx
+[Good, Better, Best - creating the ultimate remote worker webcam setup on a budget][hanselman-webcam-setup]
 
-
-
+I have a Sony Alpha a5000 Mirrorless Digital and didn't realize something like that could be turned into a high quality webcam.  Very insightful post.  If I ever want to create high quality videos someday, this is a resource I would revisit.
 
 > #### Headphones While Coding?
 ["My Tweet About Headphones While Coding][bobby-headphones-tweet]
@@ -61,6 +60,8 @@ ___
 
 
 [bobby-headphones-tweet]: https://twitter.com/bobbyowolabi/status/1131600309094998016?s=09
+[chad-fowler-weight-loss-advice]: http://chadfowler.com/life,/weightloss/2011/03/15/the-harajuku-moment.html
+[hanselman-webcam-setup]: https://www.hanselman.com/blog/GoodBetterBestCreatingTheUltimateRemoteWorkerWebcamSetupOnABudget.aspx
 [how-to-learn]: https://medium.com/better-programming/how-to-learn-a-new-programming-language-fast-5fe269370210
 [fitness-journey]: https://medium.com/@bholagabbar/my-six-pack-journey-how-i-went-from-fat-to-ripped-in-6-months-df0b4a542015
 <!-- https://www.jessesquires.com/blog/linked-out/ -->
