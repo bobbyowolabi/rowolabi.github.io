@@ -12,8 +12,9 @@ published: true
 
 *In this series, we are exploring ecouraging insights and techniques to <br/> mentally deal with the sentiment of not understanding <br/> how to use a system or framework in your everyday work.*
 
-
-{% assign posts = site.categories.it-works-but-i-dont-know-why | sort: "series-part" %}
-{% for post in posts %}
-  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} {{ post.sub-title }}</a>
-{% endfor %}
+{% if site.categories.it-works-but-i-dont-know-why %}
+   {% assign posts = site.categories.it-works-but-i-dont-know-why | sort: "series-part" %}
+   {% for post in posts %}
+      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} {{ post.sub-title }}</a>
+   {% endfor %}
+{% endif %}
