@@ -1,9 +1,10 @@
 ---
 title: Happenings
-description: 
+description: A list of notable "Happenings" from around the web.  Today's editions includes Susan Fowler, Automattic, Tumblr, Tom MacWright and Gregory Schier.
 comments: true
-published: false
+published: true
 ---
+I have a big of backlog of interesting "happenings" around the web that I have been meaning to share for some time.
 
 > #### Susan Fowler Announces Her Memoir About Her Time @ Uber
 [Whistleblower: My Journey to Silicon Valley and Fight for Justice at Uber][susan-fowler-memoir] 

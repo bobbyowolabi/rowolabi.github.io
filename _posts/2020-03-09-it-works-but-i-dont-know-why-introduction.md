@@ -2,7 +2,7 @@
 title: It Works But I Don't Know Why
 sub-title: Introduction
 bigimg: /img/action-plan-brainstorming-complex-212286.jpg
-description: 
+description: Introduction to series exploring ecouraging insights and techniques to mentally deal with the sentiment of not understanding how to use a system or framework in your everyday work.
 comments: true
 published: true
 categories: [it-works-but-i-dont-know-why]

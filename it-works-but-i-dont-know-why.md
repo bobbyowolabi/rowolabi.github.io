@@ -15,6 +15,6 @@ published: true
 {% if site.categories.it-works-but-i-dont-know-why %}
    {% assign posts = site.categories.it-works-but-i-dont-know-why | sort: "series-part" %}
    {% for post in posts %}
-      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} {{ post.sub-title }}</a>
+<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }} {{ post.sub-title }}</a>
    {% endfor %}
 {% endif %}

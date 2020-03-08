@@ -4,7 +4,7 @@ title: It Works But I Don't Know Why Part 1 - Address Your Mindset
 bigimg: /img/action-plan-brainstorming-complex-212286.jpg
 description: null
 comments: true
-published: false
+published: true
 categories: [it-works-but-i-dont-know-why]
 series-part: 1
 ---
@@ -17,14 +17,25 @@ The answer to the following question will not only have a big impact on your lev
 
 > How do you feel when you don't understand something?
 
-This seems like a simple question, but the answer is very telling.  What if this feeling continues for days, weeks or even a year?  Do you tend to feel "down" or get discouraged?  Or do you feel curious?  Are you energized?
+This seems like a simple question, but the answer is very telling.  Do you tend to feel "down" or get discouraged?  What if this feeling continues for days, weeks or even a year?  Or do you feel curious?  Are you energized?
 
 The way that one feels when encountering things they don't understand may be in correlation to their mindset.  If you do find yourself discouraged in these types of situations, know that this is a choice you don't have to make!  If you are getting down, consider altering your mindset.
 
 ### Growth Mindset
-(TODO: Talk about growth mindset)
+Imagine a child comes home from school with an excellent grade on their examination ... what would be an appropriate response from a guardian?
 
-_Describe the Growth Mindset Study That Was done on children._
+> What a great job!  You are so intelligent and I'm proud of you!
+
+OR
+
+> What a great job!  I'm so proud of how hard you worked to prepare for this exam.  Keep up the good work!
+
+Both responses above are positive; however, if the second of the two resonates with you more, you may already have a growth leaning mindset.
+
+In the famous paper, ["Praise for Intelligence Can Undermine Children's Motivation and Performance,"][growth-mindset-paper], Claudia M. Mueller and Carol S. Dweck conduct a series of 
+
+_Describe how this relates to mindset?_
+
 
 #### Controversey
 Talk about some of the controversey around the theory but that anecdoteally that it has proved to be helpful.

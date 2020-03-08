@@ -3,7 +3,7 @@ layout: post
 title: Notes on Soft Skills - The Software Developer’s Life Manual
 description: null
 comments: true
-published: true
+published: false
 categories: [book-notes]
 ---
 
