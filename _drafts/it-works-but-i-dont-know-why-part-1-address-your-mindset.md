@@ -32,7 +32,7 @@ OR
 
 Both responses above are positive; however, if the second of the two resonates with you more, you may already have a growth leaning mindset.
 
-In the famous paper, ["Praise for Intelligence Can Undermine Children's Motivation and Performance,"][growth-mindset-paper], Claudia M. Mueller and Carol S. Dweck conduct a series of 
+In the famous paper, ["Praise for Intelligence Can Undermine Children's Motivation and Performance,"][growth-mindset-paper] Claudia M. Mueller and Carol S. Dweck conduct a series of 
 
 _Describe how this relates to mindset?_
 
