@@ -5,6 +5,7 @@ description:
 comments: true
 published: true
 categories: quotes
+permalink: /:title
 ---
 
 > "As you learn there will always be new

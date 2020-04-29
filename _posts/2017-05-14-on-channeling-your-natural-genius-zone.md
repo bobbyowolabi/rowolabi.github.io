@@ -3,6 +3,7 @@ title: On Channeling Your Natural Genius Zone
 description: This is my first blog post!  In this post, I use Sam Newsome's concept of one's "Inner Genius" to facilitate motivation for this blog and give praise for various "inner geniuses" I have observed.  Hopefully this will encourage others and myself in the process.
 header: On Channeling Your Natural Genius Zone
 comments: true
+permalink: /:title
 ---
 
 Often times a barrier to starting a blog, or any public undertaking, is thinking that you have nothing to say.  Or rather, ‘what I have to say isn’t deep enough.’  The truth of the matter is that we all have strengths, we tend to trivialize and take them for granted.

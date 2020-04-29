@@ -7,6 +7,7 @@ comments: true
 published: true
 categories: [it-works-but-i-dont-know-why]
 series-part: 0
+permalink: /:title
 ---
 <p style="text-align: center">
 	<a href="/it-works-but-i-dont-know-why">It Works But I Don't Know Why</a>

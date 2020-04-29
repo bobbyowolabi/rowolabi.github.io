@@ -2,6 +2,7 @@
 title: Is a PhD Needed for Signal Processing Research or Engineering?
 description: This is a repost of a response I made to a question on the DSP subreddit; namely, "Do you need a PHD to be a research scientist or algorithm engineer in signal processing?"
 comments: true
+permalink: /:title
 ---
 
 Over the past few weeks, I've come across questions in forums of people asking about getting into signal processing related fields.  I've responded to a few, as this is also an interest of mine.  One response turned out to be a blog post in a sense.  I decided to repost on share it here:

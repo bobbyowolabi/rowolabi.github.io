@@ -2,6 +2,7 @@
 title: Document - Creating Test Certificates
 description: Sometimes you need to create test certificates for unit tests.  In this post I share the steps I've used to accomplish this.
 comments: true
+permalink: /:title
 ---
 
 You may come across a situation where you need to create test certificates for a unit test.  This can be accomplished with the following steps:

@@ -5,6 +5,7 @@ show-avatar: false
 description: The saxophone is my favorite musical instrument.  In this post I explore six individuals (Matt Mullenweg, Gary Scavone, George Tzanetakis, Kyle Coughlin, Nick Caldwell & Chad Fowler) who have programmed and played music at some point in their lives ... specifically who have played the saxophone.
 comments: true
 published: true
+permalink: /:title
 ---
 
 The saxophone is my favorite instrument.  I love to hear players with [great tones][lefkowitz-brown-recordame] <sup>[[a]](#great-tone)</sup>.  The piano is great as well.  I love it when people play cool chords in succession:

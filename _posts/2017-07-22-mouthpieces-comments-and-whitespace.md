@@ -2,6 +2,7 @@
 title: Mouthpieces, Comments & Whitespace
 description: In this post I explore the concept of learning seemingly basic lessons that catapult one's developement in their craft.  I take two exmaples taken from my life, one involving a mouthpiece and the other involving comments and whitespace.     
 comments: true
+permalink: /:title
 ---
 
 Sometimes there is a lesson, exercise or concept that you learn that just catapults your development forward.  It could be a small thing … something not so obviously influential; but once you absorb it, your craft just moves forward.

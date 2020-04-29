@@ -2,6 +2,7 @@
 title: Programming Is Not Like Playing Music
 description: A lot of times people like to make the case that programming is similar to creating music.  In this post I make the case that programing is not like playing music by stating a short, simple and basic truth ...
 comments: true
+permalink: /:title
 ---
 
 Over the years I’ve come across various blog posts and articles stating that creating music is very similar to writing software.  They describe the creative process that fuels both fields.  They point to the number of musicians that have functioned successfully as software engineers.  This is all true, but there is one fundamental difference that separates music from programming …

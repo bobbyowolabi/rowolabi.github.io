@@ -5,6 +5,7 @@ bigimg: /img/computer-keyboard-contemporary-desk-930530.jpg
 description: A simple "hack" to improve your writing on the computer ... computer dictation, aka "text to speech," is the name of the game.
 comments: true
 published: true
+permalink: /:title
 ---
 
 I don't know about you, but when I write, I often omit words.  It sounds great and complete in my mind, but when I look back and see the mistakes, it looks like I'm a bad writer or have a lack of care (especially in emails).  Sometimes, I write a passage that I know doesn't sound right or flow but I am unsure of how to improve it at the given moment.  Of course you can't forget about those spelling mistakes or grammar mishaps.

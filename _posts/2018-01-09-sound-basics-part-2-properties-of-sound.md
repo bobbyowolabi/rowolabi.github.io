@@ -4,6 +4,7 @@ description: In part 2 of an ongoing series exploring sound, we move on from exp
 comments: true
 published: true
 categories: sound-basics
+permalink: /:title
 ---
 
 We now have an idea of [what sound is][part-1-what-is-sound]; namely, a disruption in a medium, such as air, that causes molecules to hit each other causing a propagation (wave) of that initial disruption to the ears of a listener.
